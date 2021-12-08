@@ -39,9 +39,9 @@ docker-build:
   --tag $(DOCKER_TAG):latest .
 
 docker-run:
-	docker run -p 7000:7000 $(DOCKER_TAG):$(RELEASE)
+	docker run -p 7000:7000 $(DOCKER_TAG):latest
 
 # private tasks
 docker-push:
 	docker login --username=$(DOCKER_USERNAME) --password=$(DOCKER_PASSWORD)
-	docker push bandnoticeboard/geolocations_api:latest
+	docker push $(DOCKER_TAG):latest
