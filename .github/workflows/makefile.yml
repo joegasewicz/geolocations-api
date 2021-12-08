@@ -16,4 +16,4 @@ jobs:
       run: make docker-build RELEASE=${{ steps.release.outputs.version }}
       
     - name: Install dependencies
-      run: make docker-push DOCKER_USERNAME=${{ secrets.DOCKER_USERNAME }}, DOCKER_PASSWORD=${{ secrets.DOCKER_PASSWORD }}, DOCKER_EMAIL={{ secrets.DOCKER_EMAIL }}
+      run: make docker-push DOCKER_USERNAME=${{ secrets.DOCKER_USERNAME }}, DOCKER_PASSWORD=${{ secrets.DOCKER_PASSWORD }}
