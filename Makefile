@@ -1,11 +1,17 @@
+# Mongodb variables
 DB_NAME=towns_db
 DB_USERNAME=admin
 DB_PASSWORD=admin
 MONGO_VOLUME=mongodb_data
-API_PORT=7000
-API_HOST=locahost
+# Docker variables
 DOCKER_TAG=bandnoticeboard/geolocations-api
 DOCKER_NAME=bandnoticeboard_geolocations-api
+# API variables
+API_DB_NAME=towns_db
+API_DB_USERNAME=admin
+API_DB_PASSWORD=admin
+API_DB_HOST=host.docker.internal
+API_DB_PORT=27017
 
 locations-api-server:
 	pipenv run uvicorn api.main:app --reload
@@ -24,7 +30,13 @@ mongo-import-towns:
 	mongoimport -d bn_database -c towns --file ./towns.json --authenticationDatabase admin --username $(DB_USERNAME) --password $(DB_PASSWORD) --host localhost --port 27017
 
 docker-build:
-	docker build --tag $(DOCKER_TAG):latest .
+	docker build \
+  --build-arg API_DB_NAME=$(API_DB_NAME) \
+  --build-arg API_DB_USERNAME=$(API_DB_USERNAME) \
+  --build-arg API_DB_PASSWORD=$(API_DB_PASSWORD) \
+  --build-arg API_DB_HOST=$(API_DB_HOST) \
+  --build-arg API_DB_PORT=$(API_DB_PORT) \
+  --tag $(DOCKER_TAG):latest .
 
 docker-run:
 	docker run -p 7000:7000 $(DOCKER_TAG):latest

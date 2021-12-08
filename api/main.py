@@ -1,3 +1,4 @@
+import os
 from typing import List
 from fastapi import FastAPI
 from fastapi.encoders import jsonable_encoder
@@ -7,12 +8,14 @@ from mongo_id_marshaller import MongoId
 from pydantic import BaseModel
 from pymongo import MongoClient
 
-DB_NAME = "towns_db"
-DB_USERNAME = "admin"
-DB_PASSWORD = "admin"
-DB_HOST = "host.docker.internal"
+# We want a KeyError if any of these variables are not defined
+API_DB_NAME = os.environ["API_DB_NAME"]
+API_DB_USERNAME = os.environ["API_DB_USERNAME"]
+API_DB_PASSWORD = os.environ["API_DB_PASSWORD"]
+API_DB_HOST = os.environ["API_DB_HOST"]
+API_DB_PORT = os.environ["API_DB_PORT"]
 
-client = MongoClient(f"mongodb://{DB_USERNAME}:{DB_PASSWORD}@{DB_HOST}:27017")
+client = MongoClient(f"mongodb://{API_DB_USERNAME}:{API_DB_PASSWORD}@{API_DB_HOST}:{int(API_DB_PORT)}")
 app = FastAPI()
 mongo_id = MongoId()
 
