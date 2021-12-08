@@ -7,16 +7,24 @@ from mongo_id_marshaller import MongoId
 from pydantic import BaseModel
 from pymongo import MongoClient
 
+DB_NAME = "towns_db"
+DB_USERNAME = "admin"
+DB_PASSWORD = "admin"
+DB_HOST = "host.docker.internal"
 
-client = MongoClient("mongodb://admin:admin@localhost:27017")
+client = MongoClient(f"mongodb://{DB_USERNAME}:{DB_PASSWORD}@{DB_HOST}:27017")
 app = FastAPI()
 mongo_id = MongoId()
 
 db = client.bn_database
 
 origins = [
-    "http://localhost:8080",
+    # To restrict access use below examples instead of "*"
+    # "http://localhost",
+    # "http://localhost:8000",
+    "*"
 ]
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
@@ -24,6 +32,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"]
 )
+
 
 class Town(BaseModel):
     id: str
