@@ -4,6 +4,9 @@ DB_USERNAME=admin
 DB_PASSWORD=admin
 MONGO_VOLUME=mongodb_data
 # Docker variables
+#DOCKER_USERNAME=
+#DOCKER_PASSWORD=
+#DOCKER_EMAIL=
 DOCKER_TAG=bandnoticeboard/geolocations-api
 DOCKER_NAME=bandnoticeboard_geolocations-api
 # API variables
@@ -42,6 +45,6 @@ docker-run:
 	docker run -p 7000:7000 $(DOCKER_TAG):latest
 
 # private tasks
-docker-update:
-	docker login
+docker-push:
+	docker login --username=$(DOCKER_USERNAME) --password=$(DOCKER_PASSWORD) --email $(DOCKER_EMAIL)
 	docker push $(DOCKER_TAG):latest
