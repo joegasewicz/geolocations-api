@@ -3,6 +3,7 @@ DB_USERNAME=admin
 DB_PASSWORD=admin
 MONGO_VOLUME=mongodb_data
 API_PORT=7000
+API_HOST=locahost
 DOCKER_TAG=bandnoticeboard/geolocations-api
 DOCKER_NAME=bandnoticeboard_geolocations-api
 
