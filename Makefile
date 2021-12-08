@@ -42,7 +42,7 @@ docker-build:
   --tag $(DOCKER_TAG):latest .
 
 docker-run:
-	docker run -p 7000:7000 $(DOCKER_TAG):latest
+	docker run -p 7000:7000 $(DOCKER_TAG):$(RELEASE)
 
 # private tasks
 docker-push:
