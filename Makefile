@@ -43,5 +43,5 @@ docker-run:
 
 # private tasks
 docker-push:
-	docker login --username=$(DOCKER_USERNAME) --password=$(DOCKER_PASSWORD) --email=$(DOCKER_EMAIL)
+	docker login --username=$(DOCKER_USERNAME) --password=$(DOCKER_PASSWORD)
 	docker push $(DOCKER_TAG):latest
