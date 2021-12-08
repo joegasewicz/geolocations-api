@@ -44,4 +44,4 @@ docker-run:
 # private tasks
 docker-push:
 	docker login --username=$(DOCKER_USERNAME) --password=$(DOCKER_PASSWORD)
-	docker push bandnoticeboard/geolocations-api:$(RELEASE)
+	docker push bandnoticeboard/geolocations_api:$(RELEASE)
