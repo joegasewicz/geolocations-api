@@ -2,11 +2,17 @@
 United Kingdom Town / City geolocations with FastAPI  &amp; Mongo
 
 # Build container
-To build a custom or extend the api run the following cmds
+To build a custom image or extend the api run the following cmds
 ```bash
-# update the following varibles as require
+# update the following variables as required
 API_PORT=7000
 API_HOST=locahost
+# API variables
+API_DB_NAME=towns_db
+API_DB_USERNAME=admin
+API_DB_PASSWORD=admin
+API_DB_HOST=host.docker.internal
+API_DB_PORT=27017
 
 # Then build & run
 make docker-build

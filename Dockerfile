@@ -2,6 +2,18 @@ FROM python:3.10-slim-buster
 
 WORKDIR /geolocations-api
 
+ARG API_DB_NAME
+ARG API_DB_USERNAME
+ARG API_DB_PASSWORD
+ARG API_DB_HOST
+ARG API_DB_PORT
+
+ENV API_DB_NAME=${API_DB_NAME}
+ENV API_DB_USERNAME=${API_DB_USERNAME}
+ENV API_DB_PASSWORD=${API_DB_PASSWORD}
+ENV API_DB_HOST=${API_DB_HOST}
+ENV API_DB_PORT=${API_DB_PORT}
+
 RUN pip install pipenv
 RUN apt-get update && apt-get install -y --no-install-recommends gcc
 
