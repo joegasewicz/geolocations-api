@@ -1,6 +1,6 @@
 [![Makefile CI](https://github.com/joegasewicz/geolocations-api/actions/workflows/makefile.yml/badge.svg)](https://github.com/joegasewicz/geolocations-api/actions/workflows/makefile.yml)
 # Geolocations Api
-United Kingdom Town / City geolocations with FastAPI  &amp; Mongo
+Geolocations with FastAPI  &amp; Mongo. United Kingdom Town / Cities is the only region supported but other regions will be supported in the future.
 
 # Quick Start
 1. Run mongodb
