@@ -1,5 +1,5 @@
 [![Makefile CI](https://github.com/joegasewicz/geolocations-api/actions/workflows/makefile.yml/badge.svg)](https://github.com/joegasewicz/geolocations-api/actions/workflows/makefile.yml)
-# geolocations-api
+# Geolocations Api
 United Kingdom Town / City geolocations with FastAPI  &amp; Mongo
 
 # Quick Start
