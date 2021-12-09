@@ -1,0 +1,29 @@
+version: "3"
+
+services:
+
+  geolocations_api:
+    image: "bandnoticeboard/geolocations-api:latest"
+    ports:
+      - "7000:7000"
+    environment:
+      API_DB_NAME: towns_db
+      API_DB_USERNAME: admin
+      API_DB_PASSWORD: admin
+      API_DB_HOST: host.docker.internal
+      API_DB_PORT: 27017
+
+  bn_mongodb:
+    environment:
+      MONGO_INITDB_DATABASE: towns_db
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    image: "mongo:latest"
+    volumes:
+      - ./mongodb_data:/data/towns_db
+    ports:
+      - "27017:27017"
+
+volumes:
+  mongodb_data:
+    external: true
