@@ -10,4 +10,5 @@
 - API port and host variables 🎈 [Issue #7](https://github.com/joegasewicz/geolocations-api/issues/7)
 
 ### Unreleased
+- Update Readme 🎈 [Issue #22](https://github.com/joegasewicz/geolocations-api/issues22)
 
