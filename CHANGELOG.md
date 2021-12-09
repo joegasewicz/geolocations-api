@@ -10,5 +10,7 @@
 - API port and host variables 🎈 [Issue #7](https://github.com/joegasewicz/geolocations-api/issues/7)
 
 ### Unreleased
+
 - Update Readme 🎈 [Issue #22](https://github.com/joegasewicz/geolocations-api/issues22)
+- Add an example docker-compose.example.yml file 🎈 [Issue #25](https://github.com/joegasewicz/geolocations-api/issues25)
 

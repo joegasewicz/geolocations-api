@@ -2,7 +2,7 @@
 # Geolocations Api
 Geolocations with FastAPI  &amp; Mongo. United Kingdom is currently the only region supported but other regions will be supported in the future.
 
-# Quick Start
+## Quick Start
 1. Run mongodb
 2. Clone & cd into the root folder of this repo
 3. Make sure you have `mongoimport` cmd installed & run the following make task:
@@ -40,33 +40,25 @@ Will return
 ]
 ```
 
-# Build container
-To build a custom image or extend the api run the following cmds
+## Docker Compose Example
+See [docker-compose.example.yml](https://github.com/joegasewicz/geolocations-api/docker-compose.example.yml)
 ```bash
-# update the following variables as required
-API_PORT=7000
-API_HOST=locahost
-# API variables
-API_DB_NAME=towns_db
-API_DB_USERNAME=admin
-API_DB_PASSWORD=admin
-API_DB_HOST=host.docker.internal
-API_DB_PORT=27017
+version: "3"
 
-# Then build & run
-make docker-build
-make docker-run
-```
+services:
 
-# Build locally instructions
-Open `Makefile` in your ide & update the following varables as required:
-```bash
-DB_NAME=<YOUR_DB_NAME>
-DB_USERNAME=<YOUR_DB_USERNAME>
-DB_PASSWORD=<YOUR_DB_PASSWORD>
+  geolocations_api:
+    image: "bandnoticeboard/geolocations-api:latest"
+    ports:
+      - "7000:7000"
+    environment:
+      API_DB_NAME: towns_db
+      API_DB_USERNAME: admin
+      API_DB_PASSWORD: admin
+      API_DB_HOST: host.docker.internal
+      API_DB_PORT: 27017
 ```
+## Contributing
+PR's are welcome for bug fixes or open an issue.
 
-Make sure you have `mongoimport` command available & run the below command to import the towns JSON dump
-```bash
-make mongo-import-towns
-```
+For new features or adding new country geolocation dumps please open an issue first.
