@@ -13,7 +13,7 @@ make mongo-import-towns
 # OR run the following cmd:
 mongoimport -d bn_database -c towns --file ./towns.json --authenticationDatabase admin --username <YOUR_USERNAME> --password <YOUR_PASSWORD> --host localhost --port 27017
 ```
-4. Run the latest version of geolocations-api
+5. Run the latest version of geolocations-api
 ```bash
 docker run bandnoticeboard/geolocations-api
 ```
