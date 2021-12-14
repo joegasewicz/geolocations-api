@@ -17,7 +17,7 @@ mongoimport -d bn_database -c towns --file ./towns.json --authenticationDatabase
 ```bash
 docker run bandnoticeboard/geolocations-api
 ```
-Or using docker-compose run mongodb & geolocation-api containers, see [docker-compose example](https://github.com/joegasewicz/geolocations-api/blob/master/docker-compose.example.yml)
+Or using docker-compose run mongodb & geolocation-api containers. See [docker-compose example](https://github.com/joegasewicz/geolocations-api/blob/master/docker-compose.example.yml)
 
 # Example Queries
 Currently, the api returns 5 entrees per query
