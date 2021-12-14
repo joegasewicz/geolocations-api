@@ -5,7 +5,8 @@ Geolocations with FastAPI  &amp; Mongo. United Kingdom is currently the only reg
 ## Quick Start
 1. Run mongodb
 2. Clone & cd into the root folder of this repo
-3. Make sure you have `mongoimport` cmd installed & run the following make task:
+3. Setup a mongo database as a container - see [docker-compose example](https://github.com/joegasewicz/geolocations-api/blob/master/docker-compose.example.yml)
+4. Make sure you have `mongoimport` cmd installed & run the following make task:
 ```bash
 # This will create a `towns` table in your db from the `towns.json` dump
 make mongo-import-towns
