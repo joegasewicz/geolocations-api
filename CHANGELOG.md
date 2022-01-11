@@ -11,6 +11,6 @@
 
 ### Unreleased
 
+- Error calling make mongo-import-towns 🪲 [Issue #27](https://github.com/joegasewicz/geolocations-api/issues27)
 - Update Readme 🎈 [Issue #22](https://github.com/joegasewicz/geolocations-api/issues22)
 - Add an example docker-compose.example.yml file 🎈 [Issue #25](https://github.com/joegasewicz/geolocations-api/issues25)
-
