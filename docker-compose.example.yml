@@ -3,6 +3,9 @@ version: "3"
 services:
 
   geolocations_api:
+# Uncomment if you are on Linux
+#    extra_hosts:
+#      - "host.docker.internal:host-gateway"
     image: "bandnoticeboard/geolocations-api:latest"
     ports:
       - "7000:7000"
