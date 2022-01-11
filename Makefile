@@ -27,7 +27,7 @@ docker-compose-up:
 	docker-compose up
 
 mongo-import-towns:
-	mongoimport -d bn_database -c towns --file ./towns.json --authenticationDatabase admin --username $(DB_USERNAME) --password $(DB_PASSWORD) --host localhost --port 27017
+	mongoimport -d $(API_DB_NAME) -c towns --file ./towns.json --authenticationDatabase admin --username $(DB_USERNAME) --password $(DB_PASSWORD) --host localhost --port 27017
 
 docker-build:
 	docker build \
