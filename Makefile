@@ -12,6 +12,8 @@ API_DB_USERNAME=admin
 API_DB_PASSWORD=admin
 API_DB_HOST=host.docker.internal
 API_DB_PORT=27017
+SERVER_PORT=6000
+SERVER_HOST=0.0.0.0
 
 locations-api-server:
 	pipenv run uvicorn api.main:app --reload
@@ -36,10 +38,12 @@ docker-build:
   --build-arg API_DB_PASSWORD=$(API_DB_PASSWORD) \
   --build-arg API_DB_HOST=$(API_DB_HOST) \
   --build-arg API_DB_PORT=$(API_DB_PORT) \
+  --build-arg SERVER_PORT=$(SERVER_PORT) \
+  --build-arg SERVER_HOST=$(SERVER_HOST) \
   --tag $(DOCKER_TAG):latest .
 
 docker-run:
-	docker run -p 7000:7000 $(DOCKER_TAG):latest
+	docker run -p $(SERVER_PORT):$(SERVER_PORT) $(DOCKER_TAG):latest
 
 # private tasks
 docker-push:

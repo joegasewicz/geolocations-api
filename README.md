@@ -24,7 +24,7 @@ Currently, the api returns 5 entrees per query
 
 Use the `name` query param to fetch the first 5 similar results:
 ```bash
-curl http://localhost:7000/towns?name=col
+curl http://localhost:6000/towns?name=col
 ```
 Will return 
 ```bash
@@ -56,13 +56,15 @@ services:
 #      - "host.docker.internal:host-gateway"
     image: "bandnoticeboard/geolocations-api:latest"
     ports:
-      - "7000:7000"
+      - "6000:6000"
     environment:
       API_DB_NAME: towns_db
       API_DB_USERNAME: admin
       API_DB_PASSWORD: admin
       API_DB_HOST: host.docker.internal
       API_DB_PORT: 27017
+      SERVER_PORT: 6000
+      SERVER_HOST: 0.0.0.0
 ```
 ## Contributing
 PR's are welcome for bug fixes or open an issue.
