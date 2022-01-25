@@ -11,6 +11,7 @@
 
 ### Unreleased
 
+- API port and host variables  🎈 [Issue #7](https://github.com/joegasewicz/geolocations-api/issues7)
 - Running on Linux 🪲 [Issue #29](https://github.com/joegasewicz/geolocations-api/issues29)
 - Error calling make mongo-import-towns 🪲 [Issue #27](https://github.com/joegasewicz/geolocations-api/issues27)
 - Update Readme 🎈 [Issue #22](https://github.com/joegasewicz/geolocations-api/issues22)
