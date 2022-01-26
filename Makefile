@@ -12,7 +12,7 @@ API_DB_USERNAME=admin
 API_DB_PASSWORD=admin
 API_DB_HOST=host.docker.internal
 API_DB_PORT=27017
-SERVER_PORT=6000
+SERVER_PORT=8000
 SERVER_HOST=0.0.0.0
 
 locations-api-server:

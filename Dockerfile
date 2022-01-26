@@ -27,4 +27,4 @@ COPY api api
 
 RUN pipenv install --deploy
 
-CMD [ "pipenv","run", "uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "6000"]
+CMD [ "pipenv","run", "uvicorn", "api.main:app", "--host", "$SERVER_HOST", "--port", "$SERVER_PORT"]
