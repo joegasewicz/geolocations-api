@@ -4,21 +4,20 @@ from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.models.taskinstance import TaskInstance
 from airflow.operators.python import PythonOperator
+from airflow.operators.bash import BashOperator
 from airflow.providers.common.sql.operators.sql import SQLExecuteQueryOperator
 import pandas as pd
 
 
 def extract(ti: TaskInstance):
-    file_path = "/data/Major_Towns_and_Cities_Dec_2015_Boundaries_V2_2022_140358522642712462.csv"
+    file_path = "/etl-data/Major_Towns_and_Cities_Dec_2015_Boundaries_V2_2022_140358522642712462.csv"
     if pd is None:
         raise ModuleNotFoundError("Pandas not installed!")
-    if file_path is None:
-        raise FileNotFoundError(f"File not found: {file_path}")
     ti.xcom_push(key="file_path", value=file_path)
 
 
 def transform(ti: TaskInstance):
-    transform_file_path = "/data/uk_ons_locations_transform.csv"
+    transform_file_path = "/etl-data/uk_ons_locations_transform.csv"
     file_path = ti.xcom_pull(task_ids="extract", key="file_path")
     df = pd.read_csv(file_path)
     df = df.drop(columns=["OBJECTID", "TCITY15CD", "BNG_E", "BNG_N", "Shape__Area", "Shape__Length", "GlobalID"])
@@ -35,7 +34,7 @@ def transform(ti: TaskInstance):
 
 default_args = {
     "owner": "geolocations-api",
-    "retries": 5,
+    "retries": 1,
     "retry_delay": timedelta(seconds=5),
 }
 
@@ -48,6 +47,11 @@ with DAG(
     start_date=datetime(2025, 1, 5),
     catchup=False,
 ) as dag:
+
+    bash_task = BashOperator(
+        task_id="bash_task",
+        bash_command="chmod a+x /etl-data/Major_Towns_and_Cities_Dec_2015_Boundaries_V2_2022_140358522642712462.csv",
+    )
 
     extract_task = PythonOperator(
         task_id="extract",
@@ -67,10 +71,11 @@ with DAG(
             id SERIAL PRIMARY KEY,
             towns VARCHAR(255) NOT NULL,
             longtitude double precision,
-            latitude double precision,
+            latitude double precision
         );
         """
     )
 
+    # bash_task.set_downstream(extract_task)
     extract_task.set_downstream(transform_task)
     transform_task.set_downstream(create_tables_task)
