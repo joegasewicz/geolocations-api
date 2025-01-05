@@ -18,3 +18,6 @@ make airflow
 3. Make sure Rust & Cargo are installed on your machine.
 4. Make sure you have Python version `3.12` installed.
 5. Run `pipenv install`. We only install `apache-airflow` for the typings when developing airflow DAGS.
+
+### Load
+After extraction, the data is loaded into the postgres `location_etl_db` database running on port `5433` 
