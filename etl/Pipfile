@@ -4,8 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+google-re2 = "*"
+apache-airflow = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.13"
+python_version = "3.12"

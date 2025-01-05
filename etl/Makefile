@@ -3,3 +3,6 @@ aiflow-init:
 
 airflow:
 	docker compose -f docker-compose.airflow.yaml up
+
+airflow-down:
+	docker compose -f docker-compose.airflow.yaml down -v
