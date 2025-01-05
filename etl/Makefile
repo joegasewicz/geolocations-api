@@ -6,3 +6,6 @@ airflow:
 
 airflow-down:
 	docker compose -f docker-compose.airflow.yaml down -v
+
+prune:
+	docker system prune --all

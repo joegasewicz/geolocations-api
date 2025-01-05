@@ -14,5 +14,10 @@
 
 ## docker compose
 db-data_local
+db-data_test
 
 */logs
+
+# ETL
+
+*/etl/bin
