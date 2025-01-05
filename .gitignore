@@ -1,7 +1,7 @@
 .idea/
 .vscode/
-*/.idea
-*/.vscode
+*/.idea/
+*/.vscode/
 */*/cmake-build-debug
 */node_modules/
 */__pycache__/
@@ -14,3 +14,5 @@
 
 ## docker compose
 db-data_local
+
+*/logs
