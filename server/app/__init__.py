@@ -5,10 +5,12 @@ from app.handlers import (
     LocationHandler,
 )
 from app.config import Config
+from app.utils.server import get_version
 
 
 def make_app(config: Config) -> tornado.web.Application:
+    version = get_version(config)
     return tornado.web.Application([
-        (r"/health", HealthHandler),
-        (r"/locations", LocationHandler),
+        (fr"{version}/health", HealthHandler),
+        (fr"{version}/locations", LocationHandler),
     ])

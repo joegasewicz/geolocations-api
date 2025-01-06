@@ -6,3 +6,6 @@ aiflow-init:
 
 airflow:
 	docker compose -f docker-compose.airflow.yaml up
+
+prune:
+	docker system prune --all

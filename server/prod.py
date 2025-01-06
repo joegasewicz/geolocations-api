@@ -15,15 +15,13 @@ from app import make_app
 from app.utils.logger import logger
 from app.config import Config
 
-PORT = 8888
-
 
 async def main(config: Config):
     app = make_app(config)
-    app.listen(PORT)
+    app.listen(config.SERVER_PORT)
     await asyncio.Event().wait()
 
-
 if __name__ == "__main__":
-    logger.info(f"Starting server on http://127.0.0.1:{Config.SERVER_PORT}")
-    asyncio.run(main(Config()))
+    config = Config()
+    logger.info(f"Starting server on http://127.0.0.1:{config.SERVER_PORT}")
+    asyncio.run(main(config))
