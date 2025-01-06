@@ -10,6 +10,7 @@ psycopg2-binary = "*"
 asyncpg = "*"
 apache-airflow = {extras = ["postgres"], version = "*"}
 pandas = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 jupyter = "*"

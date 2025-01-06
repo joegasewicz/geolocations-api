@@ -7,6 +7,28 @@ from airflow.operators.python import PythonOperator
 from airflow.operators.bash import BashOperator
 from airflow.providers.common.sql.operators.sql import SQLExecuteQueryOperator
 import pandas as pd
+from sqlalchemy import create_engine
+
+DB_NAME = "location_etl_db"
+DB_PORT = 5433
+DB_USERNAME = "admin"
+DB_PASSWORD = "admin"
+DB_HOST = "host.docker.internal"
+
+def get_pg_conn() -> str:
+    return f"postgresql+psycopg2://{DB_USERNAME}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+
+
+def dump_dataframe(ti: TaskInstance):
+    transform_file_path = ti.xcom_pull(task_ids="transform", key="transform_file_path")
+    engine = create_engine(get_pg_conn())
+    df = pd.read_csv(transform_file_path)
+    try:
+        df.to_sql("locations", con=engine, if_exists="replace", index=False)
+    except Exception as err:
+        print(f"Error dumping {transform_file_path}")
+    finally:
+        engine.dispose()
 
 
 def extract(ti: TaskInstance):
@@ -38,9 +60,8 @@ default_args = {
     "retry_delay": timedelta(seconds=5),
 }
 
-
 with DAG(
-    dag_id="uk-ons-locations-dag-v3",
+    dag_id="uk-ons-locations-dag-v2",
     default_args=default_args,
     description="DAG for loading ONS locations data to postgres",
     schedule_interval="@once",
@@ -76,6 +97,11 @@ with DAG(
         """
     )
 
+    dump_dataframe_task = PythonOperator(
+        task_id="dump_dataframe",
+        python_callable=dump_dataframe,
+    )
     # bash_task.set_downstream(extract_task)
     extract_task.set_downstream(transform_task)
     transform_task.set_downstream(create_tables_task)
+    create_tables_task.set_downstream(dump_dataframe_task)

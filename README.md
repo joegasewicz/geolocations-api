@@ -8,6 +8,9 @@ Work in progress 🚧, please call back soon...
 ### ETL
 ETL pipelines with [Apache Airflow](https://airflow.apache.org/). See [etl](etl)
 
+#### Run Apache Airflow
+`cd etl && make airflow`
+
 ### Server
 A tornado REST api. See [server](server)
 
