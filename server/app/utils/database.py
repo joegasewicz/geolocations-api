@@ -1,8 +1,8 @@
 from sqlalchemy import create_engine
 from sqlalchemy.engine import URL
-from sqlalchemy.orm import DeclarativeBase
+from sqlalchemy.orm import DeclarativeBase, sessionmaker
 
-from app.config import Config
+from app.config import Config, TestConfig
 
 
 class Model(DeclarativeBase):
@@ -12,12 +12,15 @@ class Model(DeclarativeBase):
 def get_engine(*, config: Config):
     url = URL.create(
         drivername="postgresql",
-        username="admin",
-        password="admin",
-        host="localhost",
-        database="locations_db",
+        username=config.PGUSER,
+        password=config.PGPASSWORD,
+        host=config.PGHOST,
+        database=config.PGDATABASE,
+        port=config.PGPORT,
     )
     return create_engine(url, echo=True)
 
 
-engine = get_engine(config=Config())
+def get_session():
+    engine = get_engine(config=Config())
+    return sessionmaker(engine)()

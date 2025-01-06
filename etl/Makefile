@@ -9,6 +9,3 @@ airflow-down:
 
 prune:
 	docker system prune --all
-
-docker-compose-local:
-	docker compose -f docker-compose.yaml up

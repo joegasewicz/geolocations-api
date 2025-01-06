@@ -1,0 +1,1 @@
+from app.schemas.locations import Location

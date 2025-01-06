@@ -1,4 +1,4 @@
-,towns,longitude,latitude,iso-3166-1,country
+,town,longitude,latitude,iso_3166_1,country
 0,Barnsley,-1.45225,53.56625,GB-ENG,England
 1,Basildon,0.488409,51.57661,GB-ENG,England
 2,Basingstoke,-1.08793,51.26899,GB-ENG,England

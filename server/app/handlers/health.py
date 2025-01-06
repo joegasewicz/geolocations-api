@@ -5,6 +5,7 @@ class HealthHandler(tornado.web.RequestHandler):
 
     def get(self) -> None:
         data = {
+            "endpoint": "/health",
             "status": "OK",
         }
         self.set_header("Content-Type", "application/json")
