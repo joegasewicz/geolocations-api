@@ -30,9 +30,7 @@ class LocationHandler(tornado.web.RequestHandler):
             session = get_session()
             q = select(LocationModel).where(LocationModel.town.ilike(f"%{town_query}%"))
             q = q.limit(5)
-            print("her-------> 1")
             locations = session.execute(q).all()
-            print("her-------> 2")
             for location in locations:
                 location_list.append(LocationSchema().dump(location[0]))
             data = {
