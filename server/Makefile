@@ -1,3 +1,7 @@
+# Docker variables
+DOCKER_TAG=2.1.0-alpha
+DOCKER_NAME=bandnoticeboard/geolocations-api
+
 # Server Variables
 PGPORT=5433
 PGDATABASE=location_etl_db
@@ -6,9 +10,6 @@ PGPASSWORD=admin
 PGHOST=host.docker.internal
 SERVER_PORT=8000
 SERVER_HOST=0.0.0.0
-# Docker variables
-DOCKER_TAG=2.0.0
-DOCKER_NAME=bandnoticeboard/geolocations-api
 
 locations-api-server:
 	pipenv run python prod.py

@@ -12,6 +12,9 @@ class Config:
     VERSION = "v0.1"
     SERVER_PORT = os.getenv("SERVER_PORT", 8888)
     SERVER_HOST = os.getenv("SERVER_HOST", "0.0.0.0")
+    # Location Data
+    LOCATION_DATA_FILE = "data/uk_ons_locations_transform.csv"
+    SQLALCHEMY_LOGGING = False
 
 class TestConfig(Config):
     # Postgres

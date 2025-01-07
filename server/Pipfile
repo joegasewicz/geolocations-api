@@ -9,6 +9,7 @@ sqlalchemy = "*"
 marshmallow = "*"
 psycopg2-binary = "*"
 alembic = "*"
+pandas = "*"
 
 [dev-packages]
 pytest = "*"
