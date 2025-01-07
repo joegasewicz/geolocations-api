@@ -1,30 +1,26 @@
-FROM python:3.10-slim-buster
+FROM python:3.13
 
 WORKDIR /geolocations-api
+COPY . .
 
-ARG API_DB_NAME
-ARG API_DB_USERNAME
-ARG API_DB_PASSWORD
-ARG API_DB_HOST
-ARG API_DB_PORT
+ARG PGPORT
+ARG PGDATABASE
+ARG PGUSER
+ARG PGPASSWORD
+ARG PGHOST
 ARG SERVER_PORT
 ARG SERVER_HOST
 
-ENV API_DB_NAME=${API_DB_NAME}
-ENV API_DB_USERNAME=${API_DB_USERNAME}
-ENV API_DB_PASSWORD=${API_DB_PASSWORD}
-ENV API_DB_HOST=${API_DB_HOST}
-ENV API_DB_PORT=${API_DB_PORT}
+ENV PGPORT=${PGPORT}
+ENV PGDATABASE=${PGDATABASE}
+ENV PGUSER=${PGUSER}
+ENV PGPASSWORD=${PGPASSWORD}
+ENV PGHOST=${PGHOST}
 ENV SERVER_PORT=${SERVER_PORT}
 ENV SERVER_HOST=${SERVER_HOST}
 
 RUN pip install pipenv
-RUN apt-get update && apt-get install -y --no-install-recommends gcc
+RUN pipenv install --verbose --system
+RUN pipenv install --dev --system
 
-COPY Pipfile Pipfile
-COPY Pipfile.lock Pipfile.lock
-COPY api api
-
-RUN pipenv install --deploy
-
-CMD [ "pipenv","run", "uvicorn", "api.main:app", "--host", "$SERVER_HOST", "--port", "$SERVER_PORT"]
+CMD ["python", "prod.py"]

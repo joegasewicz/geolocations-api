@@ -1,51 +1,35 @@
-# Mongodb variables
-DB_NAME=towns_db
-DB_USERNAME=admin
-DB_PASSWORD=admin
-MONGO_VOLUME=mongodb_data
-# Docker variables
-DOCKER_TAG=bandnoticeboard/geolocations-api
-DOCKER_NAME=bandnoticeboard_geolocations-api
-# API variables
-API_DB_NAME=towns_db
-API_DB_USERNAME=admin
-API_DB_PASSWORD=admin
-API_DB_HOST=host.docker.internal
-API_DB_PORT=27017
+# Server Variables
+PGPORT=5433
+PGDATABASE=location_etl_db
+PGUSER=admin
+PGPASSWORD=admin
+PGHOST=host.docker.internal
 SERVER_PORT=8000
 SERVER_HOST=0.0.0.0
+# Docker variables
+DOCKER_TAG=2.0.0
+DOCKER_NAME=bandnoticeboard/geolocations-api
 
 locations-api-server:
-	pipenv run uvicorn api.main:app --reload
-
-docker-create-volumes:
-	docker volume create --name=$(MONGO_VOLUME)
-
-docker-rm-volumes:
-	docker rm $(MONGO_VOLUME)
+	pipenv run python prod.py
 
 docker-compose-up:
 	make docker-create-volumes
 	docker-compose up
 
-mongo-import-towns:
-	mongoimport -d $(DB_NAME) -c towns --file ./towns.json --authenticationDatabase admin --username $(DB_USERNAME) --password $(DB_PASSWORD) --host localhost --port 27017
-
 docker-build:
 	docker build \
-  --build-arg API_DB_NAME=$(API_DB_NAME) \
-  --build-arg API_DB_USERNAME=$(API_DB_USERNAME) \
-  --build-arg API_DB_PASSWORD=$(API_DB_PASSWORD) \
-  --build-arg API_DB_HOST=$(API_DB_HOST) \
-  --build-arg API_DB_PORT=$(API_DB_PORT) \
+  --build-arg PGPORT=$(PGPORT) \
+  --build-arg PGDATABASE=$(PGDATABASE) \
+  --build-arg PGUSER=$(PGUSER) \
+  --build-arg PGPASSWORD=$(PGPASSWORD) \
+  --build-arg PGHOST=$(PGHOST) \
   --build-arg SERVER_PORT=$(SERVER_PORT) \
   --build-arg SERVER_HOST=$(SERVER_HOST) \
-  --tag $(DOCKER_TAG):latest .
+  --tag $(DOCKER_NAME):$(DOCKER_TAG) .
 
 docker-run:
-	docker run -p $(SERVER_PORT):$(SERVER_PORT) $(DOCKER_TAG):latest
+	docker run -p $(SERVER_PORT):$(SERVER_PORT) $(DOCKER_NAME):$(DOCKER_TAG)
 
-# private tasks
 docker-push:
-	docker login --username=$(DOCKER_USERNAME) --password=$(DOCKER_PASSWORD)
-	docker push $(DOCKER_TAG):latest
+	docker push $(DOCKER_NAME):$(DOCKER_TAG)

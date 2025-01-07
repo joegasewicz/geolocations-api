@@ -4,14 +4,14 @@ import os
 class Config:
     # Postgres
     PGPORT = os.getenv("PGPORT", 5433)
-    PGDATABASE = os.getenv("PGDATABASE", "locations_db")
+    PGDATABASE = os.getenv("PGDATABASE", "location_etl_db")
     PGUSER = os.getenv("PGUSER", "admin")
     PGPASSWORD = os.getenv("PGPASSWORD", "admin")
-    PGHOST = os.getenv("PGHOST", "localhost")
+    PGHOST = os.getenv("PGHOST", "0.0.0.0")
     # Server
     VERSION = "v0.1"
     SERVER_PORT = os.getenv("SERVER_PORT", 8888)
-
+    SERVER_HOST = os.getenv("SERVER_HOST", "0.0.0.0")
 
 class TestConfig(Config):
     # Postgres
