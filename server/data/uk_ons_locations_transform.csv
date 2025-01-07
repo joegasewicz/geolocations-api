@@ -1,0 +1,113 @@
+,town,longitude,latitude,iso_3166_1,country
+0,Barnsley,-1.45225,53.56625,GB-ENG,England
+1,Basildon,0.488409,51.57661,GB-ENG,England
+2,Basingstoke,-1.08793,51.26899,GB-ENG,England
+3,Bath,-2.36345,51.37741,GB-ENG,England
+4,Bedford,-0.45352,52.1422,GB-ENG,England
+5,Birkenhead,-3.04865,53.38582,GB-ENG,England
+6,Birmingham,-1.87111,52.48019,GB-ENG,England
+7,Blackburn,-2.48816,53.74155,GB-ENG,England
+8,Blackpool,-3.02264,53.78963,GB-ENG,England
+9,Bolton,-2.41962,53.5962,GB-ENG,England
+10,Bournemouth,-1.8536,50.74235,GB-ENG,England
+11,Bracknell,-0.75302,51.40888,GB-ENG,England
+12,Bradford,-1.76587,53.78298,GB-ENG,England
+13,Brighton and Hove,-0.15001,50.84087,GB-ENG,England
+14,Bristol,-2.5476,51.45829,GB-ENG,England
+15,Burnley,-2.27738,53.79412,GB-ENG,England
+16,Burton upon Trent,-1.65365,52.7962,GB-ENG,England
+17,Bury,-2.29868,53.58757,GB-ENG,England
+18,Cambridge,0.140303,52.20553,GB-ENG,England
+19,Cardiff,-3.20235,51.52062,GB-ENG,England
+20,Carlisle,-2.95548,54.88374,GB-ENG,England
+21,Chatham,0.527765,51.35565,GB-ENG,England
+22,Chelmsford,0.4841,51.73566,GB-ENG,England
+23,Cheltenham,-2.0904,51.89472,GB-ENG,England
+24,Chester,-2.8944,53.19988,GB-ENG,England
+25,Chesterfield,-1.4388,53.24102,GB-ENG,England
+26,Colchester,0.917322,51.88916,GB-ENG,England
+27,Coventry,-1.52065,52.41456,GB-ENG,England
+28,Crawley,-0.18102,51.11138,GB-ENG,England
+29,Darlington,-1.56068,54.53556,GB-ENG,England
+30,Derby,-1.48731,52.91111,GB-ENG,England
+31,Doncaster,-1.12512,53.52296,GB-ENG,England
+32,Dudley,-2.08759,52.49888,GB-ENG,England
+33,Eastbourne,0.286097,50.76906,GB-ENG,England
+34,Exeter,-3.5076,50.72078,GB-ENG,England
+35,Gateshead,-1.58943,54.9432,GB-ENG,England
+36,Gillingham,0.57786,51.37165,GB-ENG,England
+37,Gloucester,-2.22568,51.84688,GB-ENG,England
+38,Grimsby,-0.09463,53.55301,GB-ENG,England
+39,Guildford,-0.57536,51.2378,GB-ENG,England
+40,Halifax,-1.87569,53.72383,GB-ENG,England
+41,Harlow,0.115647,51.77772,GB-ENG,England
+42,Harrogate,-1.53325,53.99172,GB-ENG,England
+43,Hartlepool,-1.21756,54.67896,GB-ENG,England
+44,Hastings,0.575702,50.87073,GB-ENG,England
+45,Hemel Hempstead,-0.46931,51.75532,GB-ENG,England
+46,High Wycombe,-0.75327,51.63706,GB-ENG,England
+47,Huddersfield,-1.78816,53.64933,GB-ENG,England
+48,Ipswich,1.168245,52.05693,GB-ENG,England
+49,Kingston upon Hull,-0.32777,53.76572,GB-ENG,England
+50,Leeds,-1.54485,53.80167,GB-ENG,England
+51,Leicester,-1.13596,52.63241,GB-ENG,England
+52,Lincoln,-0.55532,53.2228,GB-ENG,England
+53,Liverpool,-2.90702,53.38945,GB-ENG,England
+54,London,-0.2973,51.49352,GB-ENG,England
+55,Luton,-0.44169,51.89455,GB-ENG,England
+56,Maidstone,0.527931,51.26728,GB-ENG,England
+57,Manchester,-2.20786,53.47249,GB-ENG,England
+58,Mansfield,-1.18768,53.14901,GB-ENG,England
+59,Middlesbrough,-1.22002,54.55047,GB-ENG,England
+60,Milton Keynes,-0.75668,52.03969,GB-ENG,England
+61,Newcastle upon Tyne,-1.64477,54.99571,GB-ENG,England
+62,Newcastle-under-Lyme,-2.24753,53.03938,GB-ENG,England
+63,Newport,-3.00958,51.58628,GB-ENG,England
+64,Northampton,-0.88472,52.25519,GB-ENG,England
+65,Norwich,1.287271,52.64211,GB-ENG,England
+66,Nottingham,-1.17166,52.97136,GB-ENG,England
+67,Nuneaton,-1.46934,52.52402,GB-ENG,England
+68,Oldham,-2.09653,53.54004,GB-ENG,England
+69,Oxford,-1.21169,51.74196,GB-ENG,England
+70,Peterborough,-0.24725,52.58394,GB-ENG,England
+71,Plymouth,-4.1431,50.38793,GB-ENG,England
+72,Poole,-1.94573,50.73569,GB-ENG,England
+73,Portsmouth,-1.07102,50.80889,GB-ENG,England
+74,Preston,-2.68807,53.77449,GB-ENG,England
+75,Reading,-0.96856,51.4465,GB-ENG,England
+76,Redditch,-1.94274,52.30764,GB-ENG,England
+77,Rochdale,-2.15186,53.61189,GB-ENG,England
+78,Rotherham,-1.36142,53.43164,GB-ENG,England
+79,Salford,-2.28897,53.49187,GB-ENG,England
+80,Scunthorpe,-0.6444,53.56769,GB-ENG,England
+81,Sheffield,-1.44966,53.38781,GB-ENG,England
+82,Shrewsbury,-2.7624,52.69851,GB-ENG,England
+83,Slough,-0.6107,51.51474,GB-ENG,England
+84,Solihull,-1.80659,52.42009,GB-ENG,England
+85,South Shields,-1.42068,54.98138,GB-ENG,England
+86,Southampton,-1.42334,50.92559,GB-ENG,England
+87,Southend-on-Sea,0.695149,51.55181,GB-ENG,England
+88,Southport,-2.99879,53.64827,GB-ENG,England
+89,St Albans,-0.32008,51.75508,GB-ENG,England
+90,St Helens,-2.70347,53.447,GB-ENG,England
+91,Stevenage,-0.1917,51.90379,GB-ENG,England
+92,Stockport,-2.16277,53.40335,GB-ENG,England
+93,Stockton-on-Tees,-1.32006,54.57781,GB-ENG,England
+94,Stoke-on-Trent,-2.16766,53.01952,GB-ENG,England
+95,Sunderland,-1.39942,54.88781,GB-ENG,England
+96,Sutton Coldfield,-1.84243,52.57275,GB-ENG,England
+97,Swansea,-3.95394,51.63595,GB-ENG,England
+98,Swindon,-1.78855,51.57245,GB-ENG,England
+99,Telford,-2.49908,52.70598,GB-ENG,England
+100,Wakefield,-1.5082,53.6894,GB-ENG,England
+101,Walsall,-1.97818,52.57937,GB-ENG,England
+102,Warrington,-2.59173,53.39705,GB-ENG,England
+103,Watford,-0.40056,51.67123,GB-ENG,England
+104,West Bromwich,-2.00105,52.53128,GB-ENG,England
+105,Weston-Super-Mare,-2.96662,51.34678,GB-ENG,England
+106,Wigan,-2.64352,53.54015,GB-ENG,England
+107,Woking,-0.56329,51.31476,GB-ENG,England
+108,Wolverhampton,-2.13796,52.59076,GB-ENG,England
+109,Worcester,-2.19784,52.20027,GB-ENG,England
+110,Worthing,-0.39923,50.83196,GB-ENG,England
+111,York,-1.08357,53.96195,GB-ENG,England

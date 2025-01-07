@@ -18,9 +18,8 @@ def get_engine(*, config: Config):
         database=config.PGDATABASE,
         port=config.PGPORT,
     )
-    return create_engine(url, echo=True)
+    return create_engine(url, echo=config.SQLALCHEMY_LOGGING)
 
 
-def get_session():
-    engine = get_engine(config=Config())
-    return sessionmaker(engine)()
+engine = get_engine(config=Config())
+Session = sessionmaker(engine)

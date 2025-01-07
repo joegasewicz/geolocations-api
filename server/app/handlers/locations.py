@@ -8,7 +8,7 @@ from app.models import (
 from app.schemas import (
     Location as LocationSchema,
 )
-from app.utils.database import get_session
+from app.utils.database import Session, engine
 from app.utils.logger import logger
 
 
@@ -27,7 +27,7 @@ class LocationHandler(tornado.web.RequestHandler):
             return
         location_list = []
         try:
-            session = get_session()
+            session = Session()
             q = select(LocationModel).where(LocationModel.town.ilike(f"%{town_query}%"))
             q = q.limit(5)
             locations = session.execute(q).all()

@@ -5,9 +5,8 @@ REST API & Apache Airflow project that returns location data.
 ### Version 2
 The latest version for geolocations-api is available here:
 ```
-docker pull bandnoticeboard/geolocations-api:latest
+docker pull bandnoticeboard/geolocations-api:2.1.0-alpha
 ```
-
 ### ETL
 ETL pipelines with [Apache Airflow](https://airflow.apache.org/). See [etl](etl)
 
@@ -18,23 +17,12 @@ ETL pipelines with [Apache Airflow](https://airflow.apache.org/). See [etl](etl)
 A tornado REST api. See [server](server)
 
 ## Quick Start
-1. Run docker compose `make docker-compose-local`
-2. Clone & cd into the root folder of this repo
-3. Run Airflow to provision the Postgres database with the geolocation data.
-```bash
-# This will create a `locations` table in your db from the `TODO` dump
-TODO
-# OR run the following cmd:
-TODO
-```
-4. Run the latest version of geolocations-api
-```bash
-docker run bandnoticeboard/geolocations-api
-```
+1. Run docker compose `docker run bandnoticeboard/geolocations-api:2.1.0-alpha`
+
 # Example Queries
 Currently, the api returns 5 entrees per query
 
-Use the `name` query param to fetch the first 5 similar results:
+Use the `town` query param to fetch the first 5 similar results:
 ```bash
 curl http://localhost:8000/towns?name=col
 ```
@@ -57,8 +45,6 @@ Will return
 ## Docker Compose Example
 See [docker-compose.example.yml](https://github.com/joegasewicz/geolocations-api/docker-compose.example.yml)
 ```bash
-version: "3"
-
 services:
 
   geolocations_api:
@@ -66,11 +52,13 @@ services:
     ports:
       - "8000:8000"
     environment:
-      API_DB_NAME: towns_db
-      API_DB_USERNAME: admin
-      API_DB_PASSWORD: admin
-      API_DB_HOST: host.docker.internal
-      API_DB_PORT: 5433
+      PGPORT: 5433
+      PGDATABASE: location_etl_db
+      PGUSER: admin
+      PGPASSWORD: admin
+      PGHOST: host.docker.internal
+      SERVER_PORT: 8000
+      SERVER_HOST: 0.0.0.0
 ```
 ## Contributing
 PR's are welcome for bug fixes or open an issue.
