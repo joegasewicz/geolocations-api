@@ -27,8 +27,8 @@ class LocationHandler(BaseHandler):
             self.set_status(status_code=200)
             return
         location_list = []
+        session = Session()
         try:
-            session = Session()
             q = select(LocationModel).where(LocationModel.town.ilike(f"%{town_query}%"))
             q = q.limit(5)
             locations = session.execute(q).all()
@@ -48,5 +48,5 @@ class LocationHandler(BaseHandler):
             self.write({
                 "error": "Error fetching data",
             })
-
-
+        finally:
+            session.close()
