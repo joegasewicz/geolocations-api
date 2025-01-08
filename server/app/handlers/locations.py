@@ -10,9 +10,10 @@ from app.schemas import (
 )
 from app.utils.database import Session, engine
 from app.utils.logger import logger
+from app.handlers import BaseHandler
 
 
-class LocationHandler(tornado.web.RequestHandler):
+class LocationHandler(BaseHandler):
 
     def get(self) -> None:
         self.set_header("Content-Type", "application/json")

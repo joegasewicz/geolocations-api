@@ -5,7 +5,7 @@ REST API & Apache Airflow project that returns location data.
 ### Version 2
 The latest version for geolocations-api is available here:
 ```
-docker pull bandnoticeboard/geolocations-api:2.1.0
+docker pull bandnoticeboard/geolocations-api:latest
 ```
 ### ETL
 ETL pipelines with [Apache Airflow](https://airflow.apache.org/). See [etl](etl)

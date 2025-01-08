@@ -1,7 +1,9 @@
 import tornado
 
+from app.handlers import BaseHandler
 
-class HealthHandler(tornado.web.RequestHandler):
+
+class HealthHandler(BaseHandler):
 
     def get(self) -> None:
         data = {
