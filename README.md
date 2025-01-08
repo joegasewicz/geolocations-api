@@ -5,7 +5,7 @@ REST API & Apache Airflow project that returns location data.
 ### Version 2
 The latest version for geolocations-api is available here:
 ```
-docker pull bandnoticeboard/geolocations-api:2.1.0-alpha
+docker pull bandnoticeboard/geolocations-api:2.1.0
 ```
 ### ETL
 ETL pipelines with [Apache Airflow](https://airflow.apache.org/). See [etl](etl)
@@ -60,6 +60,25 @@ services:
       SERVER_PORT: 8000
       SERVER_HOST: 0.0.0.0
 ```
+
+### Postgres
+The geolocations-api server requires that you add a postgres service to your docker compose stack
+running with port configuration: `"5433:5432"`
+```
+services:
+  postgres_etl:
+    image: "postgres:latest"
+    ports:
+      - "5433:5432"
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: location_etl_db
+    volumes:
+      - ./db-data_etl/postgres_db_volume/:/var/lib/postgresql/data/
+```
+
+
 ## Contributing
 PR's are welcome for bug fixes or open an issue.
 
