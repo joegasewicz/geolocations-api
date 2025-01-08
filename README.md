@@ -17,7 +17,7 @@ ETL pipelines with [Apache Airflow](https://airflow.apache.org/). See [etl](etl)
 A tornado REST api. See [server](server)
 
 ## Quick Start
-1. Run docker compose `docker run bandnoticeboard/geolocations-api:2.1.0-alpha`
+1. Run docker compose `docker run bandnoticeboard/geolocations-api:2.1.4`
 
 # Example Queries
 Currently, the api returns 5 entrees per query
