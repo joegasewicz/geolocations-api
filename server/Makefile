@@ -1,5 +1,5 @@
 # Docker variables
-DOCKER_TAG=2.1.2
+DOCKER_TAG=2.1.3
 DOCKER_NAME=bandnoticeboard/geolocations-api
 
 # Server Variables
