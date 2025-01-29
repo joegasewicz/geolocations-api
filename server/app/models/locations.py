@@ -25,7 +25,6 @@ class Location(Model):
     town: Mapped[str] = mapped_column(String(255), index=True)
     latitude: Mapped[float] = mapped_column(Float(8))
     longitude: Mapped[float] = mapped_column(Float(8))
-    iso_3166_1: Mapped[str] = mapped_column(String(255))
     country: Mapped[str] = mapped_column(String(255))
 
     def __repr__(self):
@@ -34,5 +33,4 @@ class Location(Model):
                 f"{self.town}, "
                 f"{self.latitude}, "
                 f"{self.longitude}, "
-                f"{self.iso_3166_1}, "
                 f"{self.country})")
