@@ -1,5 +1,5 @@
 # Docker variables
-DOCKER_TAG=2.1.4
+DOCKER_TAG=2.1.6
 DOCKER_NAME=bandnoticeboard/geolocations-api
 
 # Server Variables
@@ -19,6 +19,7 @@ docker-compose-up:
 	docker-compose up
 
 docker-build:
+	export DOCKER_DEFAULT_PLATFORM=linux/amd64 && \
 	docker build \
   --build-arg PGPORT=$(PGPORT) \
   --build-arg PGDATABASE=$(PGDATABASE) \

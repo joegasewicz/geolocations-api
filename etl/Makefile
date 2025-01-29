@@ -12,3 +12,6 @@ prune:
 
 docker-compose-local:
 	docker compose -f docker-compose.yaml up
+
+docker-rm-volumes:
+	docker rm postgres-db-volume
