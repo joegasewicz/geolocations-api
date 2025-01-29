@@ -1,5 +1,5 @@
 [![Makefile CI](https://github.com/joegasewicz/geolocations-api/actions/workflows/makefile.yml/badge.svg)](https://github.com/joegasewicz/geolocations-api/actions/workflows/makefile.yml)
-# Geolocations Api
+![ForestMQ](assets/gelocations.png?raw=true "ForestMQ")
 REST API & Apache Airflow project that returns location data.
 
 ### Version 2

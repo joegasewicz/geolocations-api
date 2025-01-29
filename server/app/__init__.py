@@ -44,7 +44,6 @@ def make_app(config: Config) -> tornado.web.Application:
                     town=record["town"],
                     latitude=record["latitude"],
                     longitude=record["longitude"],
-                    iso_3166_1=record["iso_3166_1"],
                     country=record["country"],
                 )
                 session.add(location)
