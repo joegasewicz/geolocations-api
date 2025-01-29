@@ -1,0 +1,4137 @@
+,town,latitude,longitude,country
+0,Acton,-35.27767,149.11829,Australia
+1,Ainslie,-35.26255,149.1437,Australia
+2,Amaroo,-35.16959,149.12802,Australia
+3,Aranda,-35.25817,149.0804,Australia
+4,Banks,-35.47194,149.09965,Australia
+5,Barton,-35.30489,149.14121,Australia
+6,Belconnen,-35.23798,149.06627,Australia
+7,Bonner,-35.16225,149.13855,Australia
+8,Bonython,-35.43326,149.07822,Australia
+9,Braddon,-35.27078,149.13569,Australia
+10,Bruce,-35.24405,149.09083,Australia
+11,Calwell,-35.44042,149.10707,Australia
+12,Campbell,-35.28907,149.15382,Australia
+13,Canberra,-35.28346,149.12807,Australia
+14,Casey,-35.16701,149.0947,Australia
+15,Chapman,-35.35621,149.03742,Australia
+16,Charnwood,-35.20019,149.03412,Australia
+17,Chifley,-35.3534,149.07684,Australia
+18,Chisholm,-35.41249,149.12825,Australia
+19,City,-35.28125,149.12927,Australia
+20,Conder,-35.45926,149.10422,Australia
+21,Cook,-35.26014,149.06566,Australia
+22,Coombs,-35.31634,149.03941,Australia
+23,Crace,-35.20282,149.10736,Australia
+24,Curtin,-35.32464,149.07763,Australia
+25,Deakin,-35.31927,149.10308,Australia
+26,Dickson,-35.25082,149.13932,Australia
+27,Downer,-35.24457,149.14468,Australia
+28,Duffy,-35.33459,149.03188,Australia
+29,Dunlop,-35.19402,149.01984,Australia
+30,Evatt,-35.21191,149.06891,Australia
+31,Fadden,-35.405,149.11662,Australia
+32,Farrer,-35.37673,149.105,Australia
+33,Fisher,-35.36126,149.05704,Australia
+34,Florey,-35.22588,149.05,Australia
+35,Flynn,-35.20593,149.04389,Australia
+36,Forde,-35.16823,149.14607,Australia
+37,Forrest,-35.31499,149.12859,Australia
+38,Franklin,-35.19946,149.14329,Australia
+39,Fraser,-35.1917,149.04534,Australia
+40,Garran,-35.34206,149.10846,Australia
+41,Gilmore,-35.41994,149.13481,Australia
+42,Giralang,-35.21093,149.096,Australia
+43,Gordon,-35.45676,149.08498,Australia
+44,Gowrie,-35.41187,149.10903,Australia
+45,Greenway,-35.41829,149.06658,Australia
+46,Griffith,-35.32533,149.13714,Australia
+47,Gungahlin,-35.18674,149.13619,Australia
+48,Hackett,-35.24948,149.16352,Australia
+49,Harrison,-35.19906,149.15631,Australia
+50,Hawker,-35.24707,149.03666,Australia
+51,Higgins,-35.23242,149.0272,Australia
+52,Holder,-35.33439,149.04614,Australia
+53,Holt,-35.22441,149.01188,Australia
+54,Hughes,-35.33269,149.09491,Australia
+55,Isaacs,-35.36862,149.11555,Australia
+56,Isabella Plains,-35.42829,149.08795,Australia
+57,Kaleen,-35.21814,149.10516,Australia
+58,Kambah,-35.38624,149.05804,Australia
+59,Kingston,-35.31525,149.14658,Australia
+60,Latham,-35.21652,149.03144,Australia
+61,Lyneham,-35.2398,149.13074,Australia
+62,Lyons,-35.3406,149.07396,Australia
+63,Macarthur,-35.40885,149.12696,Australia
+64,Macgregor,-35.2098,149.01101,Australia
+65,Macquarie,-35.25126,149.06363,Australia
+66,Mawson,-35.3634,149.09863,Australia
+67,McKellar,-35.21752,149.07704,Australia
+68,Melba,-35.21016,149.05405,Australia
+69,Monash,-35.41577,149.09063,Australia
+70,Narrabundah,-35.3357,149.14924,Australia
+71,Ngunnawal,-35.1728,149.11147,Australia
+72,Nicholls,-35.18733,149.09648,Australia
+73,O'Connor,-35.25645,149.11248,Australia
+74,Oxley,-35.40952,149.0786,Australia
+75,Page,-35.23864,149.04988,Australia
+76,Palmerston,-35.19447,149.1194,Australia
+77,Pearce,-35.36222,149.08338,Australia
+78,Phillip,-35.35035,149.09151,Australia
+79,Red Hill,-35.32624,149.11906,Australia
+80,Reid,-35.28578,149.13905,Australia
+81,Richardson,-35.42787,149.11377,Australia
+82,Rivett,-35.34709,149.0379,Australia
+83,Scullin,-35.23462,149.039,Australia
+84,Spence,-35.19873,149.06438,Australia
+85,Stirling,-35.34969,149.0493,Australia
+86,Theodore,-35.44962,149.11971,Australia
+87,Torrens,-35.37203,149.08773,Australia
+88,Turner,-35.26881,149.12465,Australia
+89,Wanniassa,-35.39783,149.09086,Australia
+90,Waramanga,-35.35297,149.06214,Australia
+91,Watson,-35.23815,149.15271,Australia
+92,Weetangera,-35.25,149.05,Australia
+93,Weston,-35.33582,149.05929,Australia
+94,Wright,-35.32239,149.03456,Australia
+95,Yarralumla,-35.2998,149.10585,Australia
+96,Abbotsbury,-33.8701,150.86119,Australia
+97,Abbotsford,-33.84889,151.12801,Australia
+98,Abercrombie,-33.38867,149.5458,Australia
+99,Aberdare,-32.84112,151.38168,Australia
+100,Aberdeen,-32.16588,150.89003,Australia
+101,Aberglasslyn,-32.7,151.53333,Australia
+102,Abermain,-32.8074,151.4275,Australia
+103,Acacia Gardens,-33.73159,150.91636,Australia
+104,Adamstown,-32.93824,151.72541,Australia
+105,Adamstown Heights,-32.94906,151.71009,Australia
+106,Airds,-34.08599,150.83322,Australia
+107,Albion Park,-34.57132,150.77568,Australia
+108,Albion Park Rail,-34.56634,150.79177,Australia
+109,Albury,-36.07482,146.92401,Australia
+110,Albury Municipality,-36.01494,146.95684,Australia
+111,Aldavilla,-31.0818,152.7679,Australia
+112,Alexandria,-33.89989,151.19951,Australia
+113,Alfords Point,-33.98744,151.02526,Australia
+114,Allambie Heights,-33.76655,151.24981,Australia
+115,Allawah,-33.97257,151.1144,Australia
+116,Alstonville,-28.84186,153.44022,Australia
+117,Ambarvale,-34.08942,150.79656,Australia
+118,Anna Bay,-32.78135,152.08586,Australia
+119,Annandale,-33.88333,151.16667,Australia
+120,Annangrove,-33.65758,150.94755,Australia
+121,Appin,-34.20347,150.78644,Australia
+122,Arcadia,-33.61667,151.03333,Australia
+123,Arcadia vale,-33.06052,151.58408,Australia
+124,Argenton,-32.93505,151.63064,Australia
+125,Armidale,-30.50123,151.66553,Australia
+126,Arncliffe,-33.93627,151.14819,Australia
+127,Artarmon,-33.81667,151.18333,Australia
+128,Ashbury,-33.89785,151.1196,Australia
+129,Ashcroft,-33.91598,150.89985,Australia
+130,Ashfield,-33.88834,151.12274,Australia
+131,Ashmont,-35.12491,147.33172,Australia
+132,Ashtonfield,-32.77331,151.60583,Australia
+133,Asquith,-33.68705,151.1163,Australia
+134,Auburn,-33.85,151.03333,Australia
+135,Austinmer,-34.30516,150.93335,Australia
+136,Austral,-33.92745,150.80811,Australia
+137,Avoca Beach,-33.46818,151.4339,Australia
+138,Avondale,-34.5175,150.7501,Australia
+139,Balgowlah,-33.79494,151.2572,Australia
+140,Balgowlah Heights,-33.80661,151.26243,Australia
+141,Balgownie,-34.39505,150.88051,Australia
+142,Ballina,-28.85273,153.48568,Australia
+143,Balmain,-33.85481,151.1833,Australia
+144,Balmain East,-33.8571,151.19282,Australia
+145,Balranald,-34.67839,143.56384,Australia
+146,Bangalow,-28.68634,153.52153,Australia
+147,Bangor,-34.01667,151.03333,Australia
+148,Banksia,-33.94601,151.14304,Australia
+149,Bankstown,-33.91667,151.03333,Australia
+150,Banora Point,-28.21298,153.53634,Australia
+151,Bar Beach,-32.94128,151.76544,Australia
+152,Barden Ridge,-34.03413,151.01194,Australia
+153,Bardia,-33.97789,150.86306,Australia
+154,Bardwell Park,-33.93534,151.12571,Australia
+155,Bardwell Valley,-33.93344,151.13668,Australia
+156,Bargo,-34.29301,150.57806,Australia
+157,Barham,-35.62647,144.12895,Australia
+158,Barnsley,-32.93333,151.58333,Australia
+159,Barooga,-35.90602,145.69585,Australia
+160,Barraba,-30.38547,150.60901,Australia
+161,Barrack Heights,-34.56464,150.85692,Australia
+162,Basin View,-35.08833,150.55534,Australia
+163,Bass Hill,-33.89863,150.99541,Australia
+164,Bateau Bay,-33.38334,151.46671,Australia
+165,Batehaven,-35.73757,150.19836,Australia
+166,Batemans Bay,-35.70658,150.17541,Australia
+167,Bathurst,-33.41665,149.5806,Australia
+168,Bathurst city centre,-33.41816,149.57621,Australia
+169,Bathurst Regional,-33.4731,149.51956,Australia
+170,Batlow,-35.51987,148.14727,Australia
+171,Baulkham Hills,-33.75881,150.99292,Australia
+172,Bay View,-33.65982,151.29878,Australia
+173,Beacon Hill,-33.7528,151.25857,Australia
+174,Beaumont Hills,-33.69993,150.9411,Australia
+175,Beecroft,-33.74954,151.0648,Australia
+176,Bega,-36.67392,149.84178,Australia
+177,Bega Valley,-36.81646,149.7206,Australia
+178,Belfield,-33.90354,151.08467,Australia
+179,Bella Vista,-33.74127,150.95456,Australia
+180,Bellambi,-34.36667,150.91667,Australia
+181,Bellbird,-32.85992,151.31873,Australia
+182,Bellevue Hill,-33.87899,151.25101,Australia
+183,Bellingen,-30.37394,152.72492,Australia
+184,Belmont,-33.0274,151.6601,Australia
+185,Belmont North,-33.02081,151.66849,Australia
+186,Belmont South,-33.04934,151.65695,Australia
+187,Belmore,-33.91901,151.08935,Australia
+188,Belrose,-33.73954,151.21033,Australia
+189,Bensville,-33.49757,151.38084,Australia
+190,Berala,-33.87197,151.03386,Australia
+191,Beresfield,-32.8,151.65,Australia
+192,Berkeley,-34.48333,150.85,Australia
+193,Berkeley Vale,-33.35,151.43333,Australia
+194,Berkshire Park,-33.67283,150.77523,Australia
+195,Bermagui,-36.419,150.06355,Australia
+196,Berowra,-33.62078,151.15091,Australia
+197,Berowra Heights,-33.61211,151.13754,Australia
+198,Berridale,-36.36673,148.82772,Australia
+199,Berrigan,-35.75192,145.66984,Australia
+200,Berry,-34.77507,150.69436,Australia
+201,Beverley Park,-33.97707,151.13437,Australia
+202,Beverly Hills,-33.94799,151.07979,Australia
+203,Bexley,-33.95,151.11667,Australia
+204,Bexley North,-33.93848,151.11385,Australia
+205,Bidwill,-33.73013,150.82219,Australia
+206,Bilambil Heights,-28.2161,153.48415,Australia
+207,Bilgola Plateau,-33.64781,151.31212,Australia
+208,Bingara,-29.86931,150.57204,Australia
+209,Birchgrove,-33.85164,151.18243,Australia
+210,Birmingham Gardens,-32.89368,151.69009,Australia
+211,Birrong,-33.89255,151.02075,Australia
+212,Blackalls Park,-32.99893,151.58018,Australia
+213,Blackbutt,-34.57164,150.83804,Australia
+214,Blackett,-33.73792,150.81812,Australia
+215,Blackheath,-33.63567,150.28318,Australia
+216,Blacksmiths,-33.07167,151.65533,Australia
+217,Blacktown,-33.74016,150.86253,Australia
+218,Blackwall,-33.50252,151.32786,Australia
+219,Blair Athol,-30.65,150.2,Australia
+220,Blakehurst,-33.99152,151.10876,Australia
+221,Bland,-33.91904,146.92718,Australia
+222,Blaxland,-33.75,150.6,Australia
+223,Blayney,-33.61653,149.13046,Australia
+224,Bligh Park,-33.63985,150.80248,Australia
+225,Blue Bay,-33.35413,151.50024,Australia
+226,Blue Haven,-33.21106,151.50351,Australia
+227,Blue Mountains Municipality,-33.63203,150.41293,Australia
+228,Boambee,-30.33981,153.06783,Australia
+229,Boambee East,-30.34662,153.0732,Australia
+230,Bogan,-31.57012,146.90617,Australia
+231,Bogangar,-28.32944,153.5686,Australia
+232,Boggabri,-30.70953,150.04121,Australia
+233,Bolton Point,-33.00177,151.61013,Australia
+234,Bolwarra Heights,-32.701,151.58541,Australia
+235,Bomaderry,-34.84967,150.61093,Australia
+236,Bombala,-36.91212,149.23669,Australia
+237,Bondi,-33.89429,151.26444,Australia
+238,Bondi Beach,-33.89079,151.27852,Australia
+239,Bondi Junction,-33.89275,151.24723,Australia
+240,Bonnells Bay,-33.10973,151.53226,Australia
+241,Bonnet Bay,-34.01023,151.05253,Australia
+242,Bonny Hills,-31.59061,152.83908,Australia
+243,Bonnyrigg,-33.89357,150.88908,Australia
+244,Bonnyrigg Heights,-33.89117,150.86994,Australia
+245,Bonville,-30.38284,153.05959,Australia
+246,Booker Bay,-33.5125,151.3459,Australia
+247,Booragul,-32.97486,151.60978,Australia
+248,Boorowa,-34.43661,148.71634,Australia
+249,Bossley Park,-33.86184,150.8841,Australia
+250,Botany,-33.94599,151.19591,Australia
+251,Botany Bay,-33.9466,151.19874,Australia
+252,Bourke,-29.99584,145.3616,Australia
+253,Bourkelands,-35.15593,147.34704,Australia
+254,Bow Bowing,-34.01655,150.8403,Australia
+255,Bowen Mountain,-33.57192,150.62563,Australia
+256,Bowenfels,-33.48336,150.13444,Australia
+257,Bowral,-34.4775,150.4204,Australia
+258,Bowraville,-30.64997,152.85146,Australia
+259,Bradbury,-34.0854,150.81541,Australia
+260,Braidwood,-35.44148,149.7998,Australia
+261,Branxton,-32.65547,151.35113,Australia
+262,Breakfast Point,-33.84286,151.11072,Australia
+263,Brewarrina,-29.95055,147.1476,Australia
+264,Brighton-Le-Sands,-33.96009,151.1511,Australia
+265,Bringelly,-33.93333,150.73333,Australia
+266,Broadmeadow,-32.92371,151.72849,Australia
+267,Broken Hill,-31.9652,141.4512,Australia
+268,Broken Hill Municipality,-31.95,141.43333,Australia
+269,Bronte,-33.90198,151.26556,Australia
+270,Brookvale,-33.76108,151.27446,Australia
+271,Broulee,-35.85469,150.17392,Australia
+272,Brunswick Heads,-28.54003,153.54573,Australia
+273,Budgewoi,-33.2339,151.55412,Australia
+274,Buff Point,-33.22285,151.53125,Australia
+275,Bulahdelah,-32.40698,152.21185,Australia
+276,Bullaburra,-33.72922,150.41766,Australia
+277,Bulli,-34.33834,150.91347,Australia
+278,Bundanoon,-34.65658,150.29623,Australia
+279,Bundeena,-34.08384,151.15016,Australia
+280,Bungarribee,-33.77704,150.86799,Australia
+281,Bungendore,-35.25382,149.44007,Australia
+282,Buronga,-34.1707,142.1735,Australia
+283,Burradoo,-34.5032,150.409,Australia
+284,Burraneer,-34.05625,151.1381,Australia
+285,Burrill Lake,-35.38716,150.44952,Australia
+286,Burwood,-33.88536,151.10481,Australia
+287,Busby,-33.91124,150.88068,Australia
+288,Buttaba,-33.05327,151.57866,Australia
+289,Buxton,-34.26017,150.53288,Australia
+290,Byron Bay,-28.64989,153.61246,Australia
+291,Byron Shire,-28.61667,153.51667,Australia
+292,Bywong,-35.16476,149.32892,Australia
+293,Cabarita,-33.84721,151.11638,Australia
+294,Cabonne,-33.11076,148.82694,Australia
+295,Cabramatta,-33.89743,150.93446,Australia
+296,Cabramatta West,-33.89303,150.9119,Australia
+297,Caddens,-33.77415,150.74126,Australia
+298,Calala,-31.17356,150.98059,Australia
+299,Callaghan,-32.89205,151.70531,Australia
+300,Callala Bay,-34.99668,150.72281,Australia
+301,Cambewarra Village,-34.82335,150.5594,Australia
+302,Cambridge Gardens,-33.73801,150.72075,Australia
+303,Cambridge Park,-33.74784,150.72208,Australia
+304,Camden,-34.0161,150.72521,Australia
+305,Camden Haven,-31.64484,152.79462,Australia
+306,Camden South,-34.08312,150.69491,Australia
+307,Cameron Park,-32.90701,151.60528,Australia
+308,Cammeray,-33.82132,151.21609,Australia
+309,Campbelltown,-34.06667,150.81667,Australia
+310,Campbelltown Municipality,-34.08333,150.83333,Australia
+311,Camperdown,-33.88965,151.17642,Australia
+312,Campsie,-33.9125,151.10279,Australia
+313,Canada Bay,-33.8659,151.11591,Australia
+314,Canley Heights,-33.88262,150.92408,Australia
+315,Canley Vale,-33.88657,150.94802,Australia
+316,Canowindra,-33.56247,148.66434,Australia
+317,Canterbury,-33.91192,151.11862,Australia
+318,Canton Beach,-33.27443,151.54614,Australia
+319,Cardiff,-32.94201,151.6544,Australia
+320,Cardiff Heights,-32.93626,151.67227,Australia
+321,Cardiff South,-32.9547,151.66446,Australia
+322,Caringbah,-34.03534,151.12468,Australia
+323,Caringbah South,-34.05662,151.12149,Australia
+324,Carlingford,-33.78269,151.04888,Australia
+325,Carlton,-33.97107,151.12136,Australia
+326,Carnes Hill,-33.93846,150.84881,Australia
+327,Carramar,-33.88382,150.96153,Australia
+328,Carrathool,-33.62571,145.42523,Australia
+329,Carrington,-32.91501,151.76436,Australia
+330,Carss Park,-33.98667,151.11734,Australia
+331,Cartwright,-33.92498,150.88951,Australia
+332,Carwoola,-35.37836,149.3215,Australia
+333,Casino,-28.85819,153.04748,Australia
+334,Castle Cove,-33.78655,151.20925,Australia
+335,Castle Hill,-33.73333,151.0,Australia
+336,Castlecrag,-33.79987,151.2231,Australia
+337,Castlereagh,-33.68981,150.67887,Australia
+338,Casuarina,-28.30042,153.57064,Australia
+339,Casula,-33.95222,150.89949,Australia
+340,Catalina,-35.73,150.18494,Australia
+341,Catherine Field,-34.00439,150.77253,Australia
+342,Caves Beach,-33.10637,151.64402,Australia
+343,Cecil Hills,-33.88917,150.85137,Australia
+344,Centennial Park,-33.89794,151.23364,Australia
+345,Central Darling,-31.77155,143.62569,Australia
+346,Cessnock,-32.89391,151.21234,Australia
+347,Chain Valley Bay,-33.17241,151.57143,Australia
+348,Charlestown,-32.96828,151.69318,Australia
+349,Charmhaven,-33.22671,151.50284,Australia
+350,Chatswood,-33.8,151.18333,Australia
+351,Chatswood West,-33.79402,151.16492,Australia
+352,Cherrybrook,-33.72197,151.04607,Australia
+353,Chester Hill,-33.87896,150.99945,Australia
+354,Chifley,-33.96696,151.24221,Australia
+355,Chinderah,-28.25456,153.53712,Australia
+356,Chippendale,-33.88673,151.19745,Australia
+357,Chipping Norton,-33.91801,150.95927,Australia
+358,Chiswick,-33.84996,151.13846,Australia
+359,Chittaway Bay,-33.32769,151.42971,Australia
+360,City of Sydney,-33.86778,151.20844,Australia
+361,Claremont Meadows,-33.77587,150.75193,Australia
+362,Clarence Town,-32.58395,151.77757,Australia
+363,Clarence Valley,-29.69444,152.78156,Australia
+364,Claymore,-34.04649,150.81114,Australia
+365,Clemton Park,-33.92616,151.10406,Australia
+366,Clontarf,-33.80554,151.25367,Australia
+367,Clovelly,-33.91214,151.25882,Australia
+368,Coal Point,-33.04225,151.61159,Australia
+369,Cobar,-31.96613,145.36063,Australia
+370,Cobbitty,-34.01592,150.67854,Australia
+371,Coffs Harbour,-30.17294,153.03262,Australia
+372,Coleambally,-34.80388,145.88036,Australia
+373,Colebee,-33.72769,150.84743,Australia
+374,Coledale,-34.29105,150.9447,Australia
+375,Collaroy,-33.73205,151.30118,Australia
+376,Collaroy Plateau,-33.72884,151.29075,Australia
+377,Colo Vale,-34.40095,150.48573,Australia
+378,Colyton,-33.78283,150.79679,Australia
+379,Como,-33.99941,151.06389,Australia
+380,Concord,-33.84722,151.10381,Australia
+381,Concord West,-33.84809,151.08609,Australia
+382,Condell Park,-33.92458,151.01093,Australia
+383,Condobolin,-33.08877,147.15139,Australia
+384,Coniston,-34.45,150.88333,Australia
+385,Connells Point,-33.98827,151.09094,Australia
+386,Constitution Hill,-33.79259,150.97627,Australia
+387,Coogee,-33.9205,151.25522,Australia
+388,Cooks Hill,-32.93244,151.77114,Australia
+389,Coolah,-31.82787,149.71564,Australia
+390,Coolamon,-34.60046,147.13707,Australia
+391,Cooma,-36.23517,149.12408,Australia
+392,Coonabarabran,-31.27734,149.27904,Australia
+393,Coonamble,-30.86714,148.29053,Australia
+394,Cooranbong,-33.07622,151.45409,Australia
+395,Cootamundra,-34.64095,148.02838,Australia
+396,Copacabana,-33.48692,151.43587,Australia
+397,Coraki,-28.9926,153.28374,Australia
+398,Cordeaux Heights,-34.44043,150.83748,Australia
+399,Corindi Beach,-30.01668,153.18555,Australia
+400,Corlette,-32.72014,152.10846,Australia
+401,Corowa,-35.99704,146.38552,Australia
+402,Corrimal,-34.37864,150.90356,Australia
+403,Coutts Crossing,-29.82619,152.89156,Australia
+404,Cowra,-33.81138,148.78346,Australia
+405,Cranebrook,-33.7061,150.7094,Australia
+406,Cremorne,-33.82679,151.22633,Australia
+407,Cremorne Point,-33.84008,151.22698,Australia
+408,Crescent Head,-31.1887,152.97301,Australia
+409,Crestwood,-35.34844,149.21758,Australia
+410,Cringila,-34.47131,150.86755,Australia
+411,Cromer,-33.7312,151.26788,Australia
+412,Cronulla,-34.06251,151.14961,Australia
+413,Crookwell,-34.45925,149.47137,Australia
+414,Crows Nest,-33.82494,151.20398,Australia
+415,Croydon,-33.88333,151.11667,Australia
+416,Culburra Beach,-34.92788,150.75766,Australia
+417,Culcairn,-35.66669,147.03845,Australia
+418,Cumbalum,-28.8225,153.5284,Australia
+419,Cundletown,-31.8941,152.52141,Australia
+420,Curl Curl,-33.76886,151.28888,Australia
+421,Currans Hill,-34.04311,150.77301,Australia
+422,Daceyville,-33.92879,151.22577,Australia
+423,Dalmeny,-36.16608,150.12912,Australia
+424,Dapto,-34.50386,150.79416,Australia
+425,Darling Point,-33.87064,151.23895,Australia
+426,Darlinghurst,-33.87939,151.21925,Australia
+427,Darlington,-33.89103,151.19548,Australia
+428,Darlington Point,-34.56942,145.9987,Australia
+429,Davidson,-33.74297,151.2008,Australia
+430,Davistown,-33.48559,151.36151,Australia
+431,Dean Park,-33.73539,150.85958,Australia
+432,Dee Why,-33.7511,151.28886,Australia
+433,Denham Court,-33.98307,150.84606,Australia
+434,Deniliquin,-35.53245,144.95364,Australia
+435,Denistone,-33.79835,151.09051,Australia
+436,Denistone East,-33.796,151.0974,Australia
+437,Denman,-32.38788,150.68935,Australia
+438,Dharruk,-33.74814,150.81561,Australia
+439,Dolls Point,-33.99341,151.14474,Australia
+440,Doonside,-33.76667,150.86667,Australia
+441,Dora Creek,-33.08139,151.49677,Australia
+442,Dorrigo,-30.34112,152.71394,Australia
+443,Double Bay,-33.87782,151.24354,Australia
+444,Douglas Park,-34.18496,150.71449,Australia
+445,Dover Heights,-33.87083,151.27917,Australia
+446,Drummoyne,-33.85237,151.15491,Australia
+447,Dubbo,-32.24295,148.60484,Australia
+448,Dudley,-32.99373,151.72197,Australia
+449,Dulwich Hill,-33.9041,151.13945,Australia
+450,Dundas Valley,-33.78826,151.05261,Australia
+451,Dunedoo,-32.01634,149.3871,Australia
+452,Dungog,-32.34619,151.61122,Australia
+453,Dural,-33.68333,151.01667,Australia
+454,Eagle Vale,-34.03747,150.8136,Australia
+455,Earlwood,-33.9209,151.12506,Australia
+456,East Albury,-36.08144,146.92991,Australia
+457,East Ballina,-28.85709,153.58736,Australia
+458,East Branxton,-32.65372,151.36559,Australia
+459,East Corrimal,-34.37606,150.91078,Australia
+460,East Gosford,-33.43874,151.35338,Australia
+461,East Hills,-33.96099,150.98822,Australia
+462,East Jindabyne,-36.39579,148.65137,Australia
+463,East Kempsey,-31.08242,152.85253,Australia
+464,East Killara,-33.75535,151.18154,Australia
+465,East Kurrajong,-33.5055,150.79427,Australia
+466,East Lindfield,-33.76664,151.18685,Australia
+467,East Lismore,-28.82591,153.2888,Australia
+468,East Maitland,-32.75,151.58333,Australia
+469,East Ryde,-33.81031,151.13153,Australia
+470,East Tamworth,-31.08548,150.93721,Australia
+471,Eastlakes,-33.93196,151.21214,Australia
+472,Eastwood,-33.79176,151.08057,Australia
+473,Eden,-37.06675,149.90029,Australia
+474,Edensor Park,-33.87971,150.87778,Australia
+475,Edgecliff,-33.87952,151.23677,Australia
+476,Edgeworth,-32.92508,151.61612,Australia
+477,Edmondson Park,-33.95695,150.86134,Australia
+478,Eglinton,-33.37731,149.54654,Australia
+479,Elanora Heights,-33.70159,151.27965,Australia
+480,Elderslie,-34.05519,150.71367,Australia
+481,Eleebana,-32.9896,151.63642,Australia
+482,Elermore Vale,-32.91621,151.67665,Australia
+483,Elizabeth Bay,-33.87181,151.22706,Australia
+484,Elizabeth Hills,-33.89863,150.84761,Australia
+485,Ellalong,-32.91507,151.31161,Australia
+486,Emerald Beach,-30.16388,153.1819,Australia
+487,Emerton,-33.74411,150.80644,Australia
+488,Empire Bay,-33.49385,151.3629,Australia
+489,Emu Heights,-33.73453,150.64874,Australia
+490,Emu Plains,-33.75,150.66667,Australia
+491,Engadine,-34.06564,151.01266,Australia
+492,Enmore,-33.9005,151.17314,Australia
+493,Epping,-33.77271,151.08184,Australia
+494,Erina,-33.43218,151.38972,Australia
+495,Ermington,-33.81483,151.05467,Australia
+496,Erskine Park,-33.81301,150.79773,Australia
+497,Erskineville,-33.90254,151.18579,Australia
+498,Eschol Park,-34.02982,150.80957,Australia
+499,Estella,-35.07254,147.35748,Australia
+500,Ettalong,-33.51301,151.3383,Australia
+501,Ettalong Beach,-33.51058,151.33044,Australia
+502,Eulomogo,-32.26667,148.68333,Australia
+503,Eurobodalla,-35.93307,149.9278,Australia
+504,Evans Head,-29.11777,153.43072,Australia
+505,Fairfield,-33.86742,150.90105,Australia
+506,Fairfield East,-33.86938,150.97129,Australia
+507,Fairfield Heights,-33.86445,150.93884,Australia
+508,Fairfield West,-33.8667,150.917,Australia
+509,Fairlight,-33.79575,151.27346,Australia
+510,Fairy Meadow,-34.39303,150.89275,Australia
+511,Farmborough Heights,-34.45499,150.81308,Australia
+512,Faulconbridge,-33.7,150.53333,Australia
+513,Fennell Bay,-32.9922,151.60008,Australia
+514,Fern Bay,-32.86428,151.81307,Australia
+515,Fern Hill,-34.38294,150.88567,Australia
+516,Figtree,-34.43556,150.85833,Australia
+517,Fingal Bay,-32.74969,152.17104,Australia
+518,Finley,-35.65498,145.57106,Australia
+519,Five Dock,-33.8674,151.12905,Australia
+520,Fletcher,-32.87232,151.64008,Australia
+521,Flinders,-34.58333,150.85516,Australia
+522,Floraville,-33.01116,151.6648,Australia
+523,Forbes,-33.37898,147.86448,Australia
+524,Forest Hill,-35.1481,147.46707,Australia
+525,Forest Lodge,-33.88137,151.18,Australia
+526,Forestville,-33.76667,151.20833,Australia
+527,Forresters Beach,-33.407,151.476,Australia
+528,Forster,-32.18136,152.51715,Australia
+529,Frederickton,-31.03749,152.8753,Australia
+530,Freemans Reach,-33.55794,150.79553,Australia
+531,Frenchs Forest,-33.74821,151.22322,Australia
+532,Freshwater,-33.77867,151.28569,Australia
+533,Galston,-33.65297,151.04713,Australia
+534,Garden Suburb,-32.94368,151.68085,Australia
+535,Gateshead,-32.98208,151.69188,Australia
+536,Georges Hall,-33.90879,150.98852,Australia
+537,Georgetown,-32.9081,151.73119,Australia
+538,Gerringong,-34.74702,150.82809,Australia
+539,Gilgandra,-31.63297,148.70354,Australia
+540,Gillieston Heights,-32.76164,151.52863,Australia
+541,Girards Hill,-28.81693,153.27786,Australia
+542,Girraween,-33.799,150.943,Australia
+543,Gladesville,-33.83333,151.13333,Australia
+544,Glebe,-33.87884,151.18426,Australia
+545,Glen Alpine,-34.086,150.78512,Australia
+546,Glen Innes,-29.73485,151.7385,Australia
+547,Glen Innes Severn,-29.63116,151.93957,Australia
+548,Glenbrook,-33.76667,150.61667,Australia
+549,Glendale,-32.93194,151.64103,Australia
+550,Glendenning,-33.7483,150.85411,Australia
+551,Glenfield,-33.96667,150.9,Australia
+552,Glenfield Park,-35.13725,147.33285,Australia
+553,Glenhaven,-33.7,151.0,Australia
+554,Glenmore Park,-33.79068,150.6693,Australia
+555,Glenning Valley,-33.35369,151.42623,Australia
+556,Glenorie,-33.60177,151.00886,Australia
+557,Glenroy,-36.05021,146.91058,Australia
+558,Glenwood,-33.73333,150.93284,Australia
+559,Glossodia,-33.53618,150.7739,Australia
+560,Gloucester,-32.0077,151.9633,Australia
+561,Gol Gol,-34.17388,142.22187,Australia
+562,Googong,-35.43873,149.2131,Australia
+563,Goonellabah,-28.81667,153.31667,Australia
+564,Gordon,-33.75535,151.15115,Australia
+565,Gorokan,-33.25764,151.5097,Australia
+566,Gosford,-33.4244,151.34399,Australia
+567,Goulburn,-34.75155,149.72086,Australia
+568,Goulburn Mulwaree,-34.9025,149.902,Australia
+569,Grafton,-29.68104,152.93394,Australia
+570,Granville,-33.8406,151.00748,Australia
+571,Grasmere,-34.05392,150.66602,Australia
+572,Grays Point,-34.05873,151.08604,Australia
+573,Greater Hume Shire,-35.75837,147.19731,Australia
+574,Green Valley,-33.90292,150.86713,Australia
+575,Greenacre,-33.90034,151.05563,Australia
+576,Greenfield Park,-33.87461,150.89189,Australia
+577,Greenwell Point,-34.90751,150.73113,Australia
+578,Greenwich,-33.83954,151.183,Australia
+579,Gregory Hills,-34.02673,150.7707,Australia
+580,Grenfell,-33.89549,148.16438,Australia
+581,Greta,-32.67783,151.38924,Australia
+582,Greystanes,-33.82346,150.94607,Australia
+583,Griffith,-34.33448,146.02295,Australia
+584,Grose Vale,-33.58331,150.6744,Australia
+585,Guildford West,-33.84939,150.96475,Australia
+586,Gulgong,-32.36253,149.53201,Australia
+587,Gulmarrad,-29.487,153.23341,Australia
+588,Gundagai,-35.02623,148.13457,Australia
+589,Gundaroo,-35.03333,149.25,Australia
+590,Gunnedah,-31.02404,150.11548,Australia
+591,Guyra,-30.2168,151.66785,Australia
+592,Gwandalan,-33.13538,151.58285,Australia
+593,Gwydir,-29.49806,150.53813,Australia
+594,Gwynneville,-34.41667,150.8875,Australia
+595,Gymea,-34.03637,151.08528,Australia
+596,Gymea Bay,-34.05209,151.08795,Australia
+597,Haberfield,-33.88296,151.14389,Australia
+598,Halekulani,-33.21914,151.55251,Australia
+599,Hamilton,-32.92207,151.74711,Australia
+600,Hamlyn Terrace,-33.25125,151.47627,Australia
+601,Hammondville,-33.94827,150.95211,Australia
+602,Hanwood,-34.33095,146.04137,Australia
+603,Harrington,-31.88306,152.65924,Australia
+604,Harrington Park,-34.02405,150.73501,Australia
+605,Harris Park,-33.82285,151.00781,Australia
+606,Hassall Grove,-33.73349,150.83542,Australia
+607,Hawkesbury,-33.34078,150.783,Australia
+608,Hawks Nest,-32.66755,152.17831,Australia
+609,Hay,-34.54276,144.83826,Australia
+610,Haymarket,-33.87868,151.20526,Australia
+611,Hazelbrook,-33.72446,150.45839,Australia
+612,Heathcote,-34.0841,151.01305,Australia
+613,Hebersham,-33.74582,150.82385,Australia
+614,Heckenberg,-33.90828,150.88982,Australia
+615,Heddon Greta,-32.80204,151.51327,Australia
+616,Helensburgh,-34.17836,150.99522,Australia
+617,Henty,-35.52094,147.03426,Australia
+618,Hill Top,-34.34792,150.4955,Australia
+619,Hillsdale,-33.95151,151.22784,Australia
+620,Hillston,-33.48266,145.53525,Australia
+621,Hillvue,-31.12756,150.90711,Australia
+622,Hinchinbrook,-33.91878,150.86314,Australia
+623,Hobartville,-33.60435,150.74299,Australia
+624,Holbrook,-35.721,147.31605,Australia
+625,Holmesville,-32.91667,151.58333,Australia
+626,Holroyd,-33.83078,150.99725,Australia
+627,Holsworthy,-33.98333,150.96667,Australia
+628,Homebush,-33.86667,151.08333,Australia
+629,Homebush West,-33.86269,151.06696,Australia
+630,Horningsea Park,-33.94341,150.84528,Australia
+631,Hornsby,-33.70244,151.09931,Australia
+632,Hornsby Heights,-33.6713,151.09428,Australia
+633,Hornsby Shire,-33.58315,151.10953,Australia
+634,Horsley,-34.48763,150.77799,Australia
+635,Horsley Park,-33.84322,150.84889,Australia
+636,Howlong,-35.98197,146.63248,Australia
+637,Hoxton Park,-33.93126,150.85412,Australia
+638,Hunters Hill,-33.83437,151.1451,Australia
+639,Hunterview,-32.54343,151.17717,Australia
+640,Hurlstone Park,-33.90988,151.12867,Australia
+641,Hurstville,-33.9677,151.10149,Australia
+642,Hurstville Grove,-33.97993,151.09029,Australia
+643,Illawong,-34.0,151.03333,Australia
+644,Iluka,-29.40147,153.35112,Australia
+645,Ingleburn,-34.0,150.86667,Australia
+646,Inverell,-29.31526,151.04187,Australia
+647,Islington,-32.91388,151.74739,Australia
+648,Jamberoo,-34.64745,150.77464,Australia
+649,Jamisontown,-33.76797,150.67681,Australia
+650,Jannali,-34.01643,151.06065,Australia
+651,Jerilderie,-35.35757,145.72962,Australia
+652,Jerrabomberra,-35.38441,149.20248,Australia
+653,Jesmond,-32.90275,151.69072,Australia
+654,Jewells,-33.01386,151.68308,Australia
+655,Jilliby,-33.22605,151.41684,Australia
+656,Jindabyne,-36.41745,148.62254,Australia
+657,Jindera,-35.95474,146.88852,Australia
+658,Jordan Springs,-33.72138,150.72873,Australia
+659,Junction Hill,-29.64113,152.92491,Australia
+660,Junee,-34.86819,147.58273,Australia
+661,Kahibah,-32.96175,151.71251,Australia
+662,Kanahooka,-34.4916,150.80817,Australia
+663,Kandos,-32.85772,149.96832,Australia
+664,Kanwal,-33.253,151.4911,Australia
+665,Kapooka,-35.15693,147.28439,Australia
+666,Karabar,-35.37595,149.2328,Australia
+667,Kareela,-34.01336,151.08345,Australia
+668,Kariong,-33.43972,151.29453,Australia
+669,Karuah,-32.65389,151.9604,Australia
+670,Katoomba,-33.71977,150.30739,Australia
+671,Kearns,-34.02191,150.80082,Australia
+672,Keiraville,-34.41667,150.86667,Australia
+673,Kellyville,-33.71028,150.95095,Australia
+674,Kellyville Ridge,-33.70156,150.9179,Australia
+675,Kelso,-33.41667,149.6,Australia
+676,Kemps Creek,-33.88059,150.78761,Australia
+677,Kempsey,-30.90553,152.68608,Australia
+678,Kendall,-31.63295,152.70393,Australia
+679,Kensington,-33.92019,151.22241,Australia
+680,Kenthurst,-33.65527,151.00503,Australia
+681,Kew,-31.63602,152.72662,Australia
+682,Kiama,-34.67124,150.84572,Australia
+683,Kiama Downs,-34.63341,150.85456,Australia
+684,Kilaben Bay,-33.02395,151.59197,Australia
+685,Killara,-33.76604,151.16213,Australia
+686,Killarney Heights,-33.77451,151.22028,Australia
+687,Killarney Vale,-33.36319,151.45799,Australia
+688,King Creek,-31.49237,152.75658,Australia
+689,Kings Langley,-33.75005,150.93542,Australia
+690,Kings Park,-33.7432,150.90761,Australia
+691,Kingscliff,-28.25983,153.57816,Australia
+692,Kingsford,-33.92399,151.22749,Australia
+693,Kingsgrove,-33.93932,151.09928,Australia
+694,Kingswood Park,-33.76651,150.7144,Australia
+695,Kirrawee,-34.03831,151.06903,Australia
+696,Kirribilli,-33.84867,151.2162,Australia
+697,Kogarah,-33.9681,151.13564,Australia
+698,Kogarah Bay,-33.97951,151.12119,Australia
+699,Koonawarra,-34.50212,150.80855,Australia
+700,Kooringal,-35.14069,147.3768,Australia
+701,Kootingal,-31.05857,151.0535,Australia
+702,Korora,-30.2462,153.11487,Australia
+703,Kosciuszko National Park,-36.26436,148.48179,Australia
+704,Kotara,-32.94282,151.69585,Australia
+705,Kotara South,-32.95261,151.69076,Australia
+706,Ku-ring-gai,-33.72701,151.14877,Australia
+707,Kurnell,-34.01088,151.20512,Australia
+708,Kurraba Point,-33.84235,151.22256,Australia
+709,Kurrajong Heights,-33.52772,150.62907,Australia
+710,Kurri Kurri,-32.81933,151.47908,Australia
+711,Kyle Bay,-33.98787,151.09939,Australia
+712,Kyogle,-28.64643,152.77871,Australia
+713,Lachlan,-32.79999,146.87556,Australia
+714,Lake Albert,-35.16667,147.38333,Australia
+715,Lake Cargelligo,-33.29884,146.37296,Australia
+716,Lake Cathie,-31.55183,152.85465,Australia
+717,Lake Haven,-33.24303,151.50434,Australia
+718,Lake Heights,-34.48433,150.86649,Australia
+719,Lake Illawarra,-34.54658,150.85645,Australia
+720,Lake Macquarie Shire,-33.03756,151.5347,Australia
+721,Lake Munmorah,-33.19716,151.5824,Australia
+722,Lakelands,-32.96185,151.64972,Australia
+723,Lakemba,-33.91972,151.07592,Australia
+724,Lakewood,-31.6321,152.7582,Australia
+725,Lalor Park,-33.7609,150.93123,Australia
+726,Lambton,-32.91667,151.7,Australia
+727,Lane Cove,-33.82321,151.17028,Australia
+728,Lane Cove North,-33.80543,151.16638,Australia
+729,Lane Cove West,-33.81613,151.15145,Australia
+730,Lansvale,-33.90073,150.95078,Australia
+731,Largs,-32.7,151.6,Australia
+732,Lavington,-36.03976,146.93958,Australia
+733,Lawrence,-29.4921,153.09689,Australia
+734,Lawson,-33.72064,150.42975,Australia
+735,Leeton,-34.52967,146.26918,Australia
+736,Leichhardt,-33.88341,151.15625,Australia
+737,Lemon Tree Passage,-32.73047,152.03859,Australia
+738,Lennox Head,-28.79131,153.59201,Australia
+739,Leonay,-33.76542,150.64806,Australia
+740,Leppington,-33.96983,150.79675,Australia
+741,Lethbridge Park,-33.73716,150.80042,Australia
+742,Leumeah,-34.05,150.83333,Australia
+743,Leura,-33.71667,150.33333,Australia
+744,Lewisham,-33.89719,151.14883,Australia
+745,Liberty Grove,-33.84095,151.08402,Australia
+746,Lidcombe,-33.86436,151.0397,Australia
+747,Lightning Ridge,-29.42743,147.97865,Australia
+748,Lilli Pilli,-34.0683,151.11574,Australia
+749,Lilyfield,-33.87499,151.1653,Australia
+750,Lindfield,-33.78333,151.16667,Australia
+751,Lisarow,-33.38333,151.36667,Australia
+752,Lismore,-28.81354,153.2773,Australia
+753,Lismore Heights,-28.80102,153.30048,Australia
+754,Lismore Municipality,-28.8,153.26667,Australia
+755,Lithgow,-33.32025,150.18584,Australia
+756,Little Bay,-33.97899,151.24299,Australia
+757,Liverpool,-33.92418,150.91232,Australia
+758,Liverpool Plains,-31.47024,150.42001,Australia
+759,Llanarth,-33.39687,149.55105,Australia
+760,Llandilo,-33.71286,150.7465,Australia
+761,Lockhart,-35.32193,146.79354,Australia
+762,Loftus,-34.04467,151.04646,Australia
+763,Londonderry,-33.64656,150.73515,Australia
+764,Long Beach,-35.70833,150.24483,Australia
+765,Long Jetty,-33.35917,151.48834,Australia
+766,Longueville,-33.83285,151.16531,Australia
+767,Lorn,-32.72701,151.57245,Australia
+768,Luddenham,-33.8785,150.68863,Australia
+769,Lugarno,-33.98267,151.04184,Australia
+770,Lurnea,-33.93539,150.89673,Australia
+771,Macksville,-30.7078,152.92029,Australia
+772,Maclean,-29.4581,153.19753,Australia
+773,Macmasters Beach,-33.49663,151.42215,Australia
+774,Macquarie Fields,-33.99206,150.89307,Australia
+775,Macquarie Hills,-32.95111,151.64461,Australia
+776,Macquarie Links,-33.98454,150.87027,Australia
+777,Macquarie Park,-33.78105,151.12757,Australia
+778,Maitland,-32.73308,151.5574,Australia
+779,Maitland city centre,-32.73263,151.55331,Australia
+780,Maitland Municipality,-32.73333,151.55,Australia
+781,Malabar,-33.96216,151.24796,Australia
+782,Malua Bay,-35.79382,150.22833,Australia
+783,Mangerton,-34.43667,150.87167,Australia
+784,Manilla,-30.74748,150.71974,Australia
+785,Manly,-33.79798,151.28826,Australia
+786,Manly Vale,-33.78457,151.262,Australia
+787,Mannering Park,-33.1581,151.53477,Australia
+788,Maraylya,-33.59221,150.91979,Australia
+789,Marayong,-33.74824,150.89272,Australia
+790,Mardi,-33.29368,151.4015,Australia
+791,Marks Point,-33.05645,151.64955,Australia
+792,Maroubra,-33.95,151.23333,Australia
+793,Marrickville,-33.90741,151.15546,Australia
+794,Marsfield,-33.77784,151.10574,Australia
+795,Marulan,-34.70836,150.00966,Australia
+796,Maryland,-32.87888,151.66143,Australia
+797,Maryville,-32.91121,151.75543,Australia
+798,Mascot,-33.92598,151.19347,Australia
+799,Matraville,-33.96344,151.23195,Australia
+800,Mayfield,-32.89793,151.73613,Australia
+801,Mayfield East,-32.90031,151.74972,Australia
+802,Mayfield West,-32.89195,151.72711,Australia
+803,McGraths Hill,-33.61551,150.83372,Australia
+804,McMahons Point,-33.84492,151.20307,Australia
+805,Meadowbank,-33.81668,151.08861,Australia
+806,Medowie,-32.7415,151.8676,Australia
+807,Melrose Park,-33.81491,151.07208,Australia
+808,Menai,-34.01667,151.01667,Australia
+809,Menangle,-34.12675,150.73868,Australia
+810,Merewether,-32.94801,151.74325,Australia
+811,Merewether Heights,-32.94733,151.73565,Australia
+812,Merimbula,-36.88901,149.90961,Australia
+813,Merriwa,-32.13922,150.35562,Australia
+814,Merrylands,-33.83333,150.98333,Australia
+815,Merrylands West,-33.83269,150.96906,Australia
+816,Metford,-32.76497,151.6094,Australia
+817,Mid-Western Regional,-32.60202,149.76748,Australia
+818,Middle Cove,-33.7928,151.21248,Australia
+819,Middleton Grange,-33.91704,150.84186,Australia
+820,Miller,-33.92089,150.88469,Australia
+821,Millers Point,-33.85957,151.20406,Australia
+822,Millthorpe,-33.44601,149.18539,Australia
+823,Milperra,-33.93934,150.98148,Australia
+824,Milsons Point,-33.846,151.21192,Australia
+825,Milton,-35.31644,150.4361,Australia
+826,Minchinbury,-33.78724,150.82956,Australia
+827,Minto,-34.03333,150.85,Australia
+828,Miranda,-34.03857,151.10005,Australia
+829,Mitchell,-33.42732,149.55674,Australia
+830,Mittagong,-34.45002,150.44572,Australia
+831,Moama,-36.10413,144.7608,Australia
+832,Mollymook,-35.34107,150.46952,Australia
+833,Mollymook Beach,-35.32966,150.47173,Australia
+834,Molong,-33.09233,148.87002,Australia
+835,Mona Vale,-33.67757,151.30307,Australia
+836,Monterey,-33.9725,151.1481,Australia
+837,Moonbi,-31.01775,151.07062,Australia
+838,Moonee Beach,-30.20575,153.15293,Australia
+839,Moorebank,-33.94372,150.95657,Australia
+840,Moree,-29.46278,149.84157,Australia
+841,Moree Plains,-29.32131,149.58121,Australia
+842,Morisset,-33.10801,151.48706,Australia
+843,Morpeth,-32.73333,151.63333,Australia
+844,Mortdale,-33.96897,151.07231,Australia
+845,Mortlake,-33.84217,151.10719,Australia
+846,Moruya,-35.9125,150.08144,Australia
+847,Mosman,-33.82845,151.24866,Australia
+848,Moss Vale,-34.55374,150.37115,Australia
+849,Mount Annan,-34.05287,150.75984,Australia
+850,Mount Austin,-35.13684,147.35304,Australia
+851,Mount Colah,-33.68333,151.11667,Australia
+852,Mount Druitt,-33.76667,150.81667,Australia
+853,Mount Hutton,-32.98329,151.67012,Australia
+854,Mount Keira,-34.39678,150.85268,Australia
+855,Mount Kembla,-34.42881,150.82161,Australia
+856,Mount Kuring-Gai,-33.64197,151.12865,Australia
+857,Mount Lewis,-33.9175,151.04828,Australia
+858,Mount Ousley,-34.40213,150.88786,Australia
+859,Mount Pleasant,-34.39531,150.86658,Australia
+860,Mount Pritchard,-33.90295,150.90465,Australia
+861,Mount Riverview,-33.73074,150.63532,Australia
+862,Mount Saint Thomas,-34.44333,150.87222,Australia
+863,Mount Vernon,-33.86036,150.81007,Australia
+864,Mount Warrigal,-34.54804,150.83752,Australia
+865,Mudgee,-32.59426,149.5871,Australia
+866,Mulgoa,-33.838,150.64963,Australia
+867,Mullumbimby,-28.55236,153.49956,Australia
+868,Mulwala,-35.98536,146.00534,Australia
+869,Murrumbateman,-34.97199,149.02985,Australia
+870,Murrurundi,-31.76422,150.83575,Australia
+871,Murwillumbah,-28.32732,153.39339,Australia
+872,Muswellbrook,-32.48935,150.69839,Australia
+873,Nabiac,-32.09837,152.37627,Australia
+874,Nambucca,-30.63333,152.98333,Australia
+875,Nambucca Heads,-30.64318,153.00884,Australia
+876,Nambucca Shire,-30.70829,152.71024,Australia
+877,Nana Glen,-30.13333,153.01667,Australia
+878,Narara,-33.39593,151.33527,Australia
+879,Narellan,-34.04338,150.73236,Australia
+880,Narellan Vale,-34.04974,150.74392,Australia
+881,Naremburn,-33.81698,151.20079,Australia
+882,Narooma,-36.21783,150.13247,Australia
+883,Narrabeen,-33.71277,151.29736,Australia
+884,Narrabri,-30.32779,149.60242,Australia
+885,Narrandera,-34.59107,146.53197,Australia
+886,Narrawallee,-35.31243,150.46351,Australia
+887,Narraweena,-33.75519,151.27659,Australia
+888,Narromine,-32.23174,147.97591,Australia
+889,Narwee,-33.94653,151.06919,Australia
+890,Nelson Bay,-32.72043,152.14398,Australia
+891,Neutral Bay,-33.83784,151.2175,Australia
+892,New Lambton,-32.92838,151.7085,Australia
+893,New Lambton Heights,-32.92466,151.69364,Australia
+894,Newcastle,-32.92953,151.7801,Australia
+895,Newcastle city centre,-32.92885,151.7774,Australia
+896,Newcastle East,-32.92771,151.7884,Australia
+897,Newington,-33.83488,151.05703,Australia
+898,Newport,-33.65639,151.31401,Australia
+899,Newtown,-33.89835,151.17754,Australia
+900,Niagara Park,-33.37638,151.3486,Australia
+901,Nimbin,-28.59545,153.22336,Australia
+902,Noraville,-33.26785,151.55352,Australia
+903,Normanhurst,-33.7237,151.09576,Australia
+904,North Albury,-36.05745,146.92995,Australia
+905,North Avoca,-33.45608,151.43511,Australia
+906,North Balgowlah,-33.78631,151.24801,Australia
+907,North Boambee Valley,-30.31295,153.06925,Australia
+908,North Bondi,-33.88787,151.28075,Australia
+909,North Curl Curl,-33.76434,151.29727,Australia
+910,North Epping,-33.75944,151.09248,Australia
+911,North Gosford,-33.414,151.3516,Australia
+912,North Haven,-31.6368,152.81357,Australia
+913,North Lambton,-32.90605,151.70574,Australia
+914,North Manly,-33.77561,151.26921,Australia
+915,North Narrabeen,-33.70935,151.29607,Australia
+916,North Nowra,-34.85822,150.57479,Australia
+917,North Parramatta,-33.79351,151.00124,Australia
+918,North Richmond,-33.58117,150.71942,Australia
+919,North Rocks,-33.77223,151.01718,Australia
+920,North Ryde,-33.79677,151.12436,Australia
+921,North St Marys,-33.75491,150.78435,Australia
+922,North Strathfield,-33.85693,151.09124,Australia
+923,North Sydney,-33.83422,151.21019,Australia
+924,North Tamworth,-31.07862,150.92219,Australia
+925,North Turramurra,-33.71313,151.14638,Australia
+926,North Wahroonga,-33.70531,151.12278,Australia
+927,North Willoughby,-33.79563,151.20067,Australia
+928,North Wollongong,-34.40569,150.89763,Australia
+929,Northbridge,-33.81313,151.21728,Australia
+930,Northmead,-33.78378,150.99858,Australia
+931,Nowra,-34.88422,150.60036,Australia
+932,Nowra Hill,-34.92845,150.57243,Australia
+933,Nyngan,-31.56375,147.19373,Australia
+934,Oak Flats,-34.56229,150.82193,Australia
+935,Oakdale,-34.0793,150.5132,Australia
+936,Oakhurst,-33.73883,150.83837,Australia
+937,Oakville,-33.61558,150.88006,Australia
+938,Oatlands,-33.79595,151.02712,Australia
+939,Oatley,-33.98004,151.07201,Australia
+940,Oberon,-33.84531,149.81795,Australia
+941,Ocean Shores,-28.5093,153.5376,Australia
+942,Old Bar,-31.9694,152.58807,Australia
+943,Old Erowal Bay,-35.0846,150.64568,Australia
+944,Old Guildford,-33.86429,150.98395,Australia
+945,Old Toongabbie,-33.78763,150.96897,Australia
+946,Oran Park,-34.00564,150.74032,Australia
+947,Orange,-33.28397,149.10018,Australia
+948,Orange Municipality,-33.32834,149.12294,Australia
+949,Orangeville,-34.03108,150.60179,Australia
+950,Orchard Hills,-33.7823,150.71088,Australia
+951,Ourimbah,-33.31424,151.33031,Australia
+952,Oxley Park,-33.77072,150.79502,Australia
+953,Oxley Vale,-31.06316,150.9006,Australia
+954,Oyster Bay,-34.00407,151.07588,Australia
+955,Paddington,-33.88419,151.23151,Australia
+956,Padstow,-33.95687,151.03191,Australia
+957,Padstow Heights,-33.9674,151.03991,Australia
+958,Pagewood,-33.94137,151.21093,Australia
+959,Palm Beach,-33.59664,151.32384,Australia
+960,Panania,-33.95366,150.99733,Australia
+961,Parkes,-32.82318,148.02514,Australia
+962,Parklea,-33.72439,150.9182,Australia
+963,Parramatta,-33.81248,151.00262,Australia
+964,Peak Hill,-32.72387,148.19052,Australia
+965,Peakhurst,-33.96288,151.05161,Australia
+966,Peakhurst Heights,-33.97735,151.05557,Australia
+967,Pemulwuy,-33.82274,150.92395,Australia
+968,Pendle Hill,-33.80402,150.95543,Australia
+969,Pennant Hills,-33.73783,151.07216,Australia
+970,Penrith,-33.75,150.7,Australia
+971,Penrith Municipality,-33.75,150.7,Australia
+972,Penshurst,-33.96667,151.08333,Australia
+973,Petersham,-33.8946,151.15495,Australia
+974,Phillip,-31.13333,150.85,Australia
+975,Picnic Point,-33.98062,150.99661,Australia
+976,Picton,-34.16995,150.61168,Australia
+977,Pitt Town,-33.58718,150.85857,Australia
+978,Plumpton,-33.75184,150.83686,Australia
+979,Point Clare,-33.44378,151.32732,Australia
+980,Point Frederick,-33.44036,151.34322,Australia
+981,Point Piper,-33.86667,151.25,Australia
+982,Pokolbin,-32.8,151.28333,Australia
+983,Port Hacking,-34.06791,151.12561,Australia
+984,Port Kembla,-34.4818,150.9012,Australia
+985,Port Macquarie,-31.43084,152.90894,Australia
+986,Port Macquarie-Hastings,-31.42106,152.51916,Australia
+987,Port Stephens Shire,-32.72855,151.89952,Australia
+988,Portland,-33.35709,149.98148,Australia
+989,Potts Point,-33.86701,151.22586,Australia
+990,Pottsville,-28.3874,153.55857,Australia
+991,Pottsville Beach,-28.38853,153.56564,Australia
+992,Prairiewood,-33.86325,150.90521,Australia
+993,Prestons,-33.94185,150.8717,Australia
+994,Primbee,-34.50358,150.8795,Australia
+995,Prospect,-33.80154,150.91358,Australia
+996,Punchbowl,-33.92893,151.05111,Australia
+997,Putney,-33.82613,151.1063,Australia
+998,Pymble,-33.74386,151.14188,Australia
+999,Pyrmont,-33.86985,151.19402,Australia
+1000,Quakers Hill,-33.73333,150.88333,Australia
+1001,Queanbeyan,-35.35493,149.232,Australia
+1002,Queanbeyan East,-35.34625,149.24596,Australia
+1003,Queanbeyan West,-35.35497,149.20412,Australia
+1004,Queens Park,-33.89946,151.24724,Australia
+1005,Queenscliff,-33.78278,151.28495,Australia
+1006,Quirindi,-31.50763,150.67902,Australia
+1007,Raby,-34.01846,150.81764,Australia
+1008,Raglan,-33.41667,149.66667,Australia
+1009,Ramsgate,-33.9822,151.14,Australia
+1010,Ramsgate Beach,-33.98523,151.14634,Australia
+1011,Randwick,-33.91667,151.25,Australia
+1012,Rankin Park,-32.92516,151.68016,Australia
+1013,Rathmines,-33.03773,151.58443,Australia
+1014,Raworth,-32.73333,151.61667,Australia
+1015,Raymond Terrace,-32.75952,151.7505,Australia
+1016,Razorback,-34.15237,150.65308,Australia
+1017,Redfern,-33.89279,151.20415,Australia
+1018,Redhead,-33.01178,151.71142,Australia
+1019,Regents Park,-33.88333,151.01667,Australia
+1020,Revesby,-33.95,151.01667,Australia
+1021,Revesby Heights,-33.9671,151.01841,Australia
+1022,Rhodes,-33.82663,151.0881,Australia
+1023,Richmond,-33.59956,150.75142,Australia
+1024,Richmond Valley,-29.02684,153.08625,Australia
+1025,Riverstone,-33.68333,150.86667,Australia
+1026,Riverview,-33.82465,151.16243,Australia
+1027,Riverwood,-33.94725,151.04973,Australia
+1028,Robertson,-34.58742,150.59116,Australia
+1029,Rockdale,-33.96611,151.14342,Australia
+1030,Rodd Point,-33.86662,151.13995,Australia
+1031,Rooty Hill,-33.76667,150.83333,Australia
+1032,Ropes Crossing,-33.73276,150.79104,Australia
+1033,Rose Bay,-33.86877,151.2706,Australia
+1034,Rosehill,-33.82009,151.0245,Australia
+1035,Roselands,-33.93317,151.0732,Australia
+1036,Rosemeadow,-34.10414,150.79282,Australia
+1037,Roseville,-33.78333,151.18333,Australia
+1038,Roseville Chase,-33.77852,151.19677,Australia
+1039,Rouse Hill,-33.68207,150.9154,Australia
+1040,Rozelle,-33.86141,151.1705,Australia
+1041,Ruse,-34.06976,150.84168,Australia
+1042,Rushcutters Bay,-33.8748,151.22799,Australia
+1043,Russell Lea,-33.85889,151.14111,Australia
+1044,Russell Vale,-34.35542,150.89434,Australia
+1045,Rutherford,-32.71667,151.53333,Australia
+1046,Rydalmere,-33.81453,151.03751,Australia
+1047,Ryde,-33.80149,151.11205,Australia
+1048,Sadleir,-33.91713,150.89093,Australia
+1049,Saint Ives,-33.72976,151.15977,Australia
+1050,Saint Peters,-33.91667,151.18333,Australia
+1051,Salamander Bay,-32.72253,152.07945,Australia
+1052,Salt Ash,-32.78333,151.91667,Australia
+1053,San Remo,-33.21469,151.52102,Australia
+1054,Sanctuary Point,-35.10361,150.62667,Australia
+1055,Sandringham,-33.99447,151.13913,Australia
+1056,Sandy Beach,-30.14681,153.19238,Australia
+1057,Sans Souci,-33.9899,151.13334,Australia
+1058,Sapphire Beach,-30.22614,153.13628,Australia
+1059,Saratoga,-33.47564,151.35207,Australia
+1060,Sawtell,-30.36459,153.10141,Australia
+1061,Schofields,-33.71667,150.86667,Australia
+1062,Scone,-32.05014,150.86893,Australia
+1063,Seaforth,-33.80145,151.23981,Australia
+1064,Sefton,-33.88773,151.01053,Australia
+1065,Seven Hills,-33.78333,150.93333,Australia
+1066,Shalvey,-33.72687,150.80529,Australia
+1067,Shell Cove,-34.58994,150.86203,Australia
+1068,Shellharbour,-34.58333,150.86667,Australia
+1069,Shelly Beach,-33.36999,151.48522,Australia
+1070,Shoal Bay,-32.72231,152.17498,Australia
+1071,Shoalhaven Heads,-34.85086,150.74512,Australia
+1072,Shoalhaven Shire,-35.14162,150.41295,Australia
+1073,Shortland,-32.87883,151.69105,Australia
+1074,Silverdale,-33.9152,150.6096,Australia
+1075,Silverwater,-33.83343,151.04731,Australia
+1076,Singleton,-32.60547,150.91872,Australia
+1077,Singleton Heights,-32.5416,151.16089,Australia
+1078,Skennars Head,-28.82888,153.60209,Australia
+1079,Smithfield,-33.85,150.93333,Australia
+1080,Smiths Lake,-32.38043,152.50337,Australia
+1081,Soldiers Point,-32.7105,152.06979,Australia
+1082,Somersby,-33.36667,151.28333,Australia
+1083,South Albury,-36.08654,146.90905,Australia
+1084,South Bathurst,-33.43839,149.57203,Australia
+1085,South Bowenfels,-33.51667,150.11667,Australia
+1086,South Coogee,-33.93106,151.25599,Australia
+1087,South Grafton,-29.7076,152.92627,Australia
+1088,South Granville,-33.85864,151.01066,Australia
+1089,South Hurstville,-33.97756,151.1055,Australia
+1090,South Kempsey,-31.12302,152.83253,Australia
+1091,South Lismore,-28.81629,153.25619,Australia
+1092,South Murwillumbah,-28.33895,153.40004,Australia
+1093,South Nowra,-34.90332,150.59827,Australia
+1094,South Penrith,-33.77349,150.69466,Australia
+1095,South Tamworth,-31.11,150.92254,Australia
+1096,South Turramurra,-33.74941,151.11257,Australia
+1097,South Wentworthville,-33.8185,150.96344,Australia
+1098,South West Rocks,-30.88553,153.04126,Australia
+1099,South Windsor,-33.61808,150.80443,Australia
+1100,Speers Point,-32.96383,151.62618,Australia
+1101,Spring Farm,-34.06851,150.71182,Australia
+1102,Springdale Heights,-36.03095,146.94783,Australia
+1103,Springvale,-35.16687,147.33058,Australia
+1104,Springwood,-33.7,150.55,Australia
+1105,St Andrews,-34.02243,150.82958,Australia
+1106,St Clair,-33.79728,150.7847,Australia
+1107,St Helens Park,-34.10474,150.81368,Australia
+1108,St Huberts Island,-33.49562,151.34616,Australia
+1109,St Ives Chase,-33.70381,151.1646,Australia
+1110,St Johns Park,-33.88295,150.90182,Australia
+1111,St Leonards,-33.82344,151.19836,Australia
+1112,St. Georges Basin,-35.08986,150.59801,Australia
+1113,Stanhope Gardens,-33.72206,150.92597,Australia
+1114,Stanmore,-33.89407,151.16424,Australia
+1115,Stanwell Park,-34.2261,150.98583,Australia
+1116,Stockton,-32.90908,151.7836,Australia
+1117,Strathfield,-33.87978,151.07561,Australia
+1118,Strathfield South,-33.89252,151.08334,Australia
+1119,Suffolk Park,-28.6881,153.60977,Australia
+1120,Summer Hill,-33.89146,151.13825,Australia
+1121,Summerland Point,-33.14091,151.56561,Australia
+1122,Sunshine Bay,-35.7454,150.20792,Australia
+1123,Surfside,-35.69531,150.19949,Australia
+1124,Surry Hills,-33.88374,151.21282,Australia
+1125,Sussex Inlet,-35.15671,150.58533,Australia
+1126,Sutherland,-34.031,151.05532,Australia
+1127,Sutherland Shire,-34.07202,151.07712,Australia
+1128,Sutton,-35.16667,149.25,Australia
+1129,Swansea,-33.08765,151.63745,Australia
+1130,Sydenham,-33.91669,151.16798,Australia
+1131,Sydney,-33.86785,151.20732,Australia
+1132,Sydney Central Business District,-33.86482,151.20773,Australia
+1133,Sydney Olympic Park,-33.84983,151.06828,Australia
+1134,Sylvania,-34.01242,151.09718,Australia
+1135,Sylvania Waters,-34.01868,151.1086,Australia
+1136,Table Top,-35.96667,147.0,Australia
+1137,Tahmoor,-34.22246,150.59467,Australia
+1138,Tamarama,-33.89835,151.27059,Australia
+1139,Tamworth,-31.09048,150.92905,Australia
+1140,Tamworth Municipality,-30.92204,150.81526,Australia
+1141,Tanilba Bay,-32.74706,151.99714,Australia
+1142,Taree,-31.91099,152.45387,Australia
+1143,Taren Point,-34.01936,151.11826,Australia
+1144,Tarrawanna,-34.38152,150.88799,Australia
+1145,Tarro,-32.8,151.66667,Australia
+1146,Tascott,-33.45017,151.31375,Australia
+1147,Tathra,-36.73126,149.98328,Australia
+1148,Tatton,-35.1599,147.35875,Australia
+1149,Tea Gardens,-32.66351,152.15404,Australia
+1150,Telarah,-32.72876,151.53453,Australia
+1151,Telopea,-33.79279,151.03858,Australia
+1152,Temora,-34.44834,147.53558,Australia
+1153,Temora Municipality,-34.38314,147.47917,Australia
+1154,Tempe,-33.92335,151.1602,Australia
+1155,Tenambit,-32.73967,151.61293,Australia
+1156,Tennyson Point,-33.83172,151.11682,Australia
+1157,Tenterfield,-29.04946,152.01952,Australia
+1158,Tenterfield Municipality,-29.06897,152.04803,Australia
+1159,Teralba,-32.96667,151.6,Australia
+1160,Terranora,-28.23832,153.50078,Australia
+1161,Terrigal,-33.44815,151.44665,Australia
+1162,Terry Hills,-33.68333,151.23333,Australia
+1163,The Entrance,-33.33876,151.4978,Australia
+1164,The Entrance North,-33.33573,151.50335,Australia
+1165,The Hill,-32.93089,151.77835,Australia
+1166,The Hills Shire,-33.59118,150.961,Australia
+1167,The Junction,-32.93822,151.75909,Australia
+1168,The Oaks,-34.07995,150.56998,Australia
+1169,The Ponds,-33.70228,150.91086,Australia
+1170,The Rock,-35.27302,147.11381,Australia
+1171,The Rocks,-33.85923,151.2081,Australia
+1172,Thirlmere,-34.20455,150.56767,Australia
+1173,Thirroul,-34.31604,150.92142,Australia
+1174,Thornleigh,-33.73228,151.07895,Australia
+1175,Thornton,-32.78333,151.63333,Australia
+1176,Thurgoona,-36.03626,146.99609,Australia
+1177,Tighes Hill,-32.90732,151.7509,Australia
+1178,Tingira Heights,-32.99725,151.67021,Australia
+1179,Tinonee,-31.93634,152.41425,Australia
+1180,Tocumwal,-35.8115,145.56922,Australia
+1181,Tolland,-35.14521,147.35162,Australia
+1182,Tomakin,-35.82335,150.18794,Australia
+1183,Tomerong,-35.05231,150.5865,Australia
+1184,Toongabbie,-33.78333,150.95,Australia
+1185,Toormina,-30.35384,153.08843,Australia
+1186,Toronto,-33.01357,151.59373,Australia
+1187,Toukley,-33.26367,151.53841,Australia
+1188,Towradgi,-34.38667,150.90278,Australia
+1189,Trangie,-32.03147,147.98344,Australia
+1190,Tregear,-33.74562,150.79294,Australia
+1191,Tuggerawong,-33.2804,151.48044,Australia
+1192,Tumbarumba,-35.77806,148.01172,Australia
+1193,Tumbi Vmbi,-33.36667,151.45,Australia
+1194,Tumut,-35.30642,148.21818,Australia
+1195,Tuncurry,-32.17443,152.49876,Australia
+1196,Tura Beach,-36.86358,149.93027,Australia
+1197,Tuross Head,-36.05328,150.13322,Australia
+1198,Turramurra,-33.73342,151.12849,Australia
+1199,Turrella,-33.93033,151.14209,Australia
+1200,Turvey Park,-35.12849,147.36264,Australia
+1201,Tweed,-28.34991,153.34652,Australia
+1202,Tweed Heads,-28.17671,153.5452,Australia
+1203,Tweed Heads South,-28.19517,153.53964,Australia
+1204,Tweed Heads West,-28.18736,153.52278,Australia
+1205,Ulladulla,-35.35906,150.47247,Australia
+1206,Ultimo,-33.87722,151.1972,Australia
+1207,Umina Beach,-33.52314,151.31325,Australia
+1208,Unanderra,-34.45306,150.84746,Australia
+1209,Upper Hunter Shire,-31.98126,150.69282,Australia
+1210,Upper Lachlan Shire,-34.41867,149.53061,Australia
+1211,Uralla,-30.48548,151.35451,Australia
+1212,Urunga,-30.49701,153.01422,Australia
+1213,Valentine,-33.01504,151.6429,Australia
+1214,Valla Beach,-30.59259,153.01131,Australia
+1215,Valley Heights,-33.7,150.58333,Australia
+1216,Vaucluse,-33.85549,151.27754,Australia
+1217,Villawood,-33.88434,150.98027,Australia
+1218,Vincentia,-35.06825,150.6748,Australia
+1219,Vineyard,-33.64995,150.85259,Australia
+1220,Voyager Point,-33.95871,150.97417,Australia
+1221,Wadalba,-33.2723,151.46487,Australia
+1222,Wagga Wagga,-35.18587,147.35509,Australia
+1223,Wahroonga,-33.71816,151.11561,Australia
+1224,Waitara,-33.71092,151.1033,Australia
+1225,Wakeley,-33.87427,150.90976,Australia
+1226,Walcha,-31.19757,151.81854,Australia
+1227,Walgett,-29.79031,148.13393,Australia
+1228,Wallacia,-33.86577,150.64021,Australia
+1229,Wallalong,-32.69556,151.64957,Australia
+1230,Wallerawang,-33.41096,150.06456,Australia
+1231,Wallsend,-32.90133,151.66432,Australia
+1232,Wamberal,-33.41554,151.44559,Australia
+1233,Wamboin,-35.25073,149.33284,Australia
+1234,Wangi Wangi,-33.07185,151.5984,Australia
+1235,Warabrook,-32.88885,151.71493,Australia
+1236,Waratah,-32.90667,151.72647,Australia
+1237,Waratah West,-32.90003,151.7117,Australia
+1238,Wareemba,-33.85819,151.13085,Australia
+1239,Warialda,-29.54354,150.57542,Australia
+1240,Warilla,-34.55185,150.85831,Australia
+1241,Warners Bay,-32.97251,151.65268,Australia
+1242,Warragamba,-33.89191,150.60461,Australia
+1243,Warrawee,-33.72884,151.12051,Australia
+1244,Warrawong,-34.485,150.88833,Australia
+1245,Warren,-31.70224,147.83392,Australia
+1246,Warren Shire,-31.29549,147.72853,Australia
+1247,Warriewood,-33.68857,151.29534,Australia
+1248,Warrimoo,-33.71667,150.6,Australia
+1249,Warrumbungle Shire,-31.45519,149.45377,Australia
+1250,Warwick Farm,-33.91291,150.93701,Australia
+1251,Watanobbi,-33.26772,151.42246,Australia
+1252,Waterview Heights,-29.69775,152.83922,Australia
+1253,Wattle Grove,-33.95443,150.94447,Australia
+1254,Wattle Ponds,-32.52026,151.19359,Australia
+1255,Wauchope,-31.45792,152.72617,Australia
+1256,Waverley,-33.90181,151.25599,Australia
+1257,Waverton,-33.83863,151.20046,Australia
+1258,Weddin,-33.87903,148.01125,Australia
+1259,Wee Waa,-30.2266,149.44041,Australia
+1260,Wellington,-32.55588,148.94508,Australia
+1261,Wentworth,-33.67106,142.33675,Australia
+1262,Wentworth Falls,-33.71033,150.37534,Australia
+1263,Wentworth Point,-33.8308,151.07441,Australia
+1264,Wentworthville,-33.80652,150.96785,Australia
+1265,Werrington,-33.7592,150.75266,Australia
+1266,Werrington County,-33.7465,150.73929,Australia
+1267,Werrington Downs,-33.74206,150.72779,Australia
+1268,Werris Creek,-31.34908,150.6487,Australia
+1269,West Albury,-36.07979,146.89227,Australia
+1270,West Ballina,-28.862,153.53291,Australia
+1271,West Bathurst,-33.4092,149.56324,Australia
+1272,West Gosford,-33.42578,151.31701,Australia
+1273,West Haven,-31.63555,152.78378,Australia
+1274,West Hoxton,-33.93388,150.83234,Australia
+1275,West Kempsey,-31.05757,152.82794,Australia
+1276,West Nowra,-34.88593,150.58333,Australia
+1277,West Pennant Hills,-33.7457,151.04764,Australia
+1278,West Pymble,-33.76667,151.13333,Australia
+1279,West Ryde,-33.80543,151.07386,Australia
+1280,West Tamworth,-31.10236,150.91447,Australia
+1281,West Wallsend,-32.9,151.58333,Australia
+1282,West Wollongong,-34.4248,150.86417,Australia
+1283,West Wyalong,-33.92373,147.20473,Australia
+1284,Westdale,-31.09052,150.85678,Australia
+1285,Westleigh,-33.71176,151.07139,Australia
+1286,Westmead,-33.80383,150.98768,Australia
+1287,Wetherill Park,-33.84277,150.90061,Australia
+1288,Whalan,-33.75697,150.80402,Australia
+1289,Wheeler Heights,-33.73119,151.28049,Australia
+1290,Whitebridge,-32.97436,151.71614,Australia
+1291,Wickham,-32.91923,151.75693,Australia
+1292,Wilberforce,-33.56256,150.83784,Australia
+1293,Wiley Park,-33.9242,151.06737,Australia
+1294,Williamtown,-32.80638,151.84361,Australia
+1295,Willmot,-33.72534,150.79259,Australia
+1296,Willoughby,-33.80167,151.18782,Australia
+1297,Willoughby East,-33.79844,151.20518,Australia
+1298,Wilton,-34.24053,150.69771,Australia
+1299,Windale,-32.99277,151.68167,Australia
+1300,Windang,-34.53333,150.86667,Australia
+1301,Windradyne,-33.40539,149.54507,Australia
+1302,Windsor,-33.61309,150.81416,Australia
+1303,Windsor Downs,-33.65857,150.81079,Australia
+1304,Wingecarribee,-34.49091,150.35486,Australia
+1305,Wingham,-31.86676,152.36989,Australia
+1306,Winmalee,-33.67847,150.61213,Australia
+1307,Winston Hills,-33.77645,150.98051,Australia
+1308,Wolli Creek,-33.93133,151.15222,Australia
+1309,Wollondilly,-34.06958,150.46265,Australia
+1310,Wollongbar,-28.8182,153.39686,Australia
+1311,Wollongong,-34.424,150.89345,Australia
+1312,Wollongong city centre,-34.4279,150.89268,Australia
+1313,Wollstonecraft,-33.8328,151.18981,Australia
+1314,Woodberry,-32.79311,151.67687,Australia
+1315,Woodbine,-34.04589,150.82146,Australia
+1316,Woodcroft,-33.75637,150.88071,Australia
+1317,Woodford,-33.73333,150.48333,Australia
+1318,Woodpark,-33.84137,150.96055,Australia
+1319,Woodrising,-32.98595,151.60657,Australia
+1320,Woolgoolga,-30.11058,153.20067,Australia
+1321,Woollahra,-33.87901,151.24706,Australia
+1322,Woolloomooloo,-33.87042,151.21968,Australia
+1323,Woolooware,-34.04583,151.14312,Australia
+1324,Woongarrah,-33.24134,151.47563,Australia
+1325,Woonona,-34.34932,150.91443,Australia
+1326,Woronora,-34.02436,151.03862,Australia
+1327,Woronora Heights,-34.03562,151.02734,Australia
+1328,Worrigee,-34.9,150.63333,Australia
+1329,Woy Woy,-33.48433,151.32471,Australia
+1330,Wyee,-33.18252,151.48804,Australia
+1331,Wyee Point,-33.14585,151.50783,Australia
+1332,Wyoming,-33.40387,151.36254,Australia
+1333,Wyong,-33.28254,151.42327,Australia
+1334,Wyongah,-33.27468,151.48898,Australia
+1335,Yagoona,-33.9049,151.01996,Australia
+1336,Yamba,-29.4375,153.35914,Australia
+1337,Yarravel,-31.04295,152.76191,Australia
+1338,Yarrawarrah,-34.05351,151.03563,Australia
+1339,Yass,-34.84036,148.90987,Australia
+1340,Yass Valley,-34.9263,148.9724,Australia
+1341,Yenda,-34.24525,146.20273,Australia
+1342,Yennora,-33.86173,150.96865,Australia
+1343,Yerrinbool,-34.36884,150.53848,Australia
+1344,Yoogali,-34.29944,146.08443,Australia
+1345,Young,-34.3135,148.30107,Australia
+1346,Yowie Bay,-34.05116,151.10228,Australia
+1347,Zetland,-33.90748,151.20857,Australia
+1348,Alawa,-12.37954,130.8732,Australia
+1349,Alice Springs,-23.69748,133.88362,Australia
+1350,Alyangula,-13.85413,136.42129,Australia
+1351,Anula,-12.39125,130.89047,Australia
+1352,Araluen,-23.69601,133.854,Australia
+1353,Bakewell,-12.49684,130.99344,Australia
+1354,Barkly,-19.54154,134.82364,Australia
+1355,Bellamack,-12.51707,130.98355,Australia
+1356,Belyuen,-12.53819,130.68317,Australia
+1357,Berrimah,-12.43507,130.92606,Australia
+1358,Braitling,-23.68005,133.86877,Australia
+1359,Brinkin,-12.37057,130.86799,Australia
+1360,Central Desert,-21.07203,133.49949,Australia
+1361,Coconut Grove,-12.39602,130.85186,Australia
+1362,Coomalie,-13.04322,131.08427,Australia
+1363,Cossack,-14.45551,132.17482,Australia
+1364,Darwin,-12.46113,130.84185,Australia
+1365,Desert Springs,-23.71554,133.88768,Australia
+1366,Driver,-12.48602,130.97539,Australia
+1367,Durack,-12.47308,130.97208,Australia
+1368,East Arnhem,-12.66175,135.82281,Australia
+1369,East Side,-23.69195,133.8932,Australia
+1370,Fannie Bay,-12.42275,130.83627,Australia
+1371,Farrar,-12.48028,130.9982,Australia
+1372,Galiwinku,-12.02811,135.56486,Australia
+1373,Gillen,-23.70915,133.86596,Australia
+1374,Girraween,-12.52528,131.09566,Australia
+1375,Gray,-12.49036,130.98228,Australia
+1376,Gunbalanya,-12.32474,133.05087,Australia
+1377,Gunn,-12.48765,130.99322,Australia
+1378,Herbert,-12.53414,131.16197,Australia
+1379,Holtze,-12.4485,131.00556,Australia
+1380,Howard Springs,-12.49576,131.04446,Australia
+1381,Humpty Doo,-12.58406,131.13674,Australia
+1382,Jabiru,-12.67049,132.83604,Australia
+1383,Jingili,-12.38895,130.87281,Australia
+1384,Johnston,-12.48764,131.01169,Australia
+1385,Karama,-12.40219,130.916,Australia
+1386,Katherine,-14.65012,132.17414,Australia
+1387,Katherine East,-14.46597,132.28556,Australia
+1388,Katherine South,-14.46784,132.25848,Australia
+1389,Larapinta,-23.69303,133.83137,Australia
+1390,Larrakeyah,-12.45527,130.83172,Australia
+1391,Leanyer,-12.36667,130.9,Australia
+1392,Litchfield,-12.50228,131.12785,Australia
+1393,Ludmilla,-12.42032,130.85506,Australia
+1394,Lyons,-12.35912,130.88852,Australia
+1395,MacDonnell,-24.42671,133.49982,Australia
+1396,Malak,-12.39288,130.90395,Australia
+1397,Maningrida,-12.0483,134.22941,Australia
+1398,Marrara,-12.40041,130.8929,Australia
+1399,Milingimbi,-12.10188,134.91901,Australia
+1400,Millner,-12.39186,130.86252,Australia
+1401,Moil,-12.3885,130.88088,Australia
+1402,Moulden,-12.50559,130.97313,Australia
+1403,Muirhead,-12.35863,130.89352,Australia
+1404,Nakara,-12.37054,130.87728,Australia
+1405,Ngukurr,-14.73081,134.73102,Australia
+1406,Nhulunbuy,-12.18165,136.77841,Australia
+1407,Nightcliff,-12.38299,130.8517,Australia
+1408,Palmerston,-12.4962,130.97797,Australia
+1409,Parap,-12.43054,130.84142,Australia
+1410,Rapid Creek,-12.38042,130.85919,Australia
+1411,Roper Gulf,-15.30564,134.97356,Australia
+1412,Rosebery,-12.51046,130.9878,Australia
+1413,Ross,-23.74424,133.90358,Australia
+1414,Sadadeen,-23.70399,133.90043,Australia
+1415,Stuart Park,-12.4486,130.84249,Australia
+1416,Tennant Creek,-19.6497,134.19147,Australia
+1417,The Gap,-23.71333,133.87386,Australia
+1418,Tiwi,-12.35876,130.878,Australia
+1419,Tiwi Islands,-11.55324,130.78178,Australia
+1420,Victoria Daly,-15.9292,130.76166,Australia
+1421,Virginia,-12.51895,131.02844,Australia
+1422,Wadeye,-14.23834,129.52177,Australia
+1423,Wagait,-12.44161,130.7537,Australia
+1424,Wagaman,-12.38074,130.88538,Australia
+1425,Wanguri,-12.37129,130.88815,Australia
+1426,West Arnhem,-12.38723,133.37935,Australia
+1427,Woodroffe,-12.50173,130.98016,Australia
+1428,Wulagi,-12.38345,130.89543,Australia
+1429,Wurrumiyanga,-11.76082,130.62555,Australia
+1430,Yulara,-25.2406,130.9889,Australia
+1431,Zuccoli,-12.50727,131.00694,Australia
+1432,Acacia Ridge,-27.58333,153.03333,Australia
+1433,Agnes Water,-24.2119,151.9035,Australia
+1434,Airlie Beach,-20.26751,148.71471,Australia
+1435,Aitkenvale,-19.30142,146.77082,Australia
+1436,Albany Creek,-27.35364,152.96848,Australia
+1437,Alderley,-27.42553,153.00102,Australia
+1438,Aldershot,-25.46312,152.66348,Australia
+1439,Alexandra Headland,-26.67154,153.10058,Australia
+1440,Alexandra Hills,-27.53221,153.22889,Australia
+1441,Algester,-27.61279,153.03239,Australia
+1442,Alice River,-19.33437,146.61391,Australia
+1443,Allenstown,-23.39403,150.50393,Australia
+1444,Alligator Creek,-19.39176,146.93784,Australia
+1445,Allora,-28.03484,151.98058,Australia
+1446,Alton Downs,-23.3,150.35,Australia
+1447,Andergrove,-21.08333,149.18333,Australia
+1448,Annandale,-19.31503,146.79069,Australia
+1449,Annerley,-27.51228,153.03248,Australia
+1450,Anstead,-27.53781,152.86187,Australia
+1451,Arana Hills,-27.39808,152.95797,Australia
+1452,Aroona,-26.78173,153.11652,Australia
+1453,Arundel,-27.93768,153.36302,Australia
+1454,Ascot,-27.43154,153.058,Australia
+1455,Ashgrove,-27.44552,152.992,Australia
+1456,Ashmore,-27.98883,153.37647,Australia
+1457,Aspley,-27.36667,153.01667,Australia
+1458,Atherton,-17.26864,145.47522,Australia
+1459,Auchenflower,-27.47443,152.99213,Australia
+1460,Augustine Heights,-27.66047,152.87896,Australia
+1461,Aurukun,-13.51263,141.82435,Australia
+1462,Avenell Heights,-24.8896,152.36786,Australia
+1463,Avoca,-24.87822,152.30794,Australia
+1464,Ayr,-19.57393,147.40666,Australia
+1465,Babinda,-17.3439,145.92265,Australia
+1466,Bahrs Scrub,-27.73333,153.16667,Australia
+1467,Bakers Creek,-21.2199,149.14681,Australia
+1468,Bald Hills,-27.32112,153.00857,Australia
+1469,Balmoral,-27.45341,153.0668,Australia
+1470,Balonne Shire,-28.28481,148.17933,Australia
+1471,Bamaga,-10.89197,142.38934,Australia
+1472,Banana,-24.80653,149.89838,Australia
+1473,Banksia Beach,-27.04027,153.1439,Australia
+1474,Banyo,-27.38236,153.07903,Australia
+1475,Barcaldine,-23.05203,145.4349,Australia
+1476,Barcoo,-25.17292,142.46481,Australia
+1477,Bardon,-27.461,152.9792,Australia
+1478,Barellan Point,-27.57196,152.84379,Australia
+1479,Bargara,-24.81476,152.46257,Australia
+1480,Barney Point,-23.84793,151.26577,Australia
+1481,Battery Hill,-26.77878,153.12887,Australia
+1482,Bayview Heights,-16.96229,145.72585,Australia
+1483,Beachmere,-27.12808,153.05243,Australia
+1484,Beaconsfield,-21.09121,149.16544,Australia
+1485,Beaudesert,-27.98691,152.99657,Australia
+1486,Beenleigh,-27.71137,153.2029,Australia
+1487,Beerwah,-26.85881,152.96144,Australia
+1488,Belgian Gardens,-19.24507,146.79455,Australia
+1489,Bellara,-27.06392,153.14959,Australia
+1490,Bellbird Park,-27.63674,152.88663,Australia
+1491,Bellbowrie,-27.55939,152.88278,Australia
+1492,Bellmere,-27.08441,152.89003,Australia
+1493,Belmont,-27.49882,153.134,Australia
+1494,Benaraby,-24.00417,151.3341,Australia
+1495,Benowa,-28.0077,153.38583,Australia
+1496,Bentley Park,-17.00389,145.73819,Australia
+1497,Berrinba,-27.65853,153.07888,Australia
+1498,Berserker,-23.35817,150.52042,Australia
+1499,Biggera Waters,-27.93239,153.40021,Australia
+1500,Bilinga,-28.16667,153.51667,Australia
+1501,Biloela,-24.39589,150.51504,Australia
+1502,Birkdale,-27.48333,153.21667,Australia
+1503,Birtinya,-26.74322,153.11913,Australia
+1504,Black Mountain,-26.39886,152.87561,Australia
+1505,Black River,-19.22517,146.61787,Australia
+1506,Blackall,-24.42327,145.46303,Australia
+1507,Blackall Tambo,-24.78795,145.97279,Australia
+1508,Blacks Beach,-21.05466,149.18971,Australia
+1509,Blackwater,-23.58351,148.87912,Australia
+1510,Bli Bli,-26.61724,153.03665,Australia
+1511,Bluewater,-19.18157,146.5582,Australia
+1512,Bohle Plains,-19.31365,146.69186,Australia
+1513,Bokarina,-26.73843,153.13049,Australia
+1514,Bongaree,-27.08367,153.15942,Australia
+1515,Bonogin,-28.1393,153.35297,Australia
+1516,Booie,-26.53677,151.94181,Australia
+1517,Boonah,-27.99724,152.68108,Australia
+1518,Boondall,-27.35317,153.06092,Australia
+1519,Booral,-25.36048,152.9081,Australia
+1520,Booval,-27.61328,152.78944,Australia
+1521,Boronia Heights,-27.68855,153.01959,Australia
+1522,Bouldercombe,-23.57054,150.46951,Australia
+1523,Boulia,-22.27908,139.62534,Australia
+1524,Bowen,-20.01367,148.24754,Australia
+1525,Bowen Hills,-27.44369,153.03728,Australia
+1526,Boyne Island,-23.94829,151.35336,Australia
+1527,Bracken Ridge,-27.3171,153.03097,Australia
+1528,Brandon,-19.55389,147.35304,Australia
+1529,Branyan,-24.91347,152.27251,Australia
+1530,Brassall,-27.59753,152.74755,Australia
+1531,Bray Park,-27.29246,152.96783,Australia
+1532,Brendale,-27.32114,152.98393,Australia
+1533,Bridgeman Downs,-27.35538,152.99432,Australia
+1534,Brighton,-27.29582,153.05721,Australia
+1535,Brinsmead,-16.89921,145.71554,Australia
+1536,Brisbane,-27.46794,153.02809,Australia
+1537,Broadbeach,-28.02782,153.43343,Australia
+1538,Broadbeach Waters,-28.03498,153.42502,Australia
+1539,Brookfield,-27.5,152.9,Australia
+1540,Brookwater,-27.66128,152.89669,Australia
+1541,Bucasia,-21.03494,149.15726,Australia
+1542,Bucca,-24.86667,152.1,Australia
+1543,Buccan,-27.75,153.13333,Australia
+1544,Buddina,-26.69565,153.13302,Australia
+1545,Buderim,-26.68443,153.05705,Australia
+1546,Bulimba,-27.4499,153.05766,Australia
+1547,Bulloo,-27.83079,142.9128,Australia
+1548,Bundaberg,-24.97305,151.98442,Australia
+1549,Bundaberg East,-24.8586,152.38003,Australia
+1550,Bundaberg North,-24.84914,152.34638,Australia
+1551,Bundaberg South,-24.87277,152.35986,Australia
+1552,Bundaberg West,-24.87265,152.33647,Australia
+1553,Bundall,-28.01111,153.40479,Australia
+1554,Bundamba,-27.60947,152.81133,Australia
+1555,Bungalow,-16.93855,145.75634,Australia
+1556,Bunya,-27.3694,152.94331,Australia
+1557,Burbank,-27.55584,153.14701,Australia
+1558,Burdekin,-19.84934,147.27239,Australia
+1559,Burdell,-19.25056,146.69877,Australia
+1560,Burke,-18.06461,139.03748,Australia
+1561,Burleigh Heads,-28.1,153.45,Australia
+1562,Burleigh Waters,-28.09975,153.42463,Australia
+1563,Burnett Heads,-24.76468,152.4127,Australia
+1564,Burnside,-26.63255,152.94063,Australia
+1565,Burpengary,-27.15746,152.95758,Australia
+1566,Burpengary East,-27.14447,152.99968,Australia
+1567,Burrum Heads,-25.18457,152.61263,Australia
+1568,Bushland Beach,-19.19134,146.67682,Australia
+1569,Cabarlah,-27.43333,152.0,Australia
+1570,Caboolture,-27.08465,152.9511,Australia
+1571,Caboolture South,-27.09389,152.94874,Australia
+1572,Cairns,-16.90268,145.75287,Australia
+1573,Cairns City,-16.92069,145.77358,Australia
+1574,Cairns North,-16.90406,145.75703,Australia
+1575,Calamvale,-27.62329,153.04785,Australia
+1576,Calliope,-24.00705,151.20033,Australia
+1577,Caloundra,-26.80346,153.12195,Australia
+1578,Caloundra West,-26.80634,153.10894,Australia
+1579,Cambooya,-27.71454,151.86029,Australia
+1580,Camira,-27.63461,152.92091,Australia
+1581,Camp Hill,-27.49354,153.07629,Australia
+1582,Camp Mountain,-27.4,152.88333,Australia
+1583,Cannon Hill,-27.47237,153.09475,Australia
+1584,Cannonvale,-20.27681,148.69759,Australia
+1585,Canungra,-28.01689,153.16525,Australia
+1586,Capalaba,-27.54333,153.20287,Australia
+1587,Capella,-23.08593,148.02206,Australia
+1588,Caravonica,-16.87063,145.68099,Australia
+1589,Carbrook,-27.68333,153.25,Australia
+1590,Cardwell,-18.26693,146.02804,Australia
+1591,Carina Heights,-27.50721,153.09126,Australia
+1592,Carindale,-27.50578,153.10236,Australia
+1593,Carpentaria,-17.32216,141.3531,Australia
+1594,Carrara,-28.02151,153.36635,Australia
+1595,Carseldine,-27.34753,153.02307,Australia
+1596,Cashmere,-27.29767,152.90662,Australia
+1597,Cassowary Coast,-17.96785,145.96561,Australia
+1598,Cedar Grove,-27.86667,152.98333,Australia
+1599,Cedar Vale,-27.88923,153.02891,Australia
+1600,Centenary Heights,-27.58684,151.96249,Australia
+1601,Central Highlands,-24.06336,148.31958,Australia
+1602,Chambers Flat,-27.74811,153.07764,Australia
+1603,Chandler,-27.51398,153.14907,Australia
+1604,Chapel Hill,-27.50264,152.95012,Australia
+1605,Charleville,-26.40542,146.24274,Australia
+1606,Charters Towers,-20.20927,145.81645,Australia
+1607,Charters Towers City,-20.07774,146.26275,Australia
+1608,Chatsworth,-26.14398,152.61503,Australia
+1609,Chelmer,-27.51326,152.97524,Australia
+1610,Cherbourg,-26.2875,151.93279,Australia
+1611,Chermside,-27.38472,153.03062,Australia
+1612,Chermside West,-27.38383,153.01586,Australia
+1613,Childers,-25.23708,152.27876,Australia
+1614,Chinchilla,-26.73787,150.6297,Australia
+1615,Churchill,-27.64233,152.75022,Australia
+1616,Chuwar,-27.5662,152.77844,Australia
+1617,Clayfield,-27.41894,153.05818,Australia
+1618,Clear Island Waters,-28.05308,153.39815,Australia
+1619,Clermont,-22.82407,147.63635,Australia
+1620,Cleveland,-27.52677,153.26516,Australia
+1621,Clifton,-27.93374,151.9066,Australia
+1622,Clifton Beach,-16.76313,145.67167,Australia
+1623,Clinton,-23.87518,151.21793,Australia
+1624,Cloncurry,-20.69889,140.27115,Australia
+1625,Clontarf,-27.25341,153.07835,Australia
+1626,Coes Creek,-26.6472,152.94943,Australia
+1627,Collingwood Park,-27.61282,152.86008,Australia
+1628,Collinsville,-20.55223,147.84399,Australia
+1629,Condon,-19.32968,146.71663,Australia
+1630,Cooee Bay,-23.14427,150.76113,Australia
+1631,Cook Shire,-13.68149,143.53156,Australia
+1632,Cooktown,-15.4657,145.24984,Australia
+1633,Coolangatta,-28.16944,153.53471,Australia
+1634,Cooloola Cove,-25.9864,152.99355,Australia
+1635,Coolum Beach,-26.5283,153.08809,Australia
+1636,Coombabah,-27.91073,153.37093,Australia
+1637,Coomera,-27.84333,153.33901,Australia
+1638,Coominya,-27.39009,152.5006,Australia
+1639,Coopers Plains,-27.56463,153.04067,Australia
+1640,Cooran,-26.33689,152.82246,Australia
+1641,Cooroibah,-26.36316,152.98599,Australia
+1642,Cooroy,-26.41778,152.91149,Australia
+1643,Coorparoo,-27.49325,153.05826,Australia
+1644,Coppabella,-21.9471,148.3005,Australia
+1645,Coral Cove,-24.88309,152.48266,Australia
+1646,Corinda,-27.54381,152.98215,Australia
+1647,Cornubia,-27.66667,153.21667,Australia
+1648,Cotswold Hills,-27.52241,151.89516,Australia
+1649,Craiglie,-16.53789,145.46963,Australia
+1650,Craignish,-25.28258,152.72429,Australia
+1651,Cranbrook,-19.30553,146.75286,Australia
+1652,Cranley,-27.51504,151.923,Australia
+1653,Crestmead,-27.68759,153.08444,Australia
+1654,Crows Nest,-27.25993,152.05164,Australia
+1655,Croydon,-18.5136,142.32249,Australia
+1656,Cunnamulla,-28.06766,145.68439,Australia
+1657,Curra,-26.06667,152.58333,Australia
+1658,Currajong,-19.27566,146.77918,Australia
+1659,Currimundi,-26.76925,153.12237,Australia
+1660,Currumbin,-28.13649,153.48158,Australia
+1661,Currumbin Valley,-28.20805,153.39424,Australia
+1662,Currumbin Waters,-28.15442,153.47282,Australia
+1663,D’Aguilar,-26.98333,152.8,Australia
+1664,Daisy Hill,-27.63026,153.15784,Australia
+1665,Dakabin,-27.22594,152.99097,Australia
+1666,Dalby,-27.18169,151.26205,Australia
+1667,Darling Heights,-27.59659,151.93045,Australia
+1668,Darra,-27.56693,152.95395,Australia
+1669,Dayboro,-27.19632,152.82253,Australia
+1670,Deagon,-27.32788,153.06126,Australia
+1671,Deception Bay,-27.19354,153.02631,Australia
+1672,Deebing Heights,-27.66719,152.74867,Australia
+1673,Deeragun,-19.24741,146.6757,Australia
+1674,Delaneys Creek,-27.00021,152.79553,Australia
+1675,Depot Hill,-23.39024,150.52102,Australia
+1676,Diamantina,-24.57676,140.07163,Australia
+1677,Dicky Beach,-26.78364,153.13766,Australia
+1678,Diddillibah,-26.64166,153.04959,Australia
+1679,Dimbulah,-17.14752,145.10969,Australia
+1680,Doolandella,-27.61328,152.98547,Australia
+1681,Doomadgee,-17.63879,138.74359,Australia
+1682,Doonan,-26.43964,152.99204,Australia
+1683,Douglas,-19.32394,146.75234,Australia
+1684,Drayton,-27.60011,151.90109,Australia
+1685,Drewvale,-27.64768,153.05458,Australia
+1686,Dundowran Beach,-25.26934,152.76232,Australia
+1687,Durack,-27.58947,152.98577,Australia
+1688,Dutton Park,-27.49662,153.02796,Australia
+1689,Dysart,-22.58825,148.34924,Australia
+1690,Eagleby,-27.68333,153.21667,Australia
+1691,Earlville,-16.95078,145.73308,Australia
+1692,East Brisbane,-27.48099,153.04401,Australia
+1693,East Innisfail,-17.53324,146.03487,Australia
+1694,East Ipswich,-27.60637,152.77232,Australia
+1695,East Mackay,-21.14979,149.1964,Australia
+1696,East Toowoomba,-27.57086,151.97422,Australia
+1697,Eastern Heights,-27.62849,152.77828,Australia
+1698,Eatons Hill,-27.3392,152.9599,Australia
+1699,Edens Landing,-27.7027,153.16943,Australia
+1700,Edge Hill,-16.9,145.75,Australia
+1701,Edmonton,-17.01902,145.74443,Australia
+1702,Eight Mile Plains,-27.58333,153.1,Australia
+1703,Eimeo,-21.03766,149.1763,Australia
+1704,Elanora,-28.13577,153.44931,Australia
+1705,Eli Waters,-25.27922,152.8091,Australia
+1706,Elimbah,-27.01667,152.95,Australia
+1707,Ellen Grove,-27.61529,152.94385,Australia
+1708,Elliott Heads,-24.91622,152.48988,Australia
+1709,Emerald,-23.52296,148.15784,Australia
+1710,Emu Park,-23.2568,150.82679,Australia
+1711,Enoggera,-27.42832,152.97467,Australia
+1712,Esk,-27.23895,152.42223,Australia
+1713,Etheridge,-18.56276,143.53832,Australia
+1714,Eudlo,-26.72963,152.95395,Australia
+1715,Eumundi,-26.47737,152.95115,Australia
+1716,Everton Hills,-27.38909,152.97126,Australia
+1717,Everton Park,-27.40732,152.9884,Australia
+1718,Fairfield,-27.50644,153.02479,Australia
+1719,Fernvale,-27.45475,152.65321,Australia
+1720,Ferny Grove,-27.4008,152.93475,Australia
+1721,Ferny Hills,-27.39594,152.93737,Australia
+1722,Fig Tree Pocket,-27.52784,152.9619,Australia
+1723,Fitzgibbon,-27.33971,153.02921,Australia
+1724,Flinders,-20.8903,144.38814,Australia
+1725,Flinders View,-27.65046,152.77451,Australia
+1726,Forest Glen,-26.68864,153.00453,Australia
+1727,Forest Lake,-27.62563,152.96883,Australia
+1728,Forestdale,-27.66334,153.00383,Australia
+1729,Fortitude Valley,-27.45706,153.03178,Australia
+1730,Fraser Coast,-25.34145,152.67024,Australia
+1731,Frenchville,-23.34761,150.5445,Australia
+1732,Freshwater,-16.88333,145.71667,Australia
+1733,Gailes,-27.61133,152.9132,Australia
+1734,Garbutt,-19.26602,146.78224,Australia
+1735,Gatton,-27.55873,152.27618,Australia
+1736,Gaven,-27.95651,153.33453,Australia
+1737,Gayndah,-25.62522,151.61144,Australia
+1738,Gaythorne,-27.41667,152.98333,Australia
+1739,Geebung,-27.37246,153.04712,Australia
+1740,Gilston,-28.03333,153.3,Australia
+1741,Gin Gin,-24.99363,151.95808,Australia
+1742,Gladstone,-24.01869,151.65818,Australia
+1743,Gladstone Central,-23.84281,151.24887,Australia
+1744,Glass House Mountains,-26.89758,152.95319,Australia
+1745,Glen Eden,-23.89738,151.27133,Australia
+1746,Gleneagle,-27.93333,152.98333,Australia
+1747,Glenella,-21.11768,149.14453,Australia
+1748,Glenvale,-27.56818,151.8934,Australia
+1749,Glenview,-26.76667,153.01667,Australia
+1750,Gold Coast,-28.00029,153.43088,Australia
+1751,Golden Beach,-26.82177,153.11972,Australia
+1752,Gooburrum,-24.82312,152.33154,Australia
+1753,Goodna,-27.61046,152.89896,Australia
+1754,Goondiwindi,-28.46221,150.31345,Australia
+1755,Gordon Park,-27.41899,153.02547,Australia
+1756,Gordonvale,-17.09959,145.78038,Australia
+1757,Gowrie Junction,-27.48333,151.88333,Australia
+1758,Gracemere,-23.43792,150.45749,Australia
+1759,Graceville,-27.52201,152.98222,Australia
+1760,Grange,-27.42251,153.01527,Australia
+1761,Granville,-25.54486,152.73346,Australia
+1762,Greenbank,-27.71667,152.98333,Australia
+1763,Greenslopes,-27.50815,153.04951,Australia
+1764,Griffin,-27.27149,153.03942,Australia
+1765,Gulliver,-19.28814,146.77691,Australia
+1766,Gumdale,-27.49188,153.15315,Australia
+1767,Gympie,-26.18979,152.66499,Australia
+1768,Gympie Regional Council,-26.18881,152.65868,Australia
+1769,Hamilton,-27.43896,153.06287,Australia
+1770,Harlaxton,-27.53333,151.96667,Australia
+1771,Harristown,-27.58333,151.93333,Australia
+1772,Hatton Vale,-27.56667,152.46667,Australia
+1773,Hawthorne,-27.46696,153.05779,Australia
+1774,Hay Point,-21.29646,149.27368,Australia
+1775,Healy,-20.74596,139.5001,Australia
+1776,Heathwood,-27.63449,152.98814,Australia
+1777,Heatley,-19.29035,146.75355,Australia
+1778,Helensvale,-27.91828,153.33275,Australia
+1779,Helidon,-27.55316,152.12398,Australia
+1780,Hemmant,-27.44776,153.13174,Australia
+1781,Hendra,-27.41775,153.07025,Australia
+1782,Heritage Park,-27.68273,153.06082,Australia
+1783,Hermit Park,-19.28741,146.80043,Australia
+1784,Herston,-27.44453,153.01852,Australia
+1785,Hervey Bay,-25.28762,152.76936,Australia
+1786,Highfields,-27.46343,151.95386,Australia
+1787,Highgate Hill,-27.48912,153.01878,Australia
+1788,Highland Park,-28.01392,153.33312,Australia
+1789,Highvale,-27.37227,152.80195,Australia
+1790,Hillcrest,-27.66857,153.02614,Australia
+1791,Hinchinbrook,-18.6584,146.12296,Australia
+1792,Hodgson Vale,-27.66518,151.93251,Australia
+1793,Holland Park,-27.51704,153.06744,Australia
+1794,Holland Park West,-27.52625,153.06046,Australia
+1795,Holloways Beach,-16.84209,145.73922,Australia
+1796,Hollywell,-27.90076,153.39609,Australia
+1797,Holmview,-27.71631,153.17045,Australia
+1798,Home Hill,-19.65921,147.41232,Australia
+1799,Hope Island,-27.87036,153.35164,Australia
+1800,Hope Vale,-15.13588,145.19248,Australia
+1801,Howard,-25.31934,152.55986,Australia
+1802,Hughenden,-20.84399,144.20035,Australia
+1803,Hyde Park,-19.27691,146.79653,Australia
+1804,Idalia,-19.30682,146.81389,Australia
+1805,Inala,-27.59715,152.97432,Australia
+1806,Indooroopilly,-27.50302,152.97518,Australia
+1807,Ingham,-18.64552,146.16248,Australia
+1808,Innes Park,-24.86833,152.47992,Australia
+1809,Innisfail,-17.52209,146.03102,Australia
+1810,Innisfail Estate,-17.5183,146.04474,Australia
+1811,Ipswich,-27.6779,152.66188,Australia
+1812,Isaac,-22.24346,148.23672,Australia
+1813,Jacobs Well,-27.77992,153.36153,Australia
+1814,Jamboree Heights,-27.55634,152.93402,Australia
+1815,Jandowae,-26.78411,151.1124,Australia
+1816,Jensen,-19.2457,146.65289,Australia
+1817,Jimboomba,-27.83118,153.02737,Australia
+1818,Jindalee,-27.53446,152.93843,Australia
+1819,Joyner,-27.27613,152.94471,Australia
+1820,Jubilee Pocket,-20.28809,148.72938,Australia
+1821,Julatten,-16.6072,145.34118,Australia
+1822,Kalbar,-27.94169,152.62372,Australia
+1823,Kalinga,-27.40957,153.05061,Australia
+1824,Kalkie,-24.84426,152.38532,Australia
+1825,Kallangur,-27.25204,152.99226,Australia
+1826,Kamerunga,-16.87321,145.7013,Australia
+1827,Kangaroo Point,-27.47679,153.0367,Australia
+1828,Kanimbla,-16.92307,145.72158,Australia
+1829,Karalee,-27.56485,152.82446,Australia
+1830,Karana Downs,-27.54857,152.80728,Australia
+1831,Karumba,-17.48691,140.84262,Australia
+1832,Kawana,-23.33933,150.50493,Australia
+1833,Kawungan,-25.29879,152.846,Australia
+1834,Kearneys Spring,-27.60495,151.94098,Australia
+1835,Kedron,-27.40286,153.02969,Australia
+1836,Kelso,-19.38932,146.71912,Australia
+1837,Kelvin Grove,-27.44819,153.01337,Australia
+1838,Kenmore,-27.50759,152.93879,Australia
+1839,Kenmore Hills,-27.5042,152.93183,Australia
+1840,Kensington Grove,-27.53278,152.47205,Australia
+1841,Keperra,-27.41376,152.94703,Australia
+1842,Kepnock,-24.87606,152.37518,Australia
+1843,Kewarra Beach,-16.78219,145.68455,Australia
+1844,Kilcoy,-26.943,152.56545,Australia
+1845,Kin Kora,-23.87705,151.24722,Australia
+1846,Kingaroy,-26.53994,151.8373,Australia
+1847,Kings Beach,-26.80166,153.14261,Australia
+1848,Kingsthorpe,-27.47558,151.81409,Australia
+1849,Kingston,-27.66667,153.11667,Australia
+1850,Kippa-Ring,-27.22586,153.0835,Australia
+1851,Kirkwood,-23.90327,151.23545,Australia
+1852,Kirwan,-19.30323,146.72531,Australia
+1853,Kleinton,-27.43333,151.95,Australia
+1854,Koongal,-23.36887,150.54917,Australia
+1855,Kooralbyn,-28.07955,152.83974,Australia
+1856,Kowanyama,-15.27882,141.81287,Australia
+1857,Kuluin,-26.65779,153.05608,Australia
+1858,Kuraby,-27.60683,153.09367,Australia
+1859,Kuranda,-16.81978,145.63818,Australia
+1860,Kurwongbah,-27.2325,152.97621,Australia
+1861,Labrador,-27.94402,153.39815,Australia
+1862,Laidley,-27.63278,152.39285,Australia
+1863,Lake Macdonald,-26.38482,152.93213,Australia
+1864,Lammermoor,-23.16076,150.76079,Australia
+1865,Landsborough,-26.80666,152.96095,Australia
+1866,Lawnton,-27.28333,152.98333,Australia
+1867,Leichhardt,-27.62279,152.73373,Australia
+1868,Little Mountain,-26.78436,153.09218,Australia
+1869,Lockhart River,-13.01876,143.25024,Australia
+1870,Lockyer Valley,-27.68139,152.23036,Australia
+1871,Logan,-27.76294,153.04492,Australia
+1872,Logan Central,-27.64385,153.10725,Australia
+1873,Logan City,-27.63917,153.10944,Australia
+1874,Logan Reserve,-27.72414,153.09002,Australia
+1875,Logan Village,-27.76832,153.10762,Australia
+1876,Loganholme,-27.68444,153.1864,Australia
+1877,Loganlea,-27.67535,153.13472,Australia
+1878,Longreach,-23.876,143.86708,Australia
+1879,Lota,-27.46923,153.1858,Australia
+1880,Lower Beechmont,-28.04751,153.24572,Australia
+1881,Lowood,-27.46555,152.57625,Australia
+1882,Lutwyche,-27.42275,153.03354,Australia
+1883,Macgregor,-27.5649,153.0665,Australia
+1884,Machans Beach,-16.85849,145.74468,Australia
+1885,Mackay,-21.08189,149.04265,Australia
+1886,Mackay City,-21.14463,149.18678,Australia
+1887,Mackenzie,-27.54351,153.12057,Australia
+1888,Macleay Island,-27.61089,153.35996,Australia
+1889,Magnetic Island,-19.15514,146.8485,Australia
+1890,Main Beach,-27.97879,153.4266,Australia
+1891,Malanda,-17.35228,145.59528,Australia
+1892,Maleny,-26.76001,152.84926,Australia
+1893,Mango Hill,-27.24349,153.02384,Australia
+1894,Manly West,-27.47382,153.16641,Australia
+1895,Manoora,-16.91706,145.73665,Australia
+1896,Mansfield,-27.53929,153.09895,Australia
+1897,Manunda,-16.91721,145.7492,Australia
+1898,Mapleton,-26.62431,152.86784,Australia
+1899,Mapoon,-12.1096,141.90216,Australia
+1900,Maranoa,-26.39289,148.43098,Australia
+1901,Marcoola,-26.5845,153.09465,Australia
+1902,Mareeba,-16.99096,145.42306,Australia
+1903,Margate,-27.24761,153.09809,Australia
+1904,Marian,-21.14386,148.94209,Australia
+1905,Maroochy River,-26.57767,153.01884,Australia
+1906,Maroochydore,-26.66008,153.09953,Australia
+1907,Marsden,-27.67342,153.09732,Australia
+1908,Maryborough,-25.54073,152.70493,Australia
+1909,Maudsland,-27.95,153.26667,Australia
+1910,McDowall,-27.38266,152.99194,Australia
+1911,McKinlay,-20.59413,141.67448,Australia
+1912,Meadowbrook,-27.66401,153.14465,Australia
+1913,Menzies,-20.71809,139.49717,Australia
+1914,Meridan Plains,-26.77351,153.06187,Australia
+1915,Meringandan West,-27.41612,151.88727,Australia
+1916,Mermaid Beach,-28.04411,153.43472,Australia
+1917,Mermaid Waters,-28.04912,153.43081,Australia
+1918,Merrimac,-28.05085,153.37307,Australia
+1919,Miami,-28.07173,153.44158,Australia
+1920,Middle Park,-27.55596,152.92223,Australia
+1921,Middle Ridge,-27.60709,151.96688,Australia
+1922,Middlemount,-22.81226,148.69926,Australia
+1923,Miles,-26.65836,150.18822,Australia
+1924,Millbank,-24.87536,152.32217,Australia
+1925,Millmerran,-27.87913,151.27058,Australia
+1926,Millstream,-17.65318,145.41401,Australia
+1927,Milton,-27.47039,153.00312,Australia
+1928,Minden,-27.55965,152.54493,Australia
+1929,Minyama,-26.69573,153.12353,Australia
+1930,Mirani,-21.15729,148.86217,Australia
+1931,Mission Beach,-17.86885,146.10392,Australia
+1932,Mission River,-12.59509,141.9576,Australia
+1933,Mitchell,-26.4849,147.9742,Australia
+1934,Mitchelton,-27.41667,152.96667,Australia
+1935,Moffat Beach,-26.79048,153.13997,Australia
+1936,Moggill,-27.58333,152.86667,Australia
+1937,Molendinar,-27.97409,153.36069,Australia
+1938,Monkland,-26.21191,152.68245,Australia
+1939,Monto,-24.86477,151.12199,Australia
+1940,Montville,-26.68333,152.88333,Australia
+1941,Mooloolaba,-26.68164,153.11925,Australia
+1942,Moore Park Beach,-24.71066,152.20905,Australia
+1943,Mooroobool,-16.93489,145.73137,Australia
+1944,Moorooka,-27.53436,153.0246,Australia
+1945,Moranbah,-22.00163,148.04661,Australia
+1946,Morayfield,-27.10876,152.94907,Australia
+1947,Moreton Bay,-27.10731,152.92937,Australia
+1948,Morningside,-27.46165,153.07511,Australia
+1949,Mornington,-16.68436,139.46682,Australia
+1950,Mossman,-16.46292,145.37144,Australia
+1951,Mount Coolum,-26.56581,153.09139,Australia
+1952,Mount Cotton,-27.63333,153.23333,Australia
+1953,Mount Crosby,-27.53948,152.80583,Australia
+1954,Mount Gravatt,-27.53333,153.08333,Australia
+1955,Mount Gravatt East,-27.5405,153.08221,Australia
+1956,Mount Isa,-20.72523,139.49727,Australia
+1957,Mount Lofty,-27.54628,151.97218,Australia
+1958,Mount Louisa,-19.274,146.75091,Australia
+1959,Mount Low,-19.23209,146.66951,Australia
+1960,Mount Morgan,-23.64532,150.38902,Australia
+1961,Mount Nathan,-27.9643,153.27198,Australia
+1962,Mount Ommaney,-27.54609,152.93219,Australia
+1963,Mount Pleasant,-21.11814,149.15965,Australia
+1964,Mount Sheridan,-16.98608,145.73244,Australia
+1965,Mount Warren Park,-27.73109,153.20549,Australia
+1966,Mountain Creek,-26.70278,153.10133,Australia
+1967,Moura,-24.5722,149.96729,Australia
+1968,Mudgeeraba,-28.08333,153.36667,Australia
+1969,Mudjimba,-26.61497,153.0989,Australia
+1970,Mulambin,-23.18755,150.78933,Australia
+1971,Mundingburra,-19.29851,146.79352,Australia
+1972,Mundoolun,-27.8994,153.0715,Australia
+1973,Mundubbera,-25.59266,151.30225,Australia
+1974,Munruben,-27.74635,153.03119,Australia
+1975,Murarrie,-27.46289,153.09809,Australia
+1976,Murgon,-26.2417,151.94047,Australia
+1977,Murray,-19.31803,146.79494,Australia
+1978,Murrumba Downs,-27.26733,153.01053,Australia
+1979,Murweh,-26.13609,146.6041,Australia
+1980,Nambour,-26.62613,152.95941,Australia
+1981,Nanango,-26.67157,152.00211,Australia
+1982,Nanum,-12.64511,141.86221,Australia
+1983,Napranum,-12.55322,142.06558,Australia
+1984,Narangba,-27.20338,152.95923,Australia
+1985,Nathan,-27.55888,153.0623,Australia
+1986,Nebo,-21.68333,148.68333,Australia
+1987,Nelly Bay,-19.15775,146.84977,Australia
+1988,Nerang,-27.98941,153.33633,Australia
+1989,New Auckland,-23.88359,151.23563,Australia
+1990,New Beith,-27.79359,152.88443,Australia
+1991,New Farm,-27.46777,153.04834,Australia
+1992,Newmarket,-27.43534,153.00781,Australia
+1993,Newport,-27.20731,153.10135,Australia
+1994,Newstead,-27.45314,153.04183,Australia
+1995,Newtown,-27.55602,151.93255,Australia
+1996,Ninderry,-26.54094,152.9752,Australia
+1997,Ningi,-27.06108,153.07883,Australia
+1998,Nome,-19.36245,146.94672,Australia
+1999,Noosa Heads,-26.39433,153.0901,Australia
+2000,Noosaville,-26.4,153.06667,Australia
+2001,Norman Gardens,-23.33044,150.52747,Australia
+2002,Norman Park,-27.47916,153.0625,Australia
+2003,Normanton,-17.67183,141.07721,Australia
+2004,North Booval,-27.60392,152.79485,Australia
+2005,North Burnett,-25.24444,151.32301,Australia
+2006,North Ipswich,-27.60286,152.76146,Australia
+2007,North Lakes,-27.22426,153.02075,Australia
+2008,North Mackay,-21.12009,149.17941,Australia
+2009,North Maclean,-27.76759,153.01646,Australia
+2010,North Toowoomba,-27.54415,151.96117,Australia
+2011,North Ward,-19.24994,146.81477,Australia
+2012,Northern Peninsula Area,-10.9719,142.35364,Australia
+2013,Norville,-24.8931,152.34089,Australia
+2014,Nudgee,-27.3691,153.0847,Australia
+2015,Nundah,-27.40252,153.06165,Australia
+2016,Oakey,-27.43305,151.72063,Australia
+2017,Oakhurst,-25.51253,152.63583,Australia
+2018,One Mile,-27.62902,152.73768,Australia
+2019,Oonoonba,-19.29684,146.82091,Australia
+2020,Ooralea,-21.17394,149.14797,Australia
+2021,Ormeau,-27.76791,153.2428,Australia
+2022,Ormeau Hills,-27.79653,153.2567,Australia
+2023,Ormiston,-27.51667,153.25,Australia
+2024,Oxenford,-27.89033,153.31309,Australia
+2025,Oxley,-27.55,152.98333,Australia
+2026,Pacific Paradise,-26.61807,153.07781,Australia
+2027,Pacific Pines,-27.93994,153.31436,Australia
+2028,Paddington,-27.45939,152.99509,Australia
+2029,Palm Beach,-28.11694,153.46584,Australia
+2030,Palm Cove,-16.75,145.66667,Australia
+2031,Palm Island,-18.74893,146.60379,Australia
+2032,Palmwoods,-26.68584,152.96135,Australia
+2033,Paradise Point,-27.88663,153.3933,Australia
+2034,Park Avenue,-23.35327,150.5189,Australia
+2035,Park Ridge,-27.71667,153.03333,Australia
+2036,Park Ridge South,-27.72707,153.0332,Australia
+2037,Parkhurst,-23.3,150.51667,Australia
+2038,Parkinson,-27.6434,153.02975,Australia
+2039,Parkside,-20.7377,139.48865,Australia
+2040,Parkwood,-27.95461,153.36304,Australia
+2041,Paroo,-27.98742,145.71755,Australia
+2042,Parramatta Park,-16.92598,145.76643,Australia
+2043,Parrearra,-26.71152,153.12197,Australia
+2044,Peachester,-26.84551,152.884,Australia
+2045,Pelican Waters,-26.83354,153.10013,Australia
+2046,Peregian Beach,-26.481,153.096,Australia
+2047,Peregian Springs,-26.48801,153.07577,Australia
+2048,Petrie,-27.26667,152.98333,Australia
+2049,Petrie Terrace,-27.46298,153.01312,Australia
+2050,Pialba,-25.287,152.84369,Australia
+2051,Pie Creek,-26.22991,152.60774,Australia
+2052,Pimlico,-19.28172,146.78803,Australia
+2053,Pimpama,-27.81667,153.3,Australia
+2054,Pine Mountain,-27.55,152.7,Australia
+2055,Pioneer,-20.72032,139.50812,Australia
+2056,Pittsworth,-27.71638,151.63399,Australia
+2057,Plainland,-27.56667,152.41667,Australia
+2058,Point Vernon,-25.25727,152.81725,Australia
+2059,Pomona,-26.36685,152.85574,Australia
+2060,Pormpuraaw,-14.65705,141.83354,Australia
+2061,Port Douglas,-16.48383,145.46725,Australia
+2062,Proserpine,-20.4011,148.5802,Australia
+2063,Pullenvale,-27.52283,152.88651,Australia
+2064,Queenton,-20.07453,146.2817,Australia
+2065,Quilpie,-26.15057,143.57936,Australia
+2066,Raceview,-27.63472,152.77519,Australia
+2067,Railway Estate,-19.2757,146.81962,Australia
+2068,Rainbow Beach,-25.90432,153.09174,Australia
+2069,Rangeville,-27.58318,151.97997,Australia
+2070,Rangewood,-19.31138,146.63877,Australia
+2071,Rasmussen,-19.3524,146.7228,Australia
+2072,Ravenshoe,-17.60901,145.48413,Australia
+2073,Red Hill,-20.31667,148.5,Australia
+2074,Redbank,-27.6,152.86667,Australia
+2075,Redbank Plains,-27.64613,152.85965,Australia
+2076,Redland,-27.53791,153.24829,Australia
+2077,Redland Bay,-27.6113,153.30022,Australia
+2078,Redlynch,-16.9254,145.69559,Australia
+2079,Reedy Creek,-28.11243,153.39638,Australia
+2080,Regency Downs,-27.53359,152.44049,Australia
+2081,Regents Park,-27.67664,153.04165,Australia
+2082,Richlands,-27.59616,152.95321,Australia
+2083,Richmond,-20.56967,142.91384,Australia
+2084,River Heads,-25.41551,152.91315,Australia
+2085,Riverhills,-27.55928,152.91106,Australia
+2086,Riverview,-27.6,152.85,Australia
+2087,Robertson,-27.56583,153.05738,Australia
+2088,Robina,-28.07071,153.39329,Australia
+2089,Rochedale,-27.56667,153.13333,Australia
+2090,Rochedale South,-27.59521,153.12332,Australia
+2091,Rockhampton,-23.38032,150.50595,Australia
+2092,Rocklea,-27.53917,153.00402,Australia
+2093,Rockville,-27.53611,151.93805,Australia
+2094,Roma,-26.56741,148.78751,Australia
+2095,Rosemount,-26.6303,152.9997,Australia
+2096,Rosenthal Heights,-28.24013,152.01327,Australia
+2097,Rosewood,-27.6335,152.58949,Australia
+2098,Rosslea,-19.29871,146.79824,Australia
+2099,Rothwell,-27.21433,153.04676,Australia
+2100,Runaway Bay,-27.91386,153.39775,Australia
+2101,Runcorn,-27.59756,153.07699,Australia
+2102,Rural View,-21.06447,149.1646,Australia
+2103,Russell Island,-27.64867,153.38124,Australia
+2104,Sadliers Crossing,-27.61251,152.74577,Australia
+2105,Salisbury,-27.55145,153.0325,Australia
+2106,Samford Valley,-27.3727,152.86699,Australia
+2107,Sandgate,-27.32198,153.06951,Australia
+2108,Sandstone Point,-27.08374,153.13235,Australia
+2109,Sarina,-21.4191,149.21677,Australia
+2110,Scarborough,-27.20118,153.10939,Australia
+2111,Scarness,-25.28405,152.856,Australia
+2112,Scenic Rim,-28.04021,152.80688,Australia
+2113,Seven Hills,-27.48341,153.07474,Australia
+2114,Seventeen Mile Rocks,-27.5507,152.95896,Australia
+2115,Shailer Park,-27.6498,153.17753,Australia
+2116,Sharon,-24.87593,152.26994,Australia
+2117,Sheldon,-27.58436,153.20042,Australia
+2118,Shorncliffe,-27.32759,153.08161,Australia
+2119,Silkstone,-27.62126,152.78768,Australia
+2120,Sinnamon Park,-27.54436,152.9489,Australia
+2121,Sippy Downs,-26.71793,153.05475,Australia
+2122,Slacks Creek,-27.65,153.15,Australia
+2123,Slade Point,-21.075,149.225,Australia
+2124,Soldiers Hill,-20.70533,139.48988,Australia
+2125,Somerset,-27.01133,152.41521,Australia
+2126,South Brisbane,-27.48034,153.02049,Australia
+2127,South Burnett,-26.40077,151.60166,Australia
+2128,South Gladstone,-23.86221,151.26801,Australia
+2129,South Kolan,-24.93202,152.1679,Australia
+2130,South Mackay,-21.16288,149.17751,Australia
+2131,South Maclean,-27.79245,153.01603,Australia
+2132,South Toowoomba,-27.57101,151.9465,Australia
+2133,South Townsville,-19.26618,146.83331,Australia
+2134,Southern Downs,-28.50265,151.92165,Australia
+2135,Southport,-27.96724,153.39796,Australia
+2136,Southside,-26.20997,152.64719,Australia
+2137,Spring Hill,-27.46141,153.02311,Australia
+2138,Springfield,-27.65365,152.91716,Australia
+2139,Springfield Lakes,-27.66757,152.92488,Australia
+2140,Springsure,-24.11478,148.08849,Australia
+2141,Springwood,-27.61183,153.12899,Australia
+2142,St George,-27.94763,148.60986,Australia
+2143,Stafford,-27.41044,153.01105,Australia
+2144,Stafford Heights,-27.39354,153.0105,Australia
+2145,Stanthorpe,-28.65425,151.93388,Australia
+2146,Strathpine,-27.30414,152.98977,Australia
+2147,Stretton,-27.62205,153.06609,Australia
+2148,Stuart,-19.34702,146.84378,Australia
+2149,Sun Valley,-23.87516,151.25752,Australia
+2150,Sunnybank,-27.58003,153.06064,Australia
+2151,Sunnybank Hills,-27.61025,153.05388,Australia
+2152,Sunrise Beach,-26.41646,153.10305,Australia
+2153,Sunset,-20.71026,139.50824,Australia
+2154,Sunshine Beach,-26.40579,153.10779,Australia
+2155,Sunshine Coast,-26.56098,152.85113,Australia
+2156,Surfers Paradise,-28.00274,153.42999,Australia
+2157,Svensson Heights,-24.88566,152.33183,Australia
+2158,Taigum,-27.34265,153.04444,Australia
+2159,Tallai,-28.06407,153.32589,Australia
+2160,Tallebudgera,-28.15,153.43333,Australia
+2161,Tallebudgera Valley,-28.1927,153.35489,Australia
+2162,Tamborine,-27.88333,153.13333,Australia
+2163,Tamborine Mountain,-27.96954,153.19937,Australia
+2164,Tanah Merah,-27.67151,153.17019,Australia
+2165,Tanawha,-26.71981,153.03018,Australia
+2166,Tannum Sands,-23.94749,151.36749,Australia
+2167,Tara,-27.27613,150.45676,Australia
+2168,Taranganba,-23.14435,150.75139,Australia
+2169,Taringa,-27.49061,152.97861,Australia
+2170,Tarragindi,-27.52713,153.04556,Australia
+2171,Telina,-23.88834,151.25379,Australia
+2172,Teneriffe,-27.45587,153.04696,Australia
+2173,Tewantin,-26.39104,153.03432,Australia
+2174,Thabeban,-24.9,152.35,Australia
+2175,The Gap,-27.44187,152.93861,Australia
+2176,The Gemfields,-23.53014,147.79679,Australia
+2177,The Range,-23.392,150.49624,Australia
+2178,Thorneside,-27.48777,153.19821,Australia
+2179,Thornlands,-27.55751,153.26481,Australia
+2180,Thursday Island,-10.58257,142.21949,Australia
+2181,Tieri,-23.03829,148.34463,Australia
+2182,Tin Can Bay,-25.91914,153.0032,Australia
+2183,Tinana,-25.55196,152.6659,Australia
+2184,Tingalpa,-27.4736,153.12704,Australia
+2185,Tivoli,-27.59278,152.76798,Australia
+2186,Tolga,-17.18557,145.47707,Australia
+2187,Toogoolawah,-27.08661,152.37636,Australia
+2188,Toogoom,-25.25637,152.69025,Australia
+2189,Toowong,-27.48333,152.98333,Australia
+2190,Toowoomba,-27.47958,151.47705,Australia
+2191,Torquay,-25.28496,152.87886,Australia
+2192,Torres,-10.57928,142.22059,Australia
+2193,Torres Strait Island Region,-10.20141,142.27295,Australia
+2194,Townsville,-19.26639,146.80569,Australia
+2195,Townview,-20.73252,139.50482,Australia
+2196,Trinity Beach,-16.78876,145.69682,Australia
+2197,Trinity Park,-16.80684,145.70549,Australia
+2198,Trunding,-12.63422,141.86963,Australia
+2199,Tugun,-28.15,153.5,Australia
+2200,Tully,-17.93264,145.92277,Australia
+2201,Twin Waters,-26.63422,153.08114,Australia
+2202,Underwood,-27.60885,153.1113,Australia
+2203,Upper Caboolture,-27.11667,152.88333,Australia
+2204,Upper Coomera,-27.87683,153.28572,Australia
+2205,Upper Kedron,-27.41879,152.91777,Australia
+2206,Upper Mount Gravatt,-27.56128,153.08453,Australia
+2207,Urangan,-25.29214,152.90535,Australia
+2208,Urraween,-25.29522,152.82206,Australia
+2209,Varsity Lakes,-28.0894,153.4122,Australia
+2210,Victoria Point,-27.58329,153.31172,Australia
+2211,Vincent,-19.28341,146.76463,Australia
+2212,Virginia,-27.38333,153.06667,Australia
+2213,Wacol,-27.58333,152.93333,Australia
+2214,Wakerley,-27.483,153.15589,Australia
+2215,Walkerston,-21.16097,149.05814,Australia
+2216,Walkervale,-24.88266,152.35886,Australia
+2217,Walloon,-27.60545,152.66429,Australia
+2218,Wamuran,-27.03909,152.86542,Australia
+2219,Wandal,-23.36878,150.49381,Australia
+2220,Wandoan,-26.12285,149.96028,Australia
+2221,Warana,-26.72273,153.12688,Australia
+2222,Warner,-27.31222,152.94981,Australia
+2223,Warwick,-28.21901,152.03438,Australia
+2224,Waterford West,-27.69056,153.13319,Australia
+2225,Wavell Heights,-27.39385,153.04698,Australia
+2226,Weipa,-12.63671,141.87555,Australia
+2227,Wellesley Islands,-16.63184,139.4014,Australia
+2228,Wellington Point,-27.48333,153.25,Australia
+2229,West End,-27.47923,153.0096,Australia
+2230,West Gladstone,-23.86123,151.2453,Australia
+2231,West Mackay,-21.15467,149.16181,Australia
+2232,West Rockhampton,-23.37941,150.48175,Australia
+2233,West Woombye,-26.66644,152.92557,Australia
+2234,Westbrook,-27.61667,151.86667,Australia
+2235,Westcourt,-26.8,150.15,Australia
+2236,Western Downs,-26.80665,150.3859,Australia
+2237,Westlake,-27.54862,152.91276,Australia
+2238,White Rock,-16.97438,145.7633,Australia
+2239,Whitfield,-16.89508,145.73335,Australia
+2240,Whitsunday,-20.6978,148.01349,Australia
+2241,Whitsundays,-20.11943,148.91325,Australia
+2242,Willow Vale,-27.84499,153.2631,Australia
+2243,Willowbank,-27.68215,152.67407,Australia
+2244,Wilsonton,-27.54312,151.91684,Australia
+2245,Wilsonton Heights,-27.53227,151.92444,Australia
+2246,Wilston,-27.43218,153.01904,Australia
+2247,Windaroo,-27.74587,153.19339,Australia
+2248,Windsor,-27.43631,153.02882,Australia
+2249,Winston,-20.70374,139.49913,Australia
+2250,Winton,-22.50749,142.66199,Australia
+2251,Wishart,-27.55448,153.10107,Australia
+2252,Withcott,-27.55408,152.02432,Australia
+2253,Witta,-26.7,152.81667,Australia
+2254,Wondai,-26.3177,151.87242,Australia
+2255,Wondunna,-25.31758,152.85912,Australia
+2256,Wongaling Beach,-17.91327,146.09611,Australia
+2257,Wongawallan,-27.87553,153.22865,Australia
+2258,Woodend,-27.60554,152.75307,Australia
+2259,Woodford,-26.95291,152.77747,Australia
+2260,Woodgate,-25.1083,152.56254,Australia
+2261,Woodridge,-27.63333,153.1,Australia
+2262,Woody Point,-27.25608,153.10427,Australia
+2263,Woolloongabba,-27.48855,153.03655,Australia
+2264,Wooloowin,-27.42244,153.04204,Australia
+2265,Woombye,-26.66054,152.96947,Australia
+2266,Woorabinda,-24.1501,149.44977,Australia
+2267,Woorim,-27.06931,153.20427,Australia
+2268,Woree,-16.95,145.75,Australia
+2269,Worongary,-28.05,153.35,Australia
+2270,Wujal Wujal,-15.96904,145.3152,Australia
+2271,Wulguru,-19.3285,146.81842,Australia
+2272,Wulkuraka,-27.61429,152.72191,Australia
+2273,Wurtulla,-26.75648,153.12805,Australia
+2274,Wynnum,-27.44527,153.15813,Australia
+2275,Wynnum West,-27.45824,153.15319,Australia
+2276,Wyreema,-27.65583,151.85532,Australia
+2277,Yamanto,-27.66027,152.73863,Australia
+2278,Yandina,-26.56165,152.95595,Australia
+2279,Yaroomba,-26.55126,153.09701,Australia
+2280,Yarrabah,-16.99463,145.88058,Australia
+2281,Yarrabilba,-27.80864,153.11163,Australia
+2282,Yarraman,-26.84167,151.98138,Australia
+2283,Yatala,-27.71667,153.21667,Australia
+2284,Yeerongpilly,-27.53097,153.00935,Australia
+2285,Yeppoon,-23.12683,150.74406,Australia
+2286,Yeppoon city centre,-23.1295,150.73639,Australia
+2287,Yeronga,-27.51571,153.01642,Australia
+2288,Yorkeys Knob,-16.80278,145.72083,Australia
+2289,Yungaburra,-17.27058,145.58335,Australia
+2290,Zillmere,-27.35591,153.04453,Australia
+2291,Zilzie,-23.28867,150.7982,Australia
+2292,Aberfoyle Park,-35.0768,138.59163,Australia
+2293,Adelaide,-34.92866,138.59863,Australia
+2294,Adelaide city centre,-34.92873,138.60334,Australia
+2295,Adelaide Hills,-34.90103,138.85457,Australia
+2296,Albert Park,-34.87201,138.51966,Australia
+2297,Alberton,-34.85925,138.52138,Australia
+2298,Aldgate,-35.01667,138.73333,Australia
+2299,Aldinga Beach,-35.27826,138.45802,Australia
+2300,Alexandrina,-35.33769,138.83704,Australia
+2301,Allenby Gardens,-34.89766,138.55425,Australia
+2302,Anangu Pitjantjatjara,-27.05797,131.37314,Australia
+2303,Andrews Farm,-34.67632,138.66197,Australia
+2304,Angaston,-34.50129,139.04625,Australia
+2305,Angle Park,-34.85989,138.55798,Australia
+2306,Angle Vale,-34.64098,138.6461,Australia
+2307,Ardrossan,-34.42217,137.91907,Australia
+2308,Ascot Park,-34.99175,138.55768,Australia
+2309,Ashford,-34.94859,138.57457,Australia
+2310,Athelstone,-34.87019,138.6999,Australia
+2311,Athol Park,-34.85608,138.54282,Australia
+2312,Balaklava,-34.14542,138.41148,Australia
+2313,Balhannah,-34.99094,138.82565,Australia
+2314,Banksia Park,-34.81015,138.7357,Australia
+2315,Barmera,-34.25562,140.46147,Australia
+2316,Barossa,-34.61351,138.96169,Australia
+2317,Barunga West,-33.79484,137.92311,Australia
+2318,Beaumont,-34.94899,138.66188,Australia
+2319,Bedford Park,-35.02204,138.56815,Australia
+2320,Belair,-34.99766,138.62077,Australia
+2321,Bellevue Heights,-35.03023,138.58314,Australia
+2322,Berri,-34.28107,140.59958,Australia
+2323,Berri and Barmera,-34.28788,140.49358,Australia
+2324,Beulah Park,-34.91768,138.64522,Australia
+2325,Beverley,-34.89512,138.54633,Australia
+2326,Birdwood,-34.81826,138.96478,Australia
+2327,Birkenhead,-34.83685,138.49788,Australia
+2328,Black Forest,-34.96028,138.57668,Australia
+2329,Blackwood,-35.02139,138.61429,Australia
+2330,Blair Athol,-34.85889,138.59656,Australia
+2331,Blakeview,-34.67566,138.7101,Australia
+2332,Bordertown,-36.30768,140.77167,Australia
+2333,Brahma Lodge,-34.77604,138.65306,Australia
+2334,Bridgewater,-35.01397,138.76648,Australia
+2335,Brighton,-35.0182,138.52351,Australia
+2336,Broadview,-34.87589,138.61498,Australia
+2337,Brompton,-34.89445,138.5782,Australia
+2338,Brooklyn Park,-34.92847,138.53631,Australia
+2339,Burnside,-34.93333,138.65,Australia
+2340,Burra,-33.67171,138.92835,Australia
+2341,Burton,-34.73339,138.60247,Australia
+2342,Camden Park,-34.96857,138.53957,Australia
+2343,Campbelltown,-34.88545,138.68546,Australia
+2344,Ceduna,-32.14736,133.86288,Australia
+2345,Charles Sturt,-34.90067,138.53182,Australia
+2346,Cheltenham,-34.86788,138.52336,Australia
+2347,Christie Downs,-35.12999,138.49633,Australia
+2348,Christies Beach,-35.13876,138.47232,Australia
+2349,City of West Torrens,-34.93133,138.5509,Australia
+2350,Clapham,-34.98989,138.60158,Australia
+2351,Clare,-33.83325,138.61064,Australia
+2352,Clare and Gilbert Valleys,-34.01462,138.7534,Australia
+2353,Clarence Gardens,-34.97539,138.57983,Australia
+2354,Clarence Park,-34.96416,138.5806,Australia
+2355,Clearview,-34.85735,138.61327,Australia
+2356,Cleve,-33.66078,136.28893,Australia
+2357,Clovelly Park,-34.99951,138.57081,Australia
+2358,Collinswood,-34.8873,138.61224,Australia
+2359,Colonel Light Gardens,-34.98628,138.59746,Australia
+2360,Coober Pedy,-29.01415,134.75495,Australia
+2361,Copper Coast,-33.94287,137.71329,Australia
+2362,Coromandel Valley,-35.05,138.61667,Australia
+2363,Cowandilla,-34.93221,138.55931,Australia
+2364,Cowell,-33.68227,136.92117,Australia
+2365,Crafers,-35.0,138.7,Australia
+2366,Crafers West,-34.99136,138.68205,Australia
+2367,Craigburn Farm,-35.04046,138.6049,Australia
+2368,Craigmore,-34.70064,138.70956,Australia
+2369,Croydon Park,-34.88028,138.56779,Australia
+2370,Crystal Brook,-33.35256,138.20955,Australia
+2371,Cumberland Park,-34.97204,138.5867,Australia
+2372,Darlington,-35.03151,138.55527,Australia
+2373,Davoren Park,-34.69063,138.66862,Australia
+2374,Daw Park,-34.98975,138.58407,Australia
+2375,Dernancourt,-34.86199,138.67658,Australia
+2376,Dover Gardens,-35.024,138.53695,Australia
+2377,Dulwich,-34.9365,138.6272,Australia
+2378,Echunga,-35.10354,138.79588,Australia
+2379,Eden Hills,-35.0211,138.59567,Australia
+2380,Edwardstown,-34.98018,138.5694,Australia
+2381,Elizabeth Downs,-34.69982,138.69132,Australia
+2382,Elizabeth East,-34.72513,138.68214,Australia
+2383,Elizabeth Grove,-34.73528,138.66888,Australia
+2384,Elizabeth North,-34.70678,138.67609,Australia
+2385,Elizabeth Park,-34.70974,138.68604,Australia
+2386,Elizabeth South,-34.73182,138.66192,Australia
+2387,Elizabeth Vale,-34.74857,138.66819,Australia
+2388,Elliston,-33.53931,135.09514,Australia
+2389,Encounter Bay,-35.57419,138.60055,Australia
+2390,Enfield,-34.8526,138.60255,Australia
+2391,Erindale,-34.92785,138.66313,Australia
+2392,Ethelton,-34.84869,138.49103,Australia
+2393,Evandale,-34.90552,138.63542,Australia
+2394,Evanston,-34.61657,138.73369,Australia
+2395,Evanston Gardens,-34.62323,138.72166,Australia
+2396,Evanston Park,-34.62284,138.74123,Australia
+2397,Everard Park,-34.95196,138.57481,Australia
+2398,Exeter,-34.83994,138.48902,Australia
+2399,Fairview Park,-34.79998,138.72857,Australia
+2400,Felixstow,-34.88902,138.64696,Australia
+2401,Ferryden Park,-34.86616,138.5618,Australia
+2402,Findon,-34.9,138.53333,Australia
+2403,Firle,-34.90459,138.65319,Australia
+2404,Flagstaff Hill,-35.04861,138.58285,Australia
+2405,Flinders Park,-34.91026,138.54322,Australia
+2406,Flinders Ranges,-32.13341,138.33882,Australia
+2407,Forestville,-34.94946,138.57845,Australia
+2408,Franklin Harbour,-33.60164,136.94148,Australia
+2409,Freeling,-34.45407,138.80868,Australia
+2410,Fulham,-34.92737,138.51368,Australia
+2411,Fulham Gardens,-34.91483,138.51324,Australia
+2412,Fullarton,-34.951,138.629,Australia
+2413,Gawler,-34.62109,138.73228,Australia
+2414,Gawler East,-34.59889,138.7632,Australia
+2415,Gawler South,-34.60712,138.74445,Australia
+2416,Gilberton,-34.90051,138.6126,Australia
+2417,Gilles Plains,-34.85,138.65,Australia
+2418,Glandore,-34.96154,138.56832,Australia
+2419,Glen Osmond,-34.9596,138.64873,Australia
+2420,Glenalta,-35.00792,138.62592,Australia
+2421,Glenelg,-34.98079,138.515,Australia
+2422,Glenelg East,-34.9764,138.52962,Australia
+2423,Glenelg North,-34.9679,138.51751,Australia
+2424,Glenelg South,-34.98964,138.51425,Australia
+2425,Glengowrie,-34.98708,138.53674,Australia
+2426,Glenside,-34.94275,138.63375,Australia
+2427,Glenunga,-34.95013,138.63841,Australia
+2428,Glynde,-34.89605,138.65253,Australia
+2429,Golden Grove,-34.78333,138.73333,Australia
+2430,Goodwood,-34.95092,138.5923,Australia
+2431,Goolwa,-35.50159,138.78191,Australia
+2432,Goolwa Beach,-35.50474,138.7732,Australia
+2433,Goyder,-33.7164,139.01655,Australia
+2434,Grange,-34.90223,138.49022,Australia
+2435,Grant,-37.83642,140.63316,Australia
+2436,Greenacres,-34.86855,138.628,Australia
+2437,Greenock,-34.457,138.92719,Australia
+2438,Greenwith,-34.76565,138.71383,Australia
+2439,Gulfview Heights,-34.79545,138.66937,Australia
+2440,Hackham,-35.15514,138.52509,Australia
+2441,Hackham West,-35.14312,138.51442,Australia
+2442,Hahndorf,-35.02863,138.80779,Australia
+2443,Hallett Cove,-35.07923,138.5146,Australia
+2444,Hampstead Gardens,-34.87448,138.62881,Australia
+2445,Happy Valley,-35.08333,138.53333,Australia
+2446,Hawthorn,-34.97384,138.60738,Australia
+2447,Hawthorndene,-35.02229,138.63039,Australia
+2448,Hayborough,-35.53129,138.65037,Australia
+2449,Hazelwood Park,-34.93947,138.65879,Australia
+2450,Hectorville,-34.89157,138.65892,Australia
+2451,Henley Beach,-34.92029,138.49442,Australia
+2452,Henley Beach South,-34.92591,138.49554,Australia
+2453,Hewett,-34.57801,138.75242,Australia
+2454,Highbury,-34.85287,138.6975,Australia
+2455,Highgate,-34.96177,138.6218,Australia
+2456,Hillbank,-34.73588,138.68723,Australia
+2457,Hillcrest,-34.86252,138.64306,Australia
+2458,Hindmarsh Island,-35.51014,138.86762,Australia
+2459,Holden Hill,-34.85161,138.67232,Australia
+2460,Holdfast Bay,-35.00244,138.52318,Australia
+2461,Hope Valley,-34.83333,138.7,Australia
+2462,Hove,-35.00814,138.5212,Australia
+2463,Huntfield Heights,-35.15452,138.51417,Australia
+2464,Hyde Park,-34.95467,138.60107,Australia
+2465,Ingle Farm,-34.83333,138.63333,Australia
+2466,Jamestown,-33.20531,138.60503,Australia
+2467,Joslin,-34.89967,138.62655,Australia
+2468,Kadina,-33.96495,137.71634,Australia
+2469,Kangaroo Island,-35.8239,137.33392,Australia
+2470,Kapunda,-34.33871,138.91644,Australia
+2471,Karoonda East Murray,-34.92846,140.02484,Australia
+2472,Keith,-36.0991,140.35315,Australia
+2473,Kensington Gardens,-34.92582,138.66145,Australia
+2474,Kensington Park,-34.92022,138.6543,Australia
+2475,Kent Town,-34.92155,138.62009,Australia
+2476,Kersbrook,-34.78305,138.85091,Australia
+2477,Kidman Park,-34.91224,138.52693,Australia
+2478,Kilburn,-34.8597,138.58559,Australia
+2479,Kilkenny,-34.87914,138.5529,Australia
+2480,Kimba,-33.04817,136.31797,Australia
+2481,Kingscote,-35.6559,137.6393,Australia
+2482,Kingston,-36.64083,140.05093,Australia
+2483,Kingston South East,-36.83073,139.8522,Australia
+2484,Klemzig,-34.87928,138.63562,Australia
+2485,Kurralta Park,-34.95142,138.56702,Australia
+2486,Largs Bay,-34.82582,138.48619,Australia
+2487,Largs North,-34.8205,138.49241,Australia
+2488,Leabrook,-34.92976,138.65862,Australia
+2489,Lewiston,-34.60449,138.59125,Australia
+2490,Light,-34.40981,138.84367,Australia
+2491,Linden Park,-34.94347,138.64728,Australia
+2492,Little Hampton,-35.04225,138.86423,Australia
+2493,Lobethal,-34.90455,138.87477,Australia
+2494,Lockleys,-34.92588,138.52803,Australia
+2495,Lower Eyre Peninsula,-34.48806,135.70114,Australia
+2496,Lower Mitcham,-34.97731,138.60493,Australia
+2497,Loxton,-34.4502,140.56908,Australia
+2498,Loxton Waikerie,-34.48161,140.28346,Australia
+2499,Lyndoch,-34.60124,138.89094,Australia
+2500,Macclesfield,-35.17182,138.83589,Australia
+2501,Magill,-34.90911,138.67498,Australia
+2502,Maitland,-34.37386,137.67333,Australia
+2503,Mallala,-34.51035,138.42783,Australia
+2504,Malvern,-34.95915,138.61254,Australia
+2505,Manningham,-34.87776,138.62206,Australia
+2506,Mannum,-34.91529,139.30325,Australia
+2507,Mansfield Park,-34.85655,138.55186,Australia
+2508,Maralinga Tjarutja,-29.60092,130.84442,Australia
+2509,Marden,-34.89569,138.6378,Australia
+2510,Marino,-35.04468,138.51236,Australia
+2511,Marion,-35.01322,138.55339,Australia
+2512,Marleston,-34.94763,138.55957,Australia
+2513,Maslin Beach,-35.22595,138.47984,Australia
+2514,Mawson Lakes,-34.81589,138.60809,Australia
+2515,Maylands,-34.91128,138.63671,Australia
+2516,McCracken,-35.5358,138.63121,Australia
+2517,McLaren Flat,-35.21667,138.58333,Australia
+2518,McLaren Vale,-35.21895,138.54326,Australia
+2519,Meadows,-35.18021,138.7625,Australia
+2520,Medindie,-34.896,138.605,Australia
+2521,Melrose Park,-34.98328,138.57541,Australia
+2522,Meningie,-35.68637,139.34007,Australia
+2523,Mid Murray,-34.41566,139.41639,Australia
+2524,Middleton,-35.51047,138.70377,Australia
+2525,Mile End,-34.92654,138.57033,Australia
+2526,Millicent,-37.59389,140.34947,Australia
+2527,Millswood,-34.95505,138.58888,Australia
+2528,Minlaton,-34.77101,137.59576,Australia
+2529,Mitcham,-35.0069,138.62218,Australia
+2530,Mitchell Park,-35.01031,138.56266,Australia
+2531,Moana,-35.19394,138.47614,Australia
+2532,Modbury,-34.83333,138.68333,Australia
+2533,Modbury Heights,-34.80969,138.68544,Australia
+2534,Modbury North,-34.82848,138.6739,Australia
+2535,Monash,-34.2384,140.56131,Australia
+2536,Moonta Bay,-34.05,137.56667,Australia
+2537,Moorak,-37.86381,140.74263,Australia
+2538,Morphett Vale,-35.13333,138.51667,Australia
+2539,Morphettville,-34.98852,138.53979,Australia
+2540,Mount Barker,-35.06907,138.86936,Australia
+2541,Mount Compass,-35.34685,138.62032,Australia
+2542,Mount Gambier,-37.82469,140.78191,Australia
+2543,Mount Remarkable,-32.71813,138.1713,Australia
+2544,Munno Para,-34.66792,138.70149,Australia
+2545,Munno Para West,-34.66464,138.68066,Australia
+2546,Murray Bridge,-35.2002,139.3209,Australia
+2547,Mylor,-35.04303,138.759,Australia
+2548,Myrtle Bank,-34.96057,138.63377,Australia
+2549,Nailsworth,-34.88437,138.60619,Australia
+2550,Nairne,-35.0345,138.91154,Australia
+2551,Naracoorte,-36.95785,140.7383,Australia
+2552,Naracoorte and Lucindale,-36.99542,140.52791,Australia
+2553,Netherby,-34.97048,138.62503,Australia
+2554,Netley,-34.94887,138.54983,Australia
+2555,Newton,-34.88207,138.68249,Australia
+2556,Noarlunga Downs,-35.1504,138.50395,Australia
+2557,Normanville,-35.44623,138.3213,Australia
+2558,North Adelaide,-34.90733,138.59141,Australia
+2559,North Brighton,-35.00279,138.52211,Australia
+2560,North Haven,-34.78825,138.49162,Australia
+2561,North Plympton,-34.95769,138.55343,Australia
+2562,Northern Areas,-33.30074,138.47745,Australia
+2563,Northfield,-34.84979,138.6255,Australia
+2564,Northgate,-34.85784,138.62908,Australia
+2565,Norwood,-34.9273,138.62849,Australia
+2566,Norwood Payneham St Peters,-34.908,138.63556,Australia
+2567,Novar Gardens,-34.96626,138.53256,Australia
+2568,Nuriootpa,-34.46825,138.99767,Australia
+2569,O'Sullivan Beach,-35.11879,138.4734,Australia
+2570,O’Halloran Hill,-35.06667,138.55,Australia
+2571,Oakden,-34.8528,138.6433,Australia
+2572,Oaklands Park,-35.00671,138.54457,Australia
+2573,Old Noarlunga,-35.18209,138.50138,Australia
+2574,Old Reynella,-35.10353,138.53365,Australia
+2575,One Tree Hill,-34.7,138.76667,Australia
+2576,Onkaparinga,-35.1868,138.57776,Australia
+2577,Onkaparinga Hills,-35.13514,138.56697,Australia
+2578,Orroroo/Carrieton,-32.53181,138.6647,Australia
+2579,Osborne,-34.79804,138.49796,Australia
+2580,Ottoway,-34.84756,138.53575,Australia
+2581,Panorama,-34.9908,138.59948,Australia
+2582,Para Hills,-34.8121,138.65802,Australia
+2583,Para Hills West,-34.80474,138.64283,Australia
+2584,Para Vista,-34.82094,138.66111,Australia
+2585,Paradise,-34.87361,138.66896,Australia
+2586,Parafield Gardens,-34.78254,138.61077,Australia
+2587,Paralowie,-34.75705,138.60819,Australia
+2588,Paringa,-34.17644,140.78579,Australia
+2589,Park Holme,-34.99443,138.55318,Australia
+2590,Parkside,-34.94512,138.61304,Australia
+2591,Pasadena,-35.00274,138.58862,Australia
+2592,Payneham,-34.89724,138.64064,Australia
+2593,Payneham South,-34.90481,138.64448,Australia
+2594,Pennington,-34.85758,138.5316,Australia
+2595,Penola,-37.3752,140.83678,Australia
+2596,Peterborough,-32.84787,139.02608,Australia
+2597,Peterhead,-34.83118,138.49892,Australia
+2598,Playford,-34.69419,138.6421,Australia
+2599,Plympton,-34.962,138.55496,Australia
+2600,Plympton Park,-34.98071,138.54918,Australia
+2601,Pooraka,-34.82471,138.62637,Australia
+2602,Port Adelaide,-34.8462,138.50302,Australia
+2603,Port Adelaide Enfield,-34.84803,138.50773,Australia
+2604,Port Augusta,-32.5553,137.71362,Australia
+2605,Port Augusta West,-32.48611,137.75833,Australia
+2606,Port Broughton,-33.6007,137.93597,Australia
+2607,Port Elliot,-35.53017,138.67922,Australia
+2608,Port Lincoln,-34.72854,135.85748,Australia
+2609,Port Noarlunga,-35.14802,138.47099,Australia
+2610,Port Noarlunga South,-35.17404,138.46859,Australia
+2611,Port Pirie,-33.19176,138.01746,Australia
+2612,Port Pirie City and Dists,-33.36513,138.10706,Australia
+2613,Port Pirie South,-33.19797,138.01446,Australia
+2614,Port Pirie West,-33.1779,137.9985,Australia
+2615,Port Willunga,-35.26181,138.46436,Australia
+2616,Prospect,-34.88457,138.60038,Australia
+2617,Queenstown,-34.86091,138.51048,Australia
+2618,Quorn,-32.34676,138.04176,Australia
+2619,Redwood Park,-34.81155,138.70695,Australia
+2620,Renmark,-34.17702,140.74697,Australia
+2621,Renmark Paringa,-34.17485,140.7486,Australia
+2622,Renmark West,-34.16531,140.7097,Australia
+2623,Renown Park,-34.89174,138.57729,Australia
+2624,Reynella,-35.09372,138.53082,Australia
+2625,Reynella East,-35.09197,138.55742,Australia
+2626,Richmond,-34.94199,138.56322,Australia
+2627,Ridgehaven,-34.82126,138.70467,Australia
+2628,Ridleyton,-34.8928,138.57159,Australia
+2629,Risdon Park,-33.19661,137.99399,Australia
+2630,Risdon Park South,-33.21104,137.99498,Australia
+2631,Robe,-37.18616,139.99003,Australia
+2632,Rose Park,-34.93039,138.62825,Australia
+2633,Rosewater,-34.852,138.52158,Australia
+2634,Rosslyn Park,-34.92194,138.67553,Australia
+2635,Rostrevor,-34.89386,138.69183,Australia
+2636,Roxby Downs,-30.54892,136.88377,Australia
+2637,Royal Park,-34.87415,138.51189,Australia
+2638,Royston Park,-34.89757,138.6315,Australia
+2639,Salisbury,-34.76827,138.60831,Australia
+2640,Salisbury Downs,-34.76772,138.6221,Australia
+2641,Salisbury East,-34.79052,138.6545,Australia
+2642,Salisbury Heights,-34.7631,138.67591,Australia
+2643,Salisbury North,-34.74956,138.6206,Australia
+2644,Salisbury Park,-34.76155,138.67029,Australia
+2645,Salisbury Plain,-34.77265,138.6633,Australia
+2646,Seacliff,-35.03474,138.52288,Australia
+2647,Seacliff Park,-35.02983,138.53129,Australia
+2648,Seacombe Gardens,-35.02336,138.5458,Australia
+2649,Seacombe Heights,-35.03264,138.54584,Australia
+2650,Seaford,-35.1898,138.47589,Australia
+2651,Seaford Meadows,-35.17276,138.4879,Australia
+2652,Seaford Rise,-35.19296,138.48172,Australia
+2653,Seaton,-34.9,138.51667,Australia
+2654,Seaview Downs,-35.03698,138.53796,Australia
+2655,Sefton Park,-34.87405,138.60343,Australia
+2656,Sellicks Beach,-35.33869,138.44734,Australia
+2657,Semaphore,-34.83934,138.48228,Australia
+2658,Semaphore Park,-34.85072,138.47889,Australia
+2659,Semaphore South,-34.84975,138.47949,Australia
+2660,Sheidow Park,-35.07928,138.52738,Australia
+2661,Smithfield,-34.68333,138.68333,Australia
+2662,Smithfield Plains,-34.67643,138.67785,Australia
+2663,Solomontown,-33.1853,138.02364,Australia
+2664,Somerton Park,-34.99705,138.52155,Australia
+2665,South Brighton,-35.02765,138.52798,Australia
+2666,South Plympton,-34.97682,138.55588,Australia
+2667,Southern Mallee,-35.36733,140.5203,Australia
+2668,St Agnes,-34.83075,138.71074,Australia
+2669,St Georges,-34.952,138.64787,Australia
+2670,St Marys,-35.00423,138.57983,Australia
+2671,St Morris,-34.91107,138.6536,Australia
+2672,St Peters,-34.90498,138.62255,Australia
+2673,Stirling,-35.0022,138.71956,Australia
+2674,Stirling North,-32.47986,137.83804,Australia
+2675,Stonyfell,-34.93422,138.67674,Australia
+2676,Strathalbyn,-35.25979,138.89247,Australia
+2677,Streaky Bay,-32.73808,134.55116,Australia
+2678,Sturt,-35.02303,138.55476,Australia
+2679,Surrey Downs,-34.79951,138.71154,Australia
+2680,Tailem Bend,-35.25226,139.45546,Australia
+2681,Tanunda,-34.52336,138.95982,Australia
+2682,Taperoo,-34.80425,138.49593,Australia
+2683,Tatiara,-36.22232,140.50748,Australia
+2684,Tea Tree Gully,-34.80171,138.71994,Australia
+2685,Tennyson,-34.88601,138.48588,Australia
+2686,The Coorong,-35.71844,139.70329,Australia
+2687,Thebarton,-34.91667,138.56667,Australia
+2688,Toorak Gardens,-34.93478,138.63639,Australia
+2689,Torrens Park,-34.97607,138.61034,Australia
+2690,Torrensville,-34.92046,138.56149,Australia
+2691,Tranmere,-34.9055,138.66212,Australia
+2692,Trinity Gardens,-34.91438,138.64141,Australia
+2693,Trott Park,-35.07576,138.54189,Australia
+2694,Tumby Bay,-34.19697,136.13649,Australia
+2695,Tusmore,-34.93894,138.65059,Australia
+2696,Two Wells,-34.59327,138.51367,Australia
+2697,Underdale,-34.91803,138.54704,Australia
+2698,Unley,-34.95392,138.60798,Australia
+2699,Unley Park,-34.96388,138.60776,Australia
+2700,Vale Park,-34.88604,138.62714,Australia
+2701,Valley View,-34.83994,138.66072,Australia
+2702,Victor Harbor,-35.51605,138.5461,Australia
+2703,Virginia,-34.6663,138.56027,Australia
+2704,Waikerie,-34.18178,139.98552,Australia
+2705,Wakefield,-34.00743,138.39455,Australia
+2706,Walkerville,-34.89443,138.61626,Australia
+2707,Walkley Heights,-34.83668,138.64368,Australia
+2708,Wallaroo,-33.93881,137.63365,Australia
+2709,Warradale,-34.99717,138.53155,Australia
+2710,Waterloo Corner,-34.71667,138.58333,Australia
+2711,Wattle Park,-34.92516,138.67501,Australia
+2712,Wattle Range,-37.50804,140.42114,Australia
+2713,Wayville,-34.94468,138.59132,Australia
+2714,West Beach,-34.94597,138.50935,Australia
+2715,West Croydon,-34.89448,138.55931,Australia
+2716,West Hindmarsh,-34.90794,138.56412,Australia
+2717,West Lakes,-34.87299,138.49458,Australia
+2718,West Lakes Shore,-34.8601,138.48966,Australia
+2719,Westbourne Park,-34.97165,138.59525,Australia
+2720,Whyalla,-33.04569,137.54468,Australia
+2721,Whyalla Jenkins,-33.02205,137.51269,Australia
+2722,Whyalla Norrie,-33.02903,137.53922,Australia
+2723,Whyalla Playford,-33.02788,137.56196,Australia
+2724,Whyalla Stuart,-33.02493,137.52471,Australia
+2725,Willaston,-34.5864,138.74124,Australia
+2726,Williamstown,-34.6721,138.89108,Australia
+2727,Willunga,-35.27127,138.55417,Australia
+2728,Windsor Gardens,-34.86538,138.64703,Australia
+2729,Woodcroft,-35.10236,138.56292,Australia
+2730,Woodside,-34.95433,138.87901,Australia
+2731,Woodville,-34.877,138.54291,Australia
+2732,Woodville Gardens,-34.86788,138.54798,Australia
+2733,Woodville North,-34.872,138.54309,Australia
+2734,Woodville Park,-34.88696,138.54648,Australia
+2735,Woodville South,-34.88186,138.53477,Australia
+2736,Woodville West,-34.8864,138.53095,Australia
+2737,Wudinna,-32.97747,135.3917,Australia
+2738,Wynn Vale,-34.79942,138.68714,Australia
+2739,Yankalilla,-35.4939,138.34225,Australia
+2740,Yorke Peninsula,-34.70549,137.58179,Australia
+2741,Acton Park,-42.87932,147.48459,Australia
+2742,Austins Ferry,-42.76667,147.25,Australia
+2743,Bagdad,-42.62968,147.22339,Australia
+2744,Battery Point,-42.88995,147.33324,Australia
+2745,Beaconsfield,-41.20227,146.81723,Australia
+2746,Beauty Point,-41.16216,146.82146,Australia
+2747,Bellerive,-42.87551,147.3703,Australia
+2748,Berriedale,-42.81667,147.25,Australia
+2749,Blackmans Bay,-43.00311,147.31694,Australia
+2750,Blackstone Heights,-41.45977,147.08407,Australia
+2751,Break O'Day,-41.39069,147.97477,Australia
+2752,Bridgewater,-42.73719,147.22784,Australia
+2753,Bridport,-41.00046,147.39175,Australia
+2754,Brighton,-42.72673,147.24233,Australia
+2755,Burnie,-41.1965,145.81136,Australia
+2756,Cambridge,-42.83333,147.45,Australia
+2757,Central Coast,-41.26999,146.05916,Australia
+2758,Central Highlands,-42.19653,146.63934,Australia
+2759,Chigwell,-42.80912,147.2448,Australia
+2760,Circular Head,-41.01991,145.08366,Australia
+2761,Claremont,-42.78333,147.25,Australia
+2762,Clarence,-42.87369,147.44725,Australia
+2763,Clarendon Vale,-42.88988,147.44368,Australia
+2764,Cressy,-41.68561,147.07792,Australia
+2765,Currie,-39.92976,143.85385,Australia
+2766,Cygnet,-43.15333,147.07253,Australia
+2767,Deloraine,-41.52477,146.65701,Australia
+2768,Derwent Valley,-42.80383,146.5297,Australia
+2769,Devonport,-41.21296,146.32401,Australia
+2770,Dodges Ferry,-42.85315,147.62263,Australia
+2771,Dorset,-41.04789,147.73167,Australia
+2772,Dynnyrne,-42.90541,147.31576,Australia
+2773,East Devonport,-41.18792,146.3866,Australia
+2774,East Launceston,-41.43843,147.15101,Australia
+2775,Evandale,-41.56858,147.25271,Australia
+2776,Flinders,-40.03799,148.13965,Australia
+2777,Franklin,-43.08884,147.00906,Australia
+2778,Gagebrook,-42.7477,147.26984,Australia
+2779,Geeveston,-43.16337,146.92549,Australia
+2780,Geilston Bay,-42.82955,147.3463,Australia
+2781,George Town,-41.11982,147.01731,Australia
+2782,Glamorgan/Spring Bay,-42.27832,147.96675,Australia
+2783,Glenorchy,-42.83188,147.22954,Australia
+2784,Goodwood,-42.82822,147.29301,Australia
+2785,Granton,-42.75149,147.22795,Australia
+2786,Hadspen,-41.50059,147.07359,Australia
+2787,Herdsmans Cove,-42.75066,147.26483,Australia
+2788,Hillcrest,-41.06324,145.89437,Australia
+2789,Hobart,-42.87936,147.32941,Australia
+2790,Hobart city centre,-42.8828,147.32582,Australia
+2791,Howrah,-42.88728,147.40554,Australia
+2792,Huon Valley,-43.29385,146.56555,Australia
+2793,Huonville,-43.03124,147.04813,Australia
+2794,Invermay,-41.42036,147.13358,Australia
+2795,Kentish,-41.46341,146.17726,Australia
+2796,King Island,-39.87215,143.99153,Australia
+2797,Kingborough,-42.97451,147.25113,Australia
+2798,Kings Meadows,-41.47041,147.16196,Australia
+2799,Kingston,-42.97638,147.30351,Australia
+2800,Kingston Beach,-42.98021,147.31941,Australia
+2801,Latrobe,-41.21551,146.40656,Australia
+2802,Lauderdale,-42.91364,147.48747,Australia
+2803,Launceston,-41.43876,147.13467,Australia
+2804,Launceston city centre,-41.43352,147.1378,Australia
+2805,Legana,-41.36572,147.04584,Australia
+2806,Lenah Valley,-42.87146,147.27514,Australia
+2807,Lindisfarne,-42.84837,147.36192,Australia
+2808,Longford,-41.60512,147.11887,Australia
+2809,Lutana,-42.83475,147.31152,Australia
+2810,Margate,-43.02814,147.26256,Australia
+2811,Mayfield,-41.3876,147.13052,Australia
+2812,Meander Valley,-41.64952,146.54572,Australia
+2813,Miandetta,-41.1955,146.35322,Australia
+2814,Midway Point,-42.7948,147.52883,Australia
+2815,Montello,-41.05762,145.89626,Australia
+2816,Montrose,-42.82895,147.24735,Australia
+2817,Moonah,-42.84617,147.30228,Australia
+2818,Mornington,-42.86267,147.39819,Australia
+2819,Mount Nelson,-42.92073,147.32069,Australia
+2820,Mount Stuart,-42.87157,147.30164,Australia
+2821,Mowbray,-41.40243,147.15059,Australia
+2822,New Norfolk,-42.78261,147.0587,Australia
+2823,New Town,-42.85758,147.30869,Australia
+2824,Newnham,-41.38969,147.11397,Australia
+2825,Newstead,-41.44108,147.16183,Australia
+2826,North Hobart,-42.87406,147.31597,Australia
+2827,Northern Midlands,-41.87988,147.45776,Australia
+2828,Norwood,-41.4592,147.18077,Australia
+2829,Oakdowns,-42.90178,147.45595,Australia
+2830,Old Beach,-42.77758,147.26659,Australia
+2831,Park Grove,-41.05478,145.88201,Australia
+2832,Penguin,-41.12258,146.07318,Australia
+2833,Perth,-41.57231,147.17096,Australia
+2834,Port Sorell,-41.16652,146.55283,Australia
+2835,Prospect Vale,-41.481,147.10406,Australia
+2836,Queenstown,-42.0805,145.55646,Australia
+2837,Ranelagh,-43.00977,147.03764,Australia
+2838,Ravenswood,-41.41593,147.1825,Australia
+2839,Richmond,-42.73554,147.43833,Australia
+2840,Risdon Vale,-42.81242,147.35654,Australia
+2841,Riverside,-41.42105,147.05086,Australia
+2842,Rocherlea,-41.38083,147.15738,Australia
+2843,Rokeby,-42.89875,147.44917,Australia
+2844,Romaine,-41.09944,145.89376,Australia
+2845,Rosetta,-42.82105,147.25258,Australia
+2846,Saint Leonards,-41.45672,147.19952,Australia
+2847,Sandford,-42.93333,147.5,Australia
+2848,Sandy Bay,-42.89449,147.32439,Australia
+2849,Scottsdale,-41.1578,147.51727,Australia
+2850,Seven Mile Beach,-42.85863,147.50532,Australia
+2851,Shearwater,-41.15673,146.53178,Australia
+2852,Sheffield,-41.39947,146.33897,Australia
+2853,Shorewell Park,-41.0699,145.87689,Australia
+2854,Smithton,-40.84587,145.12498,Australia
+2855,Snug,-43.06669,147.25468,Australia
+2856,Somerset,-41.04065,145.83055,Australia
+2857,Sorell,-42.78908,147.69488,Australia
+2858,South Hobart,-42.89459,147.30924,Australia
+2859,South Launceston,-41.45506,147.14556,Australia
+2860,Southern Midlands,-42.41785,147.43414,Australia
+2861,Spreyton,-41.23524,146.35108,Australia
+2862,St Helens,-41.32028,148.23889,Australia
+2863,Summerhill,-41.46747,147.12796,Australia
+2864,Taroona,-42.9452,147.3484,Australia
+2865,Tasman Peninsula,-43.16245,147.94739,Australia
+2866,Tranmere,-42.92179,147.41701,Australia
+2867,Trevallyn,-41.44246,147.10484,Australia
+2868,Turners Beach,-41.1606,146.23193,Australia
+2869,Ulverstone,-41.16026,146.18242,Australia
+2870,Upper Burnie,-41.07139,145.8996,Australia
+2871,Waratah/Wynyard,-41.30709,145.45831,Australia
+2872,Warrane,-42.85546,147.38297,Australia
+2873,Waverley,-41.43602,147.18588,Australia
+2874,West Coast,-42.45246,145.52264,Australia
+2875,West Hobart,-42.87658,147.30688,Australia
+2876,West Launceston,-41.45092,147.13114,Australia
+2877,West Moonah,-42.84996,147.28181,Australia
+2878,West Tamar,-41.26441,146.89123,Australia
+2879,West Ulverstone,-41.14744,146.1267,Australia
+2880,Westbury,-41.52914,146.83914,Australia
+2881,Wynyard,-40.9897,145.72617,Australia
+2882,Youngtown,-41.48332,147.17067,Australia
+2883,Abbotsford,-37.8,145.0,Australia
+2884,Aberfeldie,-37.75959,144.8974,Australia
+2885,Airport West,-37.7247,144.88126,Australia
+2886,Albanvale,-37.74609,144.76856,Australia
+2887,Albert Park,-37.84107,144.95198,Australia
+2888,Albion,-37.78017,144.81724,Australia
+2889,Alexandra,-37.19132,145.7112,Australia
+2890,Alfredton,-37.56667,143.81667,Australia
+2891,Allansford,-38.38639,142.59431,Australia
+2892,Alphington,-37.78333,145.03333,Australia
+2893,Alpine,-36.83412,146.97936,Australia
+2894,Altona,-37.86964,144.83036,Australia
+2895,Altona Meadows,-37.88413,144.78367,Australia
+2896,Altona North,-37.83487,144.84735,Australia
+2897,Anglesea,-38.4073,144.18587,Australia
+2898,Apollo Bay,-38.7594,143.67219,Australia
+2899,Ararat,-37.48925,142.82239,Australia
+2900,Ardeer,-37.77586,144.80144,Australia
+2901,Armadale,-37.85544,145.02052,Australia
+2902,Armstrong Creek,-38.23121,144.37374,Australia
+2903,Ascot,-36.7,144.33333,Australia
+2904,Ascot Vale,-37.77988,144.92276,Australia
+2905,Ashburton,-37.86667,145.08333,Australia
+2906,Ashwood,-37.86659,145.10553,Australia
+2907,Aspendale,-38.02913,145.10266,Australia
+2908,Aspendale Gardens,-38.02277,145.11798,Australia
+2909,Attwood,-37.66955,144.88675,Australia
+2910,Avenel,-36.90088,145.23367,Australia
+2911,Avoca,-37.09044,143.47365,Australia
+2912,Avondale Heights,-37.76155,144.86261,Australia
+2913,Bacchus Marsh,-37.67268,144.43829,Australia
+2914,Badger Creek,-37.7,145.51667,Australia
+2915,Bairnsdale,-37.82289,147.61041,Australia
+2916,Balaclava,-37.86667,145.0,Australia
+2917,Ballan,-37.59987,144.2289,Australia
+2918,Ballarat,-37.56622,143.84957,Australia
+2919,Ballarat Central,-37.56206,143.85082,Australia
+2920,Ballarat East,-37.56667,143.86667,Australia
+2921,Ballarat North,-37.51884,143.77284,Australia
+2922,Balnarring,-38.36667,145.13333,Australia
+2923,Balwyn,-37.80914,145.0789,Australia
+2924,Balwyn North,-37.79086,145.09386,Australia
+2925,Bannockburn,-38.04894,144.16882,Australia
+2926,Banyule,-37.73386,145.08576,Australia
+2927,Baranduda,-36.19114,146.9538,Australia
+2928,Barwon Heads,-38.27448,144.48853,Australia
+2929,Bass Coast,-38.48507,145.4639,Australia
+2930,Baw Baw,-37.96998,146.14404,Australia
+2931,Baxter,-38.2,145.15,Australia
+2932,Bayside,-37.93986,145.01932,Australia
+2933,Bayswater,-37.85,145.26667,Australia
+2934,Bayswater North,-37.82612,145.29831,Australia
+2935,Beaconsfield,-38.05,145.36667,Australia
+2936,Beaconsfield Upper,-37.99415,145.4142,Australia
+2937,Beaufort,-37.42996,143.38347,Australia
+2938,Beaumaris,-37.98534,145.03361,Australia
+2939,Beechworth,-36.35828,146.68584,Australia
+2940,Belgrave,-37.91093,145.35359,Australia
+2941,Belgrave Heights,-37.92624,145.34367,Australia
+2942,Belgrave South,-37.93333,145.33333,Australia
+2943,Bell Park,-38.10793,144.33839,Australia
+2944,Bell Post Hill,-38.09564,144.31968,Australia
+2945,Bellfield,-37.75309,145.03848,Australia
+2946,Belmont,-38.17485,144.34276,Australia
+2947,Benalla,-36.59041,146.02812,Australia
+2948,Bendigo,-36.75818,144.28024,Australia
+2949,Bendigo city centre,-36.75698,144.27957,Australia
+2950,Bentleigh,-37.91806,145.03544,Australia
+2951,Bentleigh East,-37.91928,145.05301,Australia
+2952,Berwick,-38.03333,145.35,Australia
+2953,Beveridge,-37.48333,144.98333,Australia
+2954,Bittern,-38.33333,145.16667,Australia
+2955,Black Hill,-37.55,143.86667,Australia
+2956,Black Rock,-37.97357,145.01636,Australia
+2957,Blackburn,-37.81901,145.15326,Australia
+2958,Blackburn North,-37.80931,145.1518,Australia
+2959,Blackburn South,-37.83975,145.15549,Australia
+2960,Blairgowrie,-38.36131,144.77955,Australia
+2961,Blind Bight,-38.21427,145.3377,Australia
+2962,Bonbeach,-38.06528,145.12278,Australia
+2963,Boronia,-37.86667,145.28333,Australia
+2964,Boroondara,-37.8264,145.05299,Australia
+2965,Botanic Ridge,-38.13922,145.26841,Australia
+2966,Box Hill,-37.81887,145.12545,Australia
+2967,Box Hill North,-37.80266,145.12656,Australia
+2968,Box Hill South,-37.83236,145.12098,Australia
+2969,Braybrook,-37.78671,144.85484,Australia
+2970,Briagolong,-37.84356,147.07268,Australia
+2971,Briar Hill,-37.70631,145.121,Australia
+2972,Bright,-36.72998,146.95978,Australia
+2973,Brighton,-37.90561,145.00279,Australia
+2974,Brighton East,-37.90232,145.01734,Australia
+2975,Brimbank,-37.74287,144.81644,Australia
+2976,Broadford,-37.20276,145.04837,Australia
+2977,Broadmeadows,-37.68015,144.91877,Australia
+2978,Brookfield,-37.7008,144.56025,Australia
+2979,Brooklyn,-37.81609,144.8415,Australia
+2980,Brown Hill,-37.54654,143.91553,Australia
+2981,Brunswick,-37.76667,144.96667,Australia
+2982,Brunswick East,-37.77255,144.97241,Australia
+2983,Brunswick West,-37.76461,144.94383,Australia
+2984,Bulleen,-37.76667,145.08333,Australia
+2985,Buloke,-35.84638,143.05201,Australia
+2986,Bundoora,-37.69825,145.05967,Australia
+2987,Buninyong,-37.65019,143.88388,Australia
+2988,Bunyip,-38.09789,145.71606,Australia
+2989,Burnside,-37.74937,144.75301,Australia
+2990,Burnside Heights,-37.72691,144.75225,Australia
+2991,Burwood,-37.84978,145.11901,Australia
+2992,Burwood East,-37.85,145.15,Australia
+2993,Cairnlea,-37.75931,144.78781,Australia
+2994,California Gully,-36.72887,144.26089,Australia
+2995,Camberwell,-37.84205,145.0694,Australia
+2996,Campaspe,-36.32338,144.70844,Australia
+2997,Campbellfield,-37.66386,144.95953,Australia
+2998,Campbells Creek,-37.08665,144.20203,Australia
+2999,Camperdown,-38.23392,143.14983,Australia
+3000,Canadian,-37.57606,143.87742,Australia
+3001,Canterbury,-37.8247,145.08476,Australia
+3002,Cape Woolamai,-38.54285,145.34407,Australia
+3003,Cardinia,-38.09508,145.56455,Australia
+3004,Carisbrook,-37.04808,143.81665,Australia
+3005,Carlton,-37.8,144.96667,Australia
+3006,Carlton North,-37.78818,144.97014,Australia
+3007,Carnegie,-37.89359,145.05534,Australia
+3008,Caroline Springs,-37.74124,144.73631,Australia
+3009,Carrum,-38.08333,145.13333,Australia
+3010,Carrum Downs,-38.09968,145.17248,Australia
+3011,Casey,-38.09519,145.32279,Australia
+3012,Casterton,-37.58489,141.40297,Australia
+3013,Castlemaine,-37.06709,144.21684,Australia
+3014,Caulfield,-37.88251,145.02288,Australia
+3015,Caulfield East,-37.88121,145.04208,Australia
+3016,Caulfield North,-37.8739,145.02485,Australia
+3017,Caulfield South,-37.89562,145.02597,Australia
+3018,Central Goldfields,-36.97889,143.73857,Australia
+3019,Chadstone,-37.88766,145.09519,Australia
+3020,Charlton,-36.26437,143.34901,Australia
+3021,Chelsea,-38.05,145.11667,Australia
+3022,Chelsea Heights,-38.03333,145.13333,Australia
+3023,Cheltenham,-37.96944,145.04806,Australia
+3024,Chewton,-37.08137,144.25682,Australia
+3025,Chiltern,-36.15044,146.60843,Australia
+3026,Chirnside Park,-37.7386,145.31431,Australia
+3027,Churchill,-38.30776,146.41367,Australia
+3028,Clarinda,-37.94066,145.10238,Australia
+3029,Clayton,-37.91667,145.11667,Australia
+3030,Clayton South,-37.93333,145.11667,Australia
+3031,Clifton Hill,-37.79798,144.99533,Australia
+3032,Clifton Springs,-38.1567,144.5551,Australia
+3033,Clunes,-37.29473,143.78636,Australia
+3034,Clyde,-38.13333,145.33333,Australia
+3035,Clyde North,-38.11667,145.33333,Australia
+3036,Cobden,-38.3286,143.07484,Australia
+3037,Cobram,-35.92069,145.64066,Australia
+3038,Coburg,-37.75,144.96667,Australia
+3039,Coburg North,-37.72867,144.96134,Australia
+3040,Cockatoo,-37.93677,145.49376,Australia
+3041,Cohuna,-35.80697,144.21886,Australia
+3042,Colac,-38.339,143.58489,Australia
+3043,Colac-Otway,-38.43873,143.59669,Australia
+3044,Coldstream,-37.7249,145.37804,Australia
+3045,Collingwood,-37.80253,144.98872,Australia
+3046,Coolaroo,-37.65675,144.9346,Australia
+3047,Corangamite,-38.21596,143.23542,Australia
+3048,Corio,-38.08333,144.38333,Australia
+3049,Corryong,-36.19705,147.90256,Australia
+3050,Cowes,-38.45231,145.23865,Australia
+3051,Craigieburn,-37.6,144.95,Australia
+3052,Cranbourne,-38.11342,145.28326,Australia
+3053,Cranbourne East,-38.11531,145.29814,Australia
+3054,Cranbourne North,-38.07758,145.29871,Australia
+3055,Cranbourne South,-38.13502,145.23958,Australia
+3056,Cranbourne West,-38.0965,145.26707,Australia
+3057,Cremorne,-37.8318,144.9938,Australia
+3058,Creswick,-37.42404,143.8947,Australia
+3059,Crib Point,-38.35,145.2,Australia
+3060,Croydon,-37.8,145.28333,Australia
+3061,Croydon Hills,-37.77651,145.26355,Australia
+3062,Croydon North,-37.76741,145.29073,Australia
+3063,Croydon South,-37.81232,145.2681,Australia
+3064,Dallas,-37.67083,144.93542,Australia
+3065,Dandenong,-37.98333,145.2,Australia
+3066,Dandenong North,-37.96649,145.2081,Australia
+3067,Darebin,-37.75153,145.02193,Australia
+3068,Darley,-37.65807,144.44344,Australia
+3069,Daylesford,-37.34113,144.14256,Australia
+3070,Deer Park,-37.76722,144.76657,Australia
+3071,Delacombe,-37.58911,143.81472,Australia
+3072,Delahey,-37.7198,144.77732,Australia
+3073,Dennington,-38.35519,142.43361,Australia
+3074,Derrimut,-37.79238,144.76994,Australia
+3075,Devon Meadows,-38.16667,145.3,Australia
+3076,Diamond Creek,-37.66667,145.15,Australia
+3077,Diggers Rest,-37.62597,144.71881,Australia
+3078,Dimboola,-36.45616,142.03287,Australia
+3079,Dingley Village,-37.9827,145.1342,Australia
+3080,Dinner Plain,-37.0236,147.24124,Australia
+3081,Docklands,-37.8149,144.95052,Australia
+3082,Donald,-36.36864,142.98106,Australia
+3083,Doncaster,-37.78828,145.12373,Australia
+3084,Doncaster East,-37.78761,145.14888,Australia
+3085,Donvale,-37.7891,145.17488,Australia
+3086,Doreen,-37.6,145.15,Australia
+3087,Doveton,-37.99346,145.23891,Australia
+3088,Dromana,-38.33375,144.96458,Australia
+3089,Drouin,-38.13658,145.85838,Australia
+3090,Drysdale,-38.17237,144.56988,Australia
+3091,Eagle Point,-37.9,147.68333,Australia
+3092,Eaglehawk,-36.71611,144.25049,Australia
+3093,Eaglemont,-37.76379,145.0638,Australia
+3094,East Bairnsdale,-37.83426,147.65548,Australia
+3095,East Bendigo,-36.74157,144.31894,Australia
+3096,East Geelong,-38.15568,144.37202,Australia
+3097,East Gippsland,-37.34564,148.58295,Australia
+3098,East Melbourne,-37.81667,144.9879,Australia
+3099,Echuca,-36.14057,144.75185,Australia
+3100,Eden Park,-37.48333,145.08333,Australia
+3101,Edithvale,-38.03724,145.10974,Australia
+3102,Elliminyt,-38.3711,143.58003,Australia
+3103,Elsternwick,-37.88639,145.0025,Australia
+3104,Eltham,-37.73333,145.15,Australia
+3105,Eltham North,-37.7,145.15,Australia
+3106,Elwood,-37.88214,144.98215,Australia
+3107,Emerald,-37.93167,145.44093,Australia
+3108,Endeavour Hills,-37.97695,145.25866,Australia
+3109,Epping,-37.65,145.03333,Australia
+3110,Epsom,-36.71667,144.31667,Australia
+3111,Essendon,-37.74981,144.9109,Australia
+3112,Essendon North,-37.74225,144.90546,Australia
+3113,Essendon West,-37.75489,144.88338,Australia
+3114,Eumemmerring,-37.9978,145.24821,Australia
+3115,Euroa,-36.75555,145.57075,Australia
+3116,Eynesbury,-37.80043,144.57458,Australia
+3117,Fairfield,-37.77977,145.01764,Australia
+3118,Falls Creek,-36.86535,147.27782,Australia
+3119,Fawkner,-37.71667,144.96667,Australia
+3120,Ferntree Gully,-37.88461,145.29539,Australia
+3121,Ferny Creek,-37.88333,145.33333,Australia
+3122,Fitzroy,-37.79839,144.97833,Australia
+3123,Fitzroy North,-37.78862,144.97885,Australia
+3124,Flemington,-37.78825,144.93001,Australia
+3125,Flora Hill,-36.78123,144.29562,Australia
+3126,Footscray,-37.8,144.9,Australia
+3127,Forest Hill,-37.83333,145.18333,Australia
+3128,Foster,-38.65275,146.20073,Australia
+3129,Frankston,-38.13402,145.16875,Australia
+3130,Frankston East,-38.13333,145.13333,Australia
+3131,Frankston North,-38.12352,145.14836,Australia
+3132,Frankston South,-38.16604,145.13643,Australia
+3133,Gannawarra,-35.73211,143.85316,Australia
+3134,Garfield,-38.08985,145.67502,Australia
+3135,Geelong,-38.14711,144.36069,Australia
+3136,Geelong city centre,-38.14996,144.36176,Australia
+3137,Geelong West,-38.13888,144.34842,Australia
+3138,Gembrook,-37.95321,145.55536,Australia
+3139,Gisborne,-37.48858,144.59421,Australia
+3140,Gladstone Park,-37.68742,144.88675,Australia
+3141,Glen Eira,-37.89949,145.04099,Australia
+3142,Glen Huntly,-37.89237,145.04135,Australia
+3143,Glen Iris,-37.86667,145.06667,Australia
+3144,Glen Waverley,-37.87811,145.16476,Australia
+3145,Glenelg,-37.89083,141.44238,Australia
+3146,Glenferrie,-37.83333,145.05,Australia
+3147,Glengarry,-38.11667,146.56667,Australia
+3148,Glenroy,-37.7,144.93333,Australia
+3149,Golden Plains,-37.85231,143.86352,Australia
+3150,Golden Point,-37.57493,143.8687,Australia
+3151,Golden Square,-36.77265,144.25271,Australia
+3152,Gordon,-37.5823,144.10925,Australia
+3153,Gowanbrae,-37.70823,144.89079,Australia
+3154,Greater Bendigo,-36.72278,144.43974,Australia
+3155,Greater Dandenong,-38.00112,145.19073,Australia
+3156,Greater Geelong,-38.05182,144.46137,Australia
+3157,Greater Shepparton,-36.42742,145.41519,Australia
+3158,Greensborough,-37.70462,145.10302,Australia
+3159,Greenvale,-37.63333,144.86667,Australia
+3160,Grovedale,-38.2,144.35,Australia
+3161,Haddon,-37.6,143.71667,Australia
+3162,Hadfield,-37.70728,144.9416,Australia
+3163,Hallam,-38.01667,145.26667,Australia
+3164,Hamilton,-37.74425,142.02202,Australia
+3165,Hamlyn Heights,-38.12108,144.32799,Australia
+3166,Hampton,-37.95,145.0,Australia
+3167,Hampton East,-37.93695,145.02863,Australia
+3168,Hampton Park,-38.03333,145.25,Australia
+3169,Hastings,-38.3,145.18333,Australia
+3170,Haven,-36.76072,142.19426,Australia
+3171,Hawthorn,-37.81992,145.0358,Australia
+3172,Hawthorn East,-37.82484,145.0464,Australia
+3173,Hawthorn South,-37.8329,145.0367,Australia
+3174,Hazelwood North,-38.26763,146.48286,Australia
+3175,Healesville,-37.65395,145.51718,Australia
+3176,Heathcote,-36.92214,144.70837,Australia
+3177,Heatherton,-37.96667,145.1,Australia
+3178,Heathmont,-37.83333,145.25,Australia
+3179,Heidelberg,-37.75,145.06667,Australia
+3180,Heidelberg Heights,-37.74313,145.05695,Australia
+3181,Heidelberg West,-37.73922,145.04034,Australia
+3182,Hepburn,-37.31707,144.03355,Australia
+3183,Herne Hill,-38.13427,144.32406,Australia
+3184,Heyfield,-37.9813,146.78559,Australia
+3185,Heywood,-38.13294,141.62949,Australia
+3186,Highett,-37.95,145.05,Australia
+3187,Highton,-38.17058,144.3114,Australia
+3188,Hillside,-37.69047,144.74172,Australia
+3189,Hindmarsh,-36.03293,141.73282,Australia
+3190,Hmas Cerberus,-38.36491,145.20038,Australia
+3191,Hobsons Bay,-37.85694,144.83347,Australia
+3192,Hoppers Crossing,-37.88264,144.7003,Australia
+3193,Horsham,-36.82857,142.11448,Australia
+3194,Hotham Heights,-36.99298,147.15225,Australia
+3195,Hughesdale,-37.9,145.08333,Australia
+3196,Hume,-37.59717,144.80511,Australia
+3197,Huntingdale,-37.90766,145.10847,Australia
+3198,Huntly,-36.66451,144.33382,Australia
+3199,Hurstbridge,-37.64157,145.19408,Australia
+3200,Indented Head,-38.14305,144.71343,Australia
+3201,Indigo,-36.20854,146.68628,Australia
+3202,Inverleigh,-38.10177,144.05132,Australia
+3203,Inverloch,-38.62659,145.7226,Australia
+3204,Invermay Park,-37.53063,143.85798,Australia
+3205,Ironbark,-36.75478,144.26378,Australia
+3206,Irymple,-34.23537,142.17101,Australia
+3207,Ivanhoe,-37.76903,145.04308,Australia
+3208,Ivanhoe East,-37.7734,145.06195,Australia
+3209,Jacana,-37.68778,144.91111,Australia
+3210,Jackass Flat,-36.71589,144.28597,Australia
+3211,Jan Juc,-38.34455,144.29518,Australia
+3212,Junction Village,-38.13636,145.29684,Australia
+3213,Junortoun,-36.77106,144.36311,Australia
+3214,Kalimna,-37.87011,147.96664,Australia
+3215,Kallista,-37.89815,145.38226,Australia
+3216,Kalorama,-37.81667,145.36667,Australia
+3217,Kangaroo Flat,-36.8,144.25,Australia
+3218,Kangaroo Ground,-37.68919,145.2317,Australia
+3219,Kealba,-37.7371,144.8283,Australia
+3220,Keilor,-37.71667,144.83333,Australia
+3221,Keilor Downs,-37.72337,144.80839,Australia
+3222,Keilor East,-37.73261,144.86504,Australia
+3223,Keilor Lodge,-37.69997,144.80332,Australia
+3224,Keilor Park,-37.72025,144.85422,Australia
+3225,Kennington,-36.77128,144.30298,Australia
+3226,Kensington,-37.79188,144.93114,Australia
+3227,Kerang,-35.73489,143.92027,Australia
+3228,Kew,-37.80639,145.03086,Australia
+3229,Kew East,-37.79758,145.05378,Australia
+3230,Keysborough,-37.99116,145.17385,Australia
+3231,Kialla,-36.44729,145.41422,Australia
+3232,Kilmore,-37.29577,144.95252,Australia
+3233,Kilsyth,-37.8,145.31667,Australia
+3234,Kilsyth South,-37.82033,145.31599,Australia
+3235,Kinglake,-37.53291,145.33964,Australia
+3236,Kinglake West,-37.46667,145.23333,Australia
+3237,Kings Park,-37.73397,144.77766,Australia
+3238,Kingsbury,-37.71406,145.03509,Australia
+3239,Kingston,-38.0045,145.09531,Australia
+3240,Kingsville,-37.80819,144.87911,Australia
+3241,Knox,-37.89895,145.26923,Australia
+3242,Knoxfield,-37.88978,145.24962,Australia
+3243,Koo-Wee-Rup,-38.19941,145.49081,Australia
+3244,Koroit,-38.2918,142.36729,Australia
+3245,Korumburra,-38.43194,145.82355,Australia
+3246,Kurunjang,-37.67587,144.5969,Australia
+3247,Kyabram,-36.31335,145.05035,Australia
+3248,Kyneton,-37.24444,144.45148,Australia
+3249,Lake Gardens,-37.54632,143.81653,Australia
+3250,Lake Wendouree,-37.54993,143.8473,Australia
+3251,Lakes Entrance,-37.86679,148.00159,Australia
+3252,Lalor,-37.66667,145.01667,Australia
+3253,Lancefield,-37.27733,144.73596,Australia
+3254,Lang Lang,-38.26605,145.5621,Australia
+3255,Langwarrin,-38.16667,145.16667,Australia
+3256,Langwarrin South,-38.18947,145.1935,Australia
+3257,Lara,-38.02388,144.40617,Australia
+3258,Latrobe,-38.25379,146.46124,Australia
+3259,Launching Place,-37.78058,145.56834,Australia
+3260,Laverton,-37.86201,144.76979,Australia
+3261,Leongatha,-38.47607,145.94685,Australia
+3262,Leopold,-38.19001,144.46825,Australia
+3263,Lilydale,-37.75,145.35,Australia
+3264,Little River,-37.96667,144.5,Australia
+3265,Loddon,-36.40406,143.82964,Australia
+3266,Long Gully,-36.74305,144.25788,Australia
+3267,Longford,-38.16237,147.08591,Australia
+3268,Longwarry,-38.11279,145.76849,Australia
+3269,Lorne,-38.54043,143.97636,Australia
+3270,Lovely Banks,-38.06667,144.33333,Australia
+3271,Lower Plenty,-37.73333,145.11667,Australia
+3272,Lucknow,-37.81667,147.65,Australia
+3273,Lynbrook,-38.05588,145.25615,Australia
+3274,Lysterfield,-37.93333,145.3,Australia
+3275,Macedon,-37.41963,144.56242,Australia
+3276,Macedon Ranges,-37.33343,144.61581,Australia
+3277,Macleod,-37.73333,145.06667,Australia
+3278,Maddingley,-37.68518,144.43245,Australia
+3279,Maffra,-37.97132,146.98366,Australia
+3280,Maiden Gully,-36.75389,144.20789,Australia
+3281,Maidstone,-37.78035,144.87353,Australia
+3282,Maldon,-36.9957,144.06834,Australia
+3283,Mallacoota,-37.55896,149.75407,Australia
+3284,Malvern,-37.86259,145.02811,Australia
+3285,Malvern East,-37.87397,145.04253,Australia
+3286,Manifold Heights,-38.13762,144.33369,Australia
+3287,Manningham,-37.7571,145.18053,Australia
+3288,Mansfield,-37.2413,146.14803,Australia
+3289,Maribyrnong,-37.79141,144.87786,Australia
+3290,Marong,-36.73333,144.13333,Australia
+3291,Maroondah,-37.80288,145.26603,Australia
+3292,Maryborough,-37.04562,143.73923,Australia
+3293,McCrae,-38.34972,144.92806,Australia
+3294,McKinnon,-37.91667,145.05,Australia
+3295,Meadow Heights,-37.65117,144.91855,Australia
+3296,Melbourne,-37.814,144.96332,Australia
+3297,Melbourne City Centre,-37.81501,144.96657,Australia
+3298,Melton,-37.68144,144.62292,Australia
+3299,Melton South,-37.70773,144.57493,Australia
+3300,Melton West,-37.67852,144.56883,Australia
+3301,Mentone,-37.98333,145.06667,Australia
+3302,Merbein,-34.16802,142.06599,Australia
+3303,Mernda,-37.60075,145.09555,Australia
+3304,Metung,-37.89154,147.853,Australia
+3305,Mickleham,-37.53664,144.90204,Australia
+3306,Middle Park,-37.85116,144.96201,Australia
+3307,Mildura,-34.18551,142.16251,Australia
+3308,Mildura Shire,-34.8645,141.85232,Australia
+3309,Mill Park,-37.66667,145.06667,Australia
+3310,Millgrove,-37.75527,145.65347,Australia
+3311,Miners Rest,-37.4808,143.80107,Australia
+3312,Mirboo North,-38.40101,146.16135,Australia
+3313,Mitcham,-37.81667,145.2,Australia
+3314,Mitchell,-37.17535,144.97999,Australia
+3315,Moe,-38.17828,146.26099,Australia
+3316,Moira,-36.0506,145.53815,Australia
+3317,Monash,-37.89675,145.14714,Australia
+3318,Monbulk,-37.87427,145.42592,Australia
+3319,Mont Albert,-37.81788,145.10799,Australia
+3320,Mont Albert North,-37.80043,145.10828,Australia
+3321,Montmorency,-37.71667,145.11667,Australia
+3322,Montrose,-37.81667,145.35,Australia
+3323,Moolap,-38.18333,144.43333,Australia
+3324,Moonee Ponds,-37.76667,144.91667,Australia
+3325,Moonee Valley,-37.74941,144.89325,Australia
+3326,Moorabbin,-37.94146,145.05779,Australia
+3327,Moorabool,-37.63338,144.21946,Australia
+3328,Moorooduc,-38.21667,145.11667,Australia
+3329,Mooroolbark,-37.78247,145.31682,Australia
+3330,Mooroopna,-36.4,145.35,Australia
+3331,Mordialloc,-38.0,145.08333,Australia
+3332,Moreland,-37.73557,144.93745,Australia
+3333,Mornington,-38.21792,145.03876,Australia
+3334,Mornington Peninsula,-38.34004,145.05455,Australia
+3335,Mortlake,-38.08102,142.80827,Australia
+3336,Morwell,-38.23476,146.39499,Australia
+3337,Mount Alexander,-37.07607,144.18825,Australia
+3338,Mount Buller,-37.14595,146.43694,Australia
+3339,Mount Clear,-37.6,143.88333,Australia
+3340,Mount Dandenong,-37.83333,145.36667,Australia
+3341,Mount Duneed,-38.24089,144.33748,Australia
+3342,Mount Eliza,-38.18333,145.08333,Australia
+3343,Mount Evelyn,-37.78333,145.38333,Australia
+3344,Mount Helen,-37.62463,143.8789,Australia
+3345,Mount Macedon,-37.40048,144.58412,Australia
+3346,Mount Martha,-38.26667,145.01667,Australia
+3347,Mount Pleasant,-37.58333,143.86667,Australia
+3348,Mount Waverley,-37.87709,145.12939,Australia
+3349,Moyne,-38.18785,142.46217,Australia
+3350,Mulgrave,-37.92845,145.17708,Australia
+3351,Murrindindi,-37.28104,145.67437,Australia
+3352,Murrumbeena,-37.9,145.06667,Australia
+3353,Myrtleford,-36.56104,146.72371,Australia
+3354,Nagambie,-36.78515,145.15375,Australia
+3355,Narre Warren,-38.03333,145.3,Australia
+3356,Narre Warren North,-37.98333,145.31667,Australia
+3357,Narre Warren South,-38.04369,145.2923,Australia
+3358,Nathalia,-36.05772,145.20406,Australia
+3359,Neerim South,-38.01683,145.95447,Australia
+3360,New Gisborne,-37.46065,144.5993,Australia
+3361,Newborough,-38.17171,146.29264,Australia
+3362,Newcomb,-38.16623,144.39429,Australia
+3363,Newington,-37.55846,143.82485,Australia
+3364,Newport,-37.84427,144.88483,Australia
+3365,Newtown,-38.15391,144.33507,Australia
+3366,Nhill,-36.33333,141.65006,Australia
+3367,Nichols Point,-34.2121,142.21443,Australia
+3368,Nicholson,-37.81667,147.73333,Australia
+3369,Niddrie,-37.7375,144.89212,Australia
+3370,Nillumbik,-37.61474,145.21706,Australia
+3371,Noble Park,-37.96667,145.16667,Australia
+3372,Noble Park North,-37.94978,145.19257,Australia
+3373,Norlane,-38.10139,144.35417,Australia
+3374,North Bendigo,-36.74363,144.28791,Australia
+3375,North Brighton,-37.90694,145.00528,Australia
+3376,North Geelong,-38.10953,144.35134,Australia
+3377,North Melbourne,-37.79798,144.94512,Australia
+3378,North Warrandyte,-37.72924,145.21574,Australia
+3379,North Wonthaggi,-38.57769,145.59302,Australia
+3380,Northcote,-37.76667,145.0,Australia
+3381,Northern Grampians,-36.84962,142.87303,Australia
+3382,Notting Hill,-37.905,145.1427,Australia
+3383,Numurkah,-36.08846,145.44215,Australia
+3384,Nunawading,-37.82043,145.17308,Australia
+3385,Nyora,-38.33364,145.67248,Australia
+3386,Oak Park,-37.71842,144.91945,Australia
+3387,Oakleigh,-37.89809,145.08837,Australia
+3388,Oakleigh East,-37.9,145.11667,Australia
+3389,Oakleigh South,-37.92416,145.09146,Australia
+3390,Ocean Grove,-38.25772,144.51919,Australia
+3391,Officer,-38.05916,145.40947,Australia
+3392,Olinda,-37.85,145.36667,Australia
+3393,Orbost,-37.69644,148.457,Australia
+3394,Ormond,-37.9,145.03333,Australia
+3395,Ouyen,-35.07087,142.32034,Australia
+3396,Pakenham,-38.07018,145.47411,Australia
+3397,Pakenham Upper,-38.01667,145.51667,Australia
+3398,Panton Hill,-37.64082,145.23991,Australia
+3399,Park Orchards,-37.77688,145.21463,Australia
+3400,Parkdale,-37.99187,145.08128,Australia
+3401,Parkville,-37.78333,144.95,Australia
+3402,Pascoe Vale,-37.73333,144.93333,Australia
+3403,Pascoe Vale South,-37.73973,144.94615,Australia
+3404,Patterson Lakes,-38.06934,145.14327,Australia
+3405,Paynesville,-37.91886,147.71944,Australia
+3406,Pearcedale,-38.203,145.23488,Australia
+3407,Phillip Island,-38.48349,145.23102,Australia
+3408,Plenty,-37.66667,145.11667,Australia
+3409,Plumpton,-37.68701,144.69082,Australia
+3410,Point Cook,-37.91482,144.75088,Australia
+3411,Point Lonsdale,-38.28173,144.61055,Australia
+3412,Port Fairy,-38.38535,142.2371,Australia
+3413,Port Melbourne,-37.83961,144.94228,Australia
+3414,Port Phillip,-37.85159,144.96992,Australia
+3415,Portarlington,-38.11542,144.65559,Australia
+3416,Portland,-38.3462,141.60257,Australia
+3417,Prahran,-37.85114,144.99318,Australia
+3418,Preston,-37.75,145.01667,Australia
+3419,Princes Hill,-37.78185,144.96656,Australia
+3420,Puckapunyal,-36.99493,145.04005,Australia
+3421,Pyrenees,-37.32756,143.36472,Australia
+3422,Quarry Hill,-36.77646,144.28024,Australia
+3423,Queenscliff,-38.26789,144.66193,Australia
+3424,Queenscliffe,-38.26896,144.66248,Australia
+3425,Ravenhall,-37.76552,144.75105,Australia
+3426,Red Cliffs,-34.30942,142.18971,Australia
+3427,Redan,-37.57649,143.83862,Australia
+3428,Research,-37.7,145.18333,Australia
+3429,Reservoir,-37.71667,145.0,Australia
+3430,Richmond,-37.81819,145.00176,Australia
+3431,Ringwood,-37.81667,145.23333,Australia
+3432,Ringwood East,-37.81667,145.25,Australia
+3433,Ringwood North,-37.8,145.23333,Australia
+3434,Ripponlea,-37.88333,145.0,Australia
+3435,Robinvale,-34.58356,142.77228,Australia
+3436,Rochester,-36.36352,144.70077,Australia
+3437,Rockbank,-37.73353,144.67003,Australia
+3438,Romsey,-37.35075,144.743,Australia
+3439,Rosanna,-37.73895,145.06735,Australia
+3440,Rosebud,-38.35542,144.9068,Australia
+3441,Rosebud West,-38.36444,144.87748,Australia
+3442,Rosedale,-38.15452,146.7886,Australia
+3443,Ross Creek,-37.65,143.75,Australia
+3444,Rowville,-37.93333,145.23333,Australia
+3445,Roxburgh Park,-37.62581,144.92555,Australia
+3446,Rushworth,-36.58669,145.0175,Australia
+3447,Rutherglen,-36.0543,146.46212,Australia
+3448,Rye,-38.38528,144.81221,Australia
+3449,Safety Beach,-38.31535,145.00027,Australia
+3450,Saint Albans,-37.73333,144.8,Australia
+3451,Saint Andrews,-37.60151,145.27235,Australia
+3452,Saint Andrews Beach,-38.4141,144.82436,Australia
+3453,Saint Helena,-37.7,145.13333,Australia
+3454,Saint Kilda,-37.8676,144.98099,Australia
+3455,Saint Leonards,-38.17051,144.71803,Australia
+3456,Sale,-38.11095,147.06802,Australia
+3457,San Remo,-38.52547,145.37616,Australia
+3458,Sandhurst,-38.081,145.20767,Australia
+3459,Sandringham,-37.95218,145.01129,Australia
+3460,Sassafras,-37.86667,145.35,Australia
+3461,Scoresby,-37.9,145.23333,Australia
+3462,Seabrook,-37.88092,144.75866,Australia
+3463,Seaford,-38.1,145.13333,Australia
+3464,Seaholme,-37.864,144.84504,Australia
+3465,Sebastopol,-37.58532,143.83953,Australia
+3466,Seddon,-37.80607,144.8907,Australia
+3467,Selby,-37.91667,145.38333,Australia
+3468,Seville,-37.79802,145.48763,Australia
+3469,Seymour,-37.02655,145.13924,Australia
+3470,Shepparton,-36.38047,145.39867,Australia
+3471,Shepparton East,-36.40156,145.47765,Australia
+3472,Silvan,-37.81667,145.41667,Australia
+3473,Skye,-38.10505,145.2163,Australia
+3474,Smythes Creek,-37.6,143.78333,Australia
+3475,Smythesdale,-37.64308,143.68617,Australia
+3476,Soldiers Hill,-37.54962,143.85872,Australia
+3477,Somers,-38.38134,145.15898,Australia
+3478,Somerville,-38.21667,145.16667,Australia
+3479,Sorrento,-38.33958,144.74126,Australia
+3480,South Gippsland,-38.69897,146.06702,Australia
+3481,South Kingsville,-37.83018,144.8709,Australia
+3482,South Melbourne,-37.83333,144.96667,Australia
+3483,South Morang,-37.65,145.1,Australia
+3484,South Yarra,-37.83834,144.99149,Australia
+3485,Southbank,-37.8228,144.96434,Australia
+3486,Southern Grampians,-37.52989,142.02533,Australia
+3487,Spotswood,-37.82975,144.88516,Australia
+3488,Springvale,-37.94853,145.15274,Australia
+3489,Springvale South,-37.96667,145.15,Australia
+3490,St Albans Park,-38.18802,144.39207,Australia
+3491,St Helena,-37.68988,145.12315,Australia
+3492,St Kilda East,-37.86594,145.00018,Australia
+3493,St Kilda West,-37.85988,144.97108,Australia
+3494,Stawell,-37.05632,142.78088,Australia
+3495,Stonnington,-37.8613,145.03776,Australia
+3496,Stratford,-37.9634,147.0826,Australia
+3497,Strathbogie,-36.72402,145.32938,Australia
+3498,Strathdale,-36.76572,144.31548,Australia
+3499,Strathfieldsaye,-36.80667,144.35487,Australia
+3500,Strathmerton,-35.92533,145.47865,Australia
+3501,Strathmore,-37.73563,144.92065,Australia
+3502,Sunbury,-37.57742,144.72607,Australia
+3503,Sunshine,-37.78333,144.83333,Australia
+3504,Sunshine North,-37.76987,144.82787,Australia
+3505,Sunshine West,-37.79117,144.81637,Australia
+3506,Surf Coast,-38.33997,144.1153,Australia
+3507,Surrey Hills,-37.81667,145.1,Australia
+3508,Swan Hill,-35.10061,143.1681,Australia
+3509,Sydenham,-37.7,144.76667,Australia
+3510,Tallangatta,-36.21791,147.17699,Australia
+3511,Tarneit,-37.83634,144.65952,Australia
+3512,Tatura,-36.43962,145.22994,Australia
+3513,Taylors Hill,-37.70988,144.75483,Australia
+3514,Taylors Lakes,-37.69863,144.78631,Australia
+3515,Tecoma,-37.90303,145.34468,Australia
+3516,Teesdale,-38.03333,144.05,Australia
+3517,Templestowe,-37.75405,145.14864,Australia
+3518,Templestowe Lower,-37.76667,145.11667,Australia
+3519,Terang,-38.24084,142.92123,Australia
+3520,The Basin,-37.85,145.31667,Australia
+3521,The Patch,-37.89187,145.40216,Australia
+3522,Thomastown,-37.68333,145.01667,Australia
+3523,Thomson,-38.16984,144.3789,Australia
+3524,Thornbury,-37.75819,145.00583,Australia
+3525,Timboon,-38.48434,142.98033,Australia
+3526,Tongala,-36.25466,144.95622,Australia
+3527,Tooradin,-38.21475,145.38325,Australia
+3528,Toorak,-37.84165,145.01438,Australia
+3529,Tootgarook,-38.3777,144.85015,Australia
+3530,Torquay,-38.33085,144.32638,Australia
+3531,Towong,-36.36587,147.62717,Australia
+3532,Trafalgar,-38.20906,146.15347,Australia
+3533,Traralgon,-38.19528,146.5415,Australia
+3534,Travancore,-37.78076,144.93545,Australia
+3535,Trentham,-37.38876,144.32164,Australia
+3536,Truganina,-37.81667,144.75,Australia
+3537,Tullamarine,-37.70128,144.881,Australia
+3538,Tyabb,-38.25,145.18333,Australia
+3539,Upwey,-37.9,145.33333,Australia
+3540,Vermont,-37.83616,145.19428,Australia
+3541,Vermont South,-37.85747,145.1827,Australia
+3542,Viewbank,-37.73991,145.09323,Australia
+3543,Wahgunyah,-36.01178,146.39714,Australia
+3544,Wallan,-37.41625,144.97859,Australia
+3545,Wallington,-38.22641,144.51199,Australia
+3546,Wandana Heights,-38.17577,144.30387,Australia
+3547,Wandin North,-37.78333,145.43333,Australia
+3548,Wandong,-37.3719,145.03207,Australia
+3549,Wangaratta,-36.61599,146.42839,Australia
+3550,Wantirna,-37.85,145.21667,Australia
+3551,Wantirna South,-37.88333,145.21667,Australia
+3552,Warburton,-37.75375,145.69037,Australia
+3553,Warracknabeal,-36.25326,142.39281,Australia
+3554,Warragul,-38.15912,145.93118,Australia
+3555,Warrandyte,-37.75,145.23333,Australia
+3556,Warranwood,-37.77555,145.24728,Australia
+3557,Warrnambool,-38.38176,142.48799,Australia
+3558,Waterways,-38.01478,145.1305,Australia
+3559,Watsonia,-37.71667,145.08333,Australia
+3560,Watsonia North,-37.69981,145.08468,Australia
+3561,Wattleglen,-37.66667,145.18333,Australia
+3562,Waurn Ponds,-38.21667,144.28333,Australia
+3563,Wellington,-38.03765,147.01697,Australia
+3564,Wendouree,-37.53078,143.82838,Australia
+3565,Werribee,-37.9,144.66667,Australia
+3566,Werribee South,-37.9475,144.71667,Australia
+3567,Wesburn,-37.76667,145.63333,Australia
+3568,West Footscray,-37.79746,144.87727,Australia
+3569,West Melbourne,-37.81014,144.95,Australia
+3570,West Wimmera,-36.59921,141.40038,Australia
+3571,West Wodonga,-36.12346,146.85193,Australia
+3572,Westmeadows,-37.67604,144.88701,Australia
+3573,Wheelers Hill,-37.9,145.18333,Australia
+3574,White Hills,-36.72875,144.30525,Australia
+3575,Whitehorse,-37.82868,145.15432,Australia
+3576,Whittington,-38.1808,144.39322,Australia
+3577,Whittlesea,-37.55087,145.09375,Australia
+3578,Williams Landing,-37.8619,144.74371,Australia
+3579,Williamstown,-37.86349,144.899,Australia
+3580,Williamstown North,-37.85515,144.88259,Australia
+3581,Winchelsea,-38.24485,143.98322,Australia
+3582,Windsor,-37.85344,144.99241,Australia
+3583,Wodonga,-36.14469,146.88818,Australia
+3584,Wollert,-37.58333,145.03333,Australia
+3585,Wonga Park,-37.73333,145.26667,Australia
+3586,Wonthaggi,-38.60586,145.59355,Australia
+3587,Woodend,-37.35469,144.52902,Australia
+3588,Woori Yallock,-37.78062,145.53819,Australia
+3589,Wurruk,-38.11667,147.03333,Australia
+3590,Wy Yung,-37.8,147.58333,Australia
+3591,Wyndham,-37.8928,144.63573,Australia
+3592,Wyndham Vale,-37.89138,144.62368,Australia
+3593,Yackandandah,-36.31371,146.83958,Australia
+3594,Yallambie,-37.72515,145.09352,Australia
+3595,Yallourn North,-38.16053,146.36449,Australia
+3596,Yarra,-37.80178,144.99593,Australia
+3597,Yarra Glen,-37.65794,145.37416,Australia
+3598,Yarra Junction,-37.78192,145.6143,Australia
+3599,Yarra Ranges,-37.75006,145.73708,Australia
+3600,Yarragon,-38.20525,146.06079,Australia
+3601,Yarram,-38.56479,146.67557,Australia
+3602,Yarrambat,-37.63751,145.13486,Australia
+3603,Yarraville,-37.81667,144.9,Australia
+3604,Yarrawonga,-36.01923,145.99973,Australia
+3605,Yarriambiack,-36.02618,142.40452,Australia
+3606,Yea,-37.21067,145.42755,Australia
+3607,Western Australia,0.0,0.0,Australia
+3608,Abbey,-33.66364,115.25635,Australia
+3609,Albany,-34.7099,118.12345,Australia
+3610,Albany city centre,-35.02479,117.88472,Australia
+3611,Alexander Heights,-31.82758,115.86501,Australia
+3612,Alfred Cove,-32.03316,115.81259,Australia
+3613,Alkimos,-31.63039,115.68638,Australia
+3614,Applecross,-32.01667,115.83333,Australia
+3615,Ardross,-32.02696,115.83548,Australia
+3616,Armadale,-32.17887,116.1275,Australia
+3617,Ascot,-31.93818,115.92258,Australia
+3618,Ashburton,-22.27674,116.90057,Australia
+3619,Ashby,-31.73255,115.79768,Australia
+3620,Ashfield,-31.91721,115.93796,Australia
+3621,Attadale,-32.02489,115.802,Australia
+3622,Atwell,-32.14346,115.86528,Australia
+3623,Aubin Grove,-32.16714,115.86264,Australia
+3624,Augusta,-34.31566,115.15922,Australia
+3625,Augusta-Margaret River Shire,-34.1152,115.32277,Australia
+3626,Australind,-33.2792,115.71504,Australia
+3627,Aveley,-31.78132,115.98959,Australia
+3628,Bakers Hill,-31.74692,116.45866,Australia
+3629,Balcatta,-31.87501,115.82839,Australia
+3630,Baldivis,-32.32889,115.83047,Australia
+3631,Balga,-31.85497,115.83986,Australia
+3632,Ballajura,-31.84062,115.89549,Australia
+3633,Banjup,-32.14179,115.88671,Australia
+3634,Banksia Grove,-31.69615,115.80501,Australia
+3635,Bassendean,-31.90584,115.94501,Australia
+3636,Bateman,-32.05547,115.84737,Australia
+3637,Baynton,-20.75164,116.80139,Australia
+3638,Bayonet Head,-34.97305,117.93446,Australia
+3639,Bayswater,-31.91181,115.9087,Australia
+3640,Beachlands,-28.7857,114.60192,Australia
+3641,Beaconsfield,-32.06748,115.76401,Australia
+3642,Beckenham,-32.02481,115.95989,Australia
+3643,Bedford,-31.91132,115.8892,Australia
+3644,Bedfordale,-32.17406,116.0504,Australia
+3645,Beechboro,-31.86515,115.93661,Australia
+3646,Beeliar,-32.13339,115.80637,Australia
+3647,Beldon,-31.77466,115.7627,Australia
+3648,Bellevue,-31.90116,116.02762,Australia
+3649,Belmont,-31.95458,115.94218,Australia
+3650,Bennett Springs,-31.85941,115.94512,Australia
+3651,Bentley,-32.00224,115.92473,Australia
+3652,Beresford,-28.75754,114.61965,Australia
+3653,Bertram,-32.24369,115.84572,Australia
+3654,Beverley,-32.10839,116.92736,Australia
+3655,Bibra Lake,-32.09764,115.81921,Australia
+3656,Bicton,-32.02778,115.78333,Australia
+3657,Bilingurr,-17.90909,122.22921,Australia
+3658,Bindoon,-31.38663,116.09664,Australia
+3659,Binningup,-33.1483,115.69519,Australia
+3660,Bluff Point,-28.7374,114.62278,Australia
+3661,Boddington,-32.79195,116.41883,Australia
+3662,Booragoon,-32.03945,115.83369,Australia
+3663,Boulder,-30.78204,121.4912,Australia
+3664,Boyanup,-33.48295,115.72838,Australia
+3665,Boyup Brook,-33.88555,116.51885,Australia
+3666,Brabham,-31.82728,115.97417,Australia
+3667,Brentwood,-32.04347,115.85246,Australia
+3668,Bridgetown,-33.96242,116.13598,Australia
+3669,Bridgetown-Greenbushes,-33.99234,116.22502,Australia
+3670,Broadwater,-33.66304,115.2842,Australia
+3671,Brockman,-24.88126,113.65365,Australia
+3672,Brookdale,-32.16696,116.00193,Australia
+3673,Brookton,-32.35533,116.99994,Australia
+3674,Broome,-17.94041,122.64038,Australia
+3675,Broomehill-Tambellup,-34.0132,117.65297,Australia
+3676,Bruce Rock,-31.96651,118.02385,Australia
+3677,Brunswick,-33.2324,115.86282,Australia
+3678,Bulgarra,-20.72584,116.85673,Australia
+3679,Bull Creek,-32.05625,115.86242,Australia
+3680,Bullsbrook,-31.66905,115.9999,Australia
+3681,Bunbury,-33.32711,115.64137,Australia
+3682,Burns Beach,-31.7206,115.7205,Australia
+3683,Burswood,-31.95872,115.90396,Australia
+3684,Busselton,-33.68477,115.3708,Australia
+3685,Busselton city cenre,-33.65078,115.34932,Australia
+3686,Butler,-31.64298,115.70431,Australia
+3687,Byford,-32.22099,116.009,Australia
+3688,Cable Beach,-17.96098,122.21269,Australia
+3689,Calista,-32.241,115.79763,Australia
+3690,Cambridge,-31.93542,115.79887,Australia
+3691,Camillo,-32.11292,116.00205,Australia
+3692,Canning,-32.04923,115.91943,Australia
+3693,Canning Vale,-32.05799,115.91814,Australia
+3694,Cannington,-32.01625,115.93648,Australia
+3695,Capel,-33.52704,115.61813,Australia
+3696,Cardup,-32.25802,115.98512,Australia
+3697,Carey Park,-33.34878,115.6493,Australia
+3698,Carine,-31.8523,115.78258,Australia
+3699,Carlisle,-31.97945,115.91808,Australia
+3700,Carnamah,-29.80411,115.59402,Australia
+3701,Carnarvon,-24.88258,113.65713,Australia
+3702,Carramar,-31.69023,115.77159,Australia
+3703,Castletown,-33.83237,121.91563,Australia
+3704,Casuarina,-32.24143,115.8698,Australia
+3705,Caversham,-31.88333,115.96667,Australia
+3706,Champion Lakes,-32.11913,115.98617,Australia
+3707,Chapman Valley,-28.27249,115.02794,Australia
+3708,Chidlow,-31.86094,116.27243,Australia
+3709,Chittering,-31.35829,116.05131,Australia
+3710,Churchlands,-31.92142,115.79322,Australia
+3711,City Beach,-31.9344,115.76174,Australia
+3712,City of Cockburn,-32.10264,115.84431,Australia
+3713,City of Perth,-31.94978,115.85383,Australia
+3714,Claremont,-31.98127,115.77942,Australia
+3715,Clarkson,-31.68282,115.7247,Australia
+3716,Cloverdale,-31.96281,115.94428,Australia
+3717,Cockburn Central,-32.12133,115.84776,Australia
+3718,College Grove,-33.37587,115.65906,Australia
+3719,Collie,-33.27353,116.16558,Australia
+3720,Como,-31.99119,115.86336,Australia
+3721,Connolly,-31.74864,115.75053,Australia
+3722,Coodanup,-32.55187,115.75352,Australia
+3723,Coogee,-32.11934,115.7665,Australia
+3724,Coolbellup,-32.08124,115.80606,Australia
+3725,Coolbinia,-31.9147,115.84894,Australia
+3726,Coolgardie,-31.01438,121.20462,Australia
+3727,Cooloongup,-32.31506,115.77772,Australia
+3728,Coorow,-29.97865,115.65613,Australia
+3729,Corrigin,-32.37599,117.81023,Australia
+3730,Cottesloe,-31.99905,115.76089,Australia
+3731,Cowaramup,-33.85036,115.10379,Australia
+3732,Craigie,-31.78727,115.76989,Australia
+3733,Cranbrook,-34.33414,117.32898,Australia
+3734,Crawley,-31.98418,115.81603,Australia
+3735,Cuballing,-32.74026,117.15497,Australia
+3736,Cue,-27.22633,118.00496,Australia
+3737,Cunderdin,-31.61259,117.11803,Australia
+3738,Currambine,-31.73306,115.74766,Australia
+3739,Daglish,-31.95177,115.8088,Australia
+3740,Dalkeith,-31.99517,115.7998,Australia
+3741,Dalwallinu,-30.12998,116.98401,Australia
+3742,Dalyellup,-33.40844,115.61506,Australia
+3743,Dampier,-20.66275,116.71256,Australia
+3744,Dampier Peninsula,-16.93241,122.86559,Australia
+3745,Dandaragan,-30.54142,115.46132,Australia
+3746,Darch,-31.81255,115.8458,Australia
+3747,Dardanup,-33.41611,115.8741,Australia
+3748,Darling Downs,-32.19442,115.99187,Australia
+3749,Darlington,-31.91906,116.0812,Australia
+3750,Dawesville,-32.63229,115.62904,Australia
+3751,Dayton,-31.85251,115.97494,Australia
+3752,Denham,-25.92679,113.53327,Australia
+3753,Denmark,-34.93473,117.37518,Australia
+3754,Derby,-17.30295,123.62864,Australia
+3755,Derby-West Kimberley,-17.50447,125.28014,Australia
+3756,Dianella,-31.88822,115.87186,Australia
+3757,Djugun,-17.95395,122.22792,Australia
+3758,Dongara,-29.25818,114.93276,Australia
+3759,Donnybrook,-33.5713,115.82446,Australia
+3760,Donnybrook-Balingup,-33.70217,115.97778,Australia
+3761,Doubleview,-31.89627,115.78155,Australia
+3762,Dowerin,-31.11328,117.10566,Australia
+3763,Drummond Cove,-28.67379,114.6128,Australia
+3764,Dudley Park,-32.55221,115.731,Australia
+3765,Dumbleyung Shire,-33.2178,117.9875,Australia
+3766,Duncraig,-31.83291,115.7759,Australia
+3767,Dundas,-32.12502,124.50582,Australia
+3768,Dunsborough,-33.61476,115.10445,Australia
+3769,East Bunbury,-33.33619,115.66041,Australia
+3770,East Cannington,-32.0098,115.95503,Australia
+3771,East Carnarvon,-24.86397,113.67768,Australia
+3772,East Fremantle,-32.03654,115.76714,Australia
+3773,East Perth,-31.95872,115.87109,Australia
+3774,East Pilbara,-21.61331,123.71368,Australia
+3775,East Victoria Park,-31.98894,115.90388,Australia
+3776,Eaton,-33.31664,115.70503,Australia
+3777,Eden Hill,-31.88908,115.94675,Australia
+3778,Edgewater,-31.76547,115.78223,Australia
+3779,Eglinton,-31.58677,115.68878,Australia
+3780,Ellenbrook,-31.76737,115.96936,Australia
+3781,Embleton,-31.90355,115.90902,Australia
+3782,Erskine,-32.55717,115.70657,Australia
+3783,Esperance,-33.85919,121.89164,Australia
+3784,Esperance Shire,-33.5197,122.15586,Australia
+3785,Exmouth,-22.03643,114.04358,Australia
+3786,Falcon,-32.58244,115.66199,Australia
+3787,Ferndale,-32.03494,115.92233,Australia
+3788,Fitzroy Crossing,-18.19714,125.56663,Australia
+3789,Floreat,-31.93862,115.79211,Australia
+3790,Forrestdale,-32.1552,115.93417,Australia
+3791,Forrestfield,-31.98277,116.00673,Australia
+3792,Fremantle,-32.05165,115.76379,Australia
+3793,Garden Island,-32.24264,115.69505,Australia
+3794,Gelorup,-33.42425,115.64094,Australia
+3795,Geographe,-33.63974,115.38358,Australia
+3796,Geraldton,-28.77897,114.61459,Australia
+3797,Geraldton city centre,-28.77754,114.61494,Australia
+3798,Gidgegannup,-31.75441,116.18746,Australia
+3799,Gingin,-31.18435,115.65944,Australia
+3800,Girrawheen,-31.84103,115.83978,Australia
+3801,Glen Forrest,-31.91929,116.10726,Australia
+3802,Glen Iris,-33.33713,115.6743,Australia
+3803,Glendalough,-31.91991,115.81945,Australia
+3804,Gnangara,-31.77612,115.86623,Australia
+3805,Gnowangerup,-34.08658,118.29832,Australia
+3806,Golden Bay,-32.42505,115.76099,Australia
+3807,Goomalling,-31.23457,116.79142,Australia
+3808,Gooseberry Hill,-31.95444,116.0492,Australia
+3809,Gosnells,-32.06763,116.00203,Australia
+3810,Grasmere,-35.01806,117.75556,Australia
+3811,Greenfields,-32.52429,115.76315,Australia
+3812,Greenmount,-31.90072,116.0495,Australia
+3813,Greenwood,-31.82723,115.80247,Australia
+3814,Guildford,-31.9,115.96667,Australia
+3815,Gwelup,-31.87163,115.79484,Australia
+3816,Halls Creek,-19.00069,127.45204,Australia
+3817,Halls Head,-32.54315,115.69665,Australia
+3818,Hamersley,-31.84898,115.80757,Australia
+3819,Hamilton Hill,-32.08451,115.77946,Australia
+3820,Hammond Park,-32.16853,115.8504,Australia
+3821,Hannans,-30.71909,121.4548,Australia
+3822,Harrisdale,-32.11084,115.93563,Australia
+3823,Harvey,-33.14976,115.93376,Australia
+3824,Heathridge,-31.76244,115.75895,Australia
+3825,Helena Valley,-31.91938,116.03982,Australia
+3826,Henley Brook,-31.81393,115.98807,Australia
+3827,Herne Hill,-31.82553,116.0227,Australia
+3828,High Wycombe,-31.94444,116.0034,Australia
+3829,Highgate,-31.93971,115.87015,Australia
+3830,Hilbert,-32.17818,115.9849,Australia
+3831,Hillarys,-31.80698,115.74045,Australia
+3832,Hillman,-32.28327,115.76364,Australia
+3833,Hilton,-32.06208,115.78049,Australia
+3834,Hocking,-31.77012,115.81832,Australia
+3835,Huntingdale,-32.08318,115.96614,Australia
+3836,Iluka,-31.73554,115.73058,Australia
+3837,Inglewood,-31.91663,115.8798,Australia
+3838,Innaloo,-31.89272,115.79508,Australia
+3839,Irwin,-29.34192,115.04561,Australia
+3840,Jandakot,-32.10158,115.87083,Australia
+3841,Jane Brook,-31.86368,116.05039,Australia
+3842,Jarrahdale,-32.3358,116.05951,Australia
+3843,Jerramungup,-34.0305,119.11369,Australia
+3844,Jindalee,-31.64938,115.69496,Australia
+3845,Jolimont,-31.94564,115.80947,Australia
+3846,Joondalup,-31.77962,115.76498,Australia
+3847,Joondanna,-31.90767,115.84233,Australia
+3848,Jurien Bay,-30.30591,115.03825,Australia
+3849,Kalamunda,-32.00398,116.13292,Australia
+3850,Kalbarri,-27.7105,114.16505,Australia
+3851,Kalgoorlie,-30.74614,121.4742,Australia
+3852,Kalgoorlie/Boulder,-30.77632,124.92347,Australia
+3853,Kallaroo,-31.79098,115.75298,Australia
+3854,Kambalda East,-31.2055,121.67011,Australia
+3855,Kambalda West,-31.20169,121.6306,Australia
+3856,Karawara,-32.0086,115.88114,Australia
+3857,Kardinya,-32.06561,115.81483,Australia
+3858,Karnup,-32.41894,115.79267,Australia
+3859,Karratha,-20.73765,116.84629,Australia
+3860,Karrinyup,-31.87233,115.77684,Australia
+3861,Katanning,-33.62476,117.63965,Australia
+3862,Kellerberrin,-31.57709,117.80561,Australia
+3863,Kelmscott,-32.12434,116.0259,Australia
+3864,Kent Shire,-33.53881,118.66993,Australia
+3865,Kenwick,-32.03333,115.96667,Australia
+3866,Kewdale,-31.97886,115.95159,Australia
+3867,Kiara,-31.88156,115.93893,Australia
+3868,Kingsley,-31.81036,115.80077,Australia
+3869,Kinross,-31.71868,115.73839,Australia
+3870,Kojonup,-33.92546,117.03982,Australia
+3871,Kondinin,-32.48431,119.0242,Australia
+3872,Koondoola,-31.84145,115.86654,Australia
+3873,Koorda,-30.60412,117.40736,Australia
+3874,Kulin,-32.66096,118.57544,Australia
+3875,Kununurra,-15.77825,128.74208,Australia
+3876,Kwinana,-32.23391,115.82785,Australia
+3877,Lake Grace,-33.1291,119.42041,Australia
+3878,Lakelands,-32.47157,115.77291,Australia
+3879,Lamington,-30.73425,121.46163,Australia
+3880,Landsdale,-31.8075,115.86599,Australia
+3881,Langford,-32.04092,115.94157,Australia
+3882,Lathlain,-31.96755,115.90631,Australia
+3883,Laverton,-27.93793,125.27127,Australia
+3884,Leda,-32.26766,115.7993,Australia
+3885,Leederville,-31.93628,115.8419,Australia
+3886,Leeming,-32.07511,115.86613,Australia
+3887,Leinster,-27.92028,120.6967,Australia
+3888,Leonora,-28.39424,121.2596,Australia
+3889,Leschenault,-33.24519,115.7251,Australia
+3890,Lesmurdie,-32.00199,116.04821,Australia
+3891,Little Grove,-35.06803,117.87197,Australia
+3892,Lockridge,-31.88168,115.95031,Australia
+3893,Lockyer,-35.00567,117.85875,Australia
+3894,Lower Chittering,-31.58333,116.11667,Australia
+3895,Lower King,-34.95778,117.93833,Australia
+3896,Lynwood,-32.04013,115.92888,Australia
+3897,Maddington,-32.05,115.98333,Australia
+3898,Madeley,-31.8111,115.82814,Australia
+3899,Madora Bay,-32.46951,115.75264,Australia
+3900,Maida Vale,-31.95187,116.02764,Australia
+3901,Mandurah,-32.5269,115.7217,Australia
+3902,Mandurah city centre,-32.52644,115.73361,Australia
+3903,Manjimup,-34.59789,116.26566,Australia
+3904,Manning,-32.01594,115.86714,Australia
+3905,Marangaroo,-31.82711,115.83843,Australia
+3906,Marble Bar,-21.17067,119.74441,Australia
+3907,Margaret River,-33.95504,115.07599,Australia
+3908,Marmion,-31.84158,115.75692,Australia
+3909,Martin,-32.07549,116.04536,Australia
+3910,Maylands,-31.93097,115.89486,Australia
+3911,McKail,-34.98533,117.8301,Australia
+3912,Meadow Springs,-32.49718,115.75334,Australia
+3913,Medina,-32.23406,115.79901,Australia
+3914,Meekatharra,-25.3033,118.99974,Australia
+3915,Melville,-32.04325,115.83408,Australia
+3916,Menora,-31.91889,115.86208,Australia
+3917,Menzies,-29.39176,123.71878,Australia
+3918,Merredin,-31.46054,118.38509,Australia
+3919,Merriwa,-31.66494,115.71273,Australia
+3920,Middle Swan,-31.85,116.01667,Australia
+3921,Midland,-31.88909,116.0107,Australia
+3922,Midvale,-31.88881,116.03288,Australia
+3923,Millars Well,-20.74168,116.81731,Australia
+3924,Millbridge,-33.30617,115.735,Australia
+3925,Mindarie,-31.68932,115.70698,Australia
+3926,Mingenew,-29.14515,115.50123,Australia
+3927,Mira Mar,-35.01517,117.90096,Australia
+3928,Mirrabooka,-31.85963,115.86587,Australia
+3929,Moora,-30.51218,116.2098,Australia
+3930,Morawa,-29.03545,116.05643,Australia
+3931,Morley,-31.88775,115.9099,Australia
+3932,Mosman Park,-32.01421,115.76613,Australia
+3933,Mount Barker,-34.63084,117.66606,Australia
+3934,Mount Claremont,-31.96177,115.78337,Australia
+3935,Mount Hawthorn,-31.92,115.83509,Australia
+3936,Mount Helena,-31.87606,116.21025,Australia
+3937,Mount Lawley,-31.93439,115.8716,Australia
+3938,Mount Magnet,-28.29082,117.96655,Australia
+3939,Mount Marshall,-30.29376,118.00063,Australia
+3940,Mount Melville,-35.02216,117.87137,Australia
+3941,Mount Nasura,-32.1378,116.02473,Australia
+3942,Mount Pleasant,-32.03974,115.84993,Australia
+3943,Mount Richon,-32.17349,116.02137,Australia
+3944,Mount Tarcoola,-28.79859,114.6253,Australia
+3945,Mukinbudin,-30.63684,118.28648,Australia
+3946,Mullaloo,-31.77896,115.73676,Australia
+3947,Mundaring,-31.88456,116.21551,Australia
+3948,Mundijong,-32.29217,115.98564,Australia
+3949,Munster,-32.13647,115.78302,Australia
+3950,Murchison,-27.00893,116.41205,Australia
+3951,Murdoch,-32.06987,115.83757,Australia
+3952,Murray,-32.62391,115.96538,Australia
+3953,Myaree,-32.04,115.81761,Australia
+3954,Nannup,-34.13466,115.67375,Australia
+3955,Narembeen,-32.02206,118.6899,Australia
+3956,Narrogin,-32.93282,117.17763,Australia
+3957,Nedlands,-31.97994,115.79942,Australia
+3958,Newman,-23.35644,119.73553,Australia
+3959,Ngaanyatjarraku,-25.08871,126.83494,Australia
+3960,Nickol,-20.74558,116.7954,Australia
+3961,Nollamara,-31.88016,115.84543,Australia
+3962,Noranda,-31.87333,115.89901,Australia
+3963,North Beach,-31.86298,115.75624,Australia
+3964,North Coogee,-32.09505,115.75972,Australia
+3965,North Fremantle,-32.03333,115.75,Australia
+3966,North Lake,-32.0819,115.83567,Australia
+3967,North Perth,-31.92724,115.85276,Australia
+3968,Northam,-31.69898,116.64964,Australia
+3969,Northampton Shire,-28.04956,114.49589,Australia
+3970,Northbridge,-31.94784,115.85881,Australia
+3971,Nullagine,-21.88972,120.1114,Australia
+3972,Nulsen,-33.85696,121.87499,Australia
+3973,Nungarin,-31.13714,118.21768,Australia
+3974,Oakford,-32.20094,115.93391,Australia
+3975,Ocean Reef,-31.75871,115.73601,Australia
+3976,Onslow,-21.63764,115.11221,Australia
+3977,Orana,-34.99601,117.85925,Australia
+3978,Orelia,-32.2333,115.82227,Australia
+3979,Osborne Park,-31.90066,115.81083,Australia
+3980,Padbury,-31.80645,115.7688,Australia
+3981,Palmyra,-32.04502,115.78589,Australia
+3982,Paraburdoo,-23.20417,117.66973,Australia
+3983,Parkerville,-31.87472,116.138,Australia
+3984,Parkwood,-32.04913,115.91838,Australia
+3985,Parmelia,-32.25784,115.82208,Australia
+3986,Pearce,-31.66667,116.01667,Australia
+3987,Pearsall,-31.78117,115.81823,Australia
+3988,Pegs Creek,-20.7383,116.83278,Australia
+3989,Pemberton,-34.44311,116.03689,Australia
+3990,Peppermint Grove,-31.99885,115.76697,Australia
+3991,Perenjori,-29.39784,116.53543,Australia
+3992,Perth,-31.95224,115.8614,Australia
+3993,Perth city centre,-31.95289,115.85152,Australia
+3994,Piara Waters,-32.13344,115.91634,Australia
+3995,Piccadilly,-30.7428,121.46418,Australia
+3996,Pingelly,-32.53174,117.20004,Australia
+3997,Pinjarra,-32.6298,115.87351,Australia
+3998,Plantagenet Shire,-34.62508,117.59753,Australia
+3999,Port Denison,-29.27367,114.92068,Australia
+4000,Port Hedland,-20.79258,118.63264,Australia
+4001,Port Kennedy,-32.37342,115.7515,Australia
+4002,Quairading,-32.01462,117.39835,Australia
+4003,Queens Park,-32.00314,115.94621,Australia
+4004,Quindalup,-33.6356,115.14899,Australia
+4005,Quinns Rocks,-31.67379,115.70372,Australia
+4006,Rangeway,-28.78665,114.63059,Australia
+4007,Ravensthorpe,-33.68375,120.15338,Australia
+4008,Ravenswood,-32.5824,115.8315,Australia
+4009,Redcliffe,-31.93845,115.94645,Australia
+4010,Ridgewood,-31.6615,115.72261,Australia
+4011,Riverton,-32.03468,115.89856,Australia
+4012,Rivervale,-31.95546,115.91306,Australia
+4013,Rockingham,-32.28239,115.73238,Australia
+4014,Rockingham city centre,-32.28407,115.7354,Australia
+4015,Roebuck,-18.1713,122.50116,Australia
+4016,Roleystone,-32.11458,116.0706,Australia
+4017,Rossmoyne,-32.03965,115.86781,Australia
+4018,Safety Bay,-32.30463,115.74213,Australia
+4019,Salter Point,-32.02384,115.86582,Australia
+4020,Samson,-32.06996,115.7977,Australia
+4021,Sandstone,-28.42189,118.98846,Australia
+4022,Scarborough,-31.89578,115.76431,Australia
+4023,Secret Harbour,-32.40589,115.75852,Australia
+4024,Serpentine,-32.36051,115.97723,Australia
+4025,Serpentine-Jarrahdale,-32.32452,116.04507,Australia
+4026,Seville Grove,-32.13645,115.98905,Australia
+4027,Shark Bay,-26.38916,114.21845,Australia
+4028,Shelley,-32.02957,115.88664,Australia
+4029,Shenton Park,-31.95575,115.79807,Australia
+4030,Shoalwater,-32.29088,115.71101,Australia
+4031,Silver Sands,-32.50857,115.73599,Australia
+4032,Sinagra,-31.74261,115.80633,Australia
+4033,Singleton,-32.44403,115.75725,Australia
+4034,Somerville,-30.76979,121.45438,Australia
+4035,Sorrento,-31.82533,115.75248,Australia
+4036,South Bunbury,-33.3491,115.63359,Australia
+4037,South Carnarvon,-24.89348,113.65846,Australia
+4038,South Fremantle,-32.06907,115.75453,Australia
+4039,South Guildford,-31.9122,115.96825,Australia
+4040,South Hedland,-20.40655,118.60069,Australia
+4041,South Kalgoorlie,-30.76507,121.47334,Australia
+4042,South Lake,-32.11125,115.83873,Australia
+4043,South Perth,-31.99884,115.87222,Australia
+4044,South Yunderup,-32.5851,115.78015,Australia
+4045,Southern River,-32.10658,115.95896,Australia
+4046,Spalding,-28.73525,114.63651,Australia
+4047,Spearwood,-32.10534,115.77797,Australia
+4048,Spencer Park,-35.00515,117.90005,Australia
+4049,St George Ranges,-18.98204,125.00873,Australia
+4050,St James,-32.00004,115.9098,Australia
+4051,Stirling,-31.8794,115.80929,Australia
+4052,Stoneville,-30.86667,121.76667,Australia
+4053,Strathalbyn,-28.75168,114.64576,Australia
+4054,Stratton,-31.86828,116.04066,Australia
+4055,Subiaco,-31.95964,115.81564,Australia
+4056,Success,-32.14281,115.84999,Australia
+4057,Sunset Beach,-28.71907,114.62297,Australia
+4058,Swan,-31.77039,116.08746,Australia
+4059,Swan View,-31.88333,116.05,Australia
+4060,Swanbourne,-31.96878,115.7673,Australia
+4061,Tammin,-31.60512,117.48306,Australia
+4062,Tapping,-31.71947,115.79559,Australia
+4063,Tarcoola Beach,-28.81001,114.62236,Australia
+4064,Telfer,-21.21169,123.26175,Australia
+4065,The Vines,-31.75492,116.00238,Australia
+4066,Thornlie,-32.06003,115.955,Australia
+4067,Three Springs,-29.51386,115.63158,Australia
+4068,Tom Price,-22.6939,117.7931,Australia
+4069,Toodyay,-31.46991,116.38804,Australia
+4070,Trayning,-31.16681,117.83812,Australia
+4071,Trigg,-31.86939,115.7571,Australia
+4072,Tuart Hill,-31.89808,115.83495,Australia
+4073,Two Rocks,-31.49985,115.58737,Australia
+4074,Upper Gascoyne,-24.71935,116.33876,Australia
+4075,Usher,-33.37982,115.6292,Australia
+4076,Utakarra,-28.78333,114.65,Australia
+4077,Vasse,-33.69337,115.2678,Australia
+4078,Victoria Park,-31.97651,115.90592,Australia
+4079,Victoria Plains,-31.01632,116.28546,Australia
+4080,Vincent,-31.93138,115.85412,Australia
+4081,Viveash,-31.87861,115.99661,Australia
+4082,Waggrakine,-28.71883,114.63924,Australia
+4083,Wagin,-33.27501,117.38554,Australia
+4084,Waikiki,-32.31606,115.7546,Australia
+4085,Wandering,-32.52589,116.56668,Australia
+4086,Wandi,-32.1943,115.8763,Australia
+4087,Wandina,-28.81938,114.63464,Australia
+4088,Wannanup,-32.59946,115.64488,Australia
+4089,Wanneroo,-31.65293,115.72211,Australia
+4090,Warnbro,-32.34017,115.7473,Australia
+4091,Waroona,-32.84916,115.90429,Australia
+4092,Warwick,-31.83974,115.80855,Australia
+4093,Waterford,-32.01574,115.88662,Australia
+4094,Watermans Bay,-31.84915,115.7559,Australia
+4095,Wattle Grove,-32.00672,116.00046,Australia
+4096,Wellard,-32.26667,115.83333,Australia
+4097,Wembley,-31.93308,115.81783,Australia
+4098,Wembley Downs,-31.91169,115.77358,Australia
+4099,West Arthur,-33.44057,116.68597,Australia
+4100,West Beach,-33.87464,121.89013,Australia
+4101,West Busselton,-33.65792,115.32293,Australia
+4102,West Lamington,-30.74707,121.45248,Australia
+4103,West Leederville,-31.94141,115.83117,Australia
+4104,West Perth,-31.94896,115.84199,Australia
+4105,Westminster,-31.86744,115.83919,Australia
+4106,Westonia,-30.88436,118.72974,Australia
+4107,White Gum Valley,-32.06031,115.77058,Australia
+4108,Wickepin,-32.82211,117.63996,Australia
+4109,Wickham,-20.67474,117.13784,Australia
+4110,Willagee,-32.05196,115.80533,Australia
+4111,Willetton,-32.05251,115.88782,Australia
+4112,Williams,-33.05217,116.70943,Australia
+4113,Wilson,-32.02058,115.91181,Australia
+4114,Wiluna,-25.3663,121.93243,Australia
+4115,Winthrop,-32.05216,115.82972,Australia
+4116,Withers,-33.36807,115.6305,Australia
+4117,Wongan-Ballidu,-30.73138,116.84854,Australia
+4118,Wonthella,-28.76689,114.63338,Australia
+4119,Woodanilling,-33.51937,117.3358,Australia
+4120,Woodbridge,-31.88695,115.99196,Australia
+4121,Woodvale,-31.78928,115.79676,Australia
+4122,Wooroloo,-31.8038,116.31311,Australia
+4123,Woorree,-28.76677,114.65806,Australia
+4124,Wundowie,-31.76163,116.3799,Australia
+4125,Wyalkatchem,-31.19528,117.44682,Australia
+4126,Wyndham-East Kimberley,-15.51291,126.58779,Australia
+4127,Yakamia,-35.00392,117.87828,Australia
+4128,Yalgoo,-28.48787,117.15818,Australia
+4129,Yallingup,-33.64592,115.03514,Australia
+4130,Yalyalup,-33.67496,115.41449,Australia
+4131,Yanchep,-31.54678,115.63171,Australia
+4132,Yangebup,-32.12065,115.81623,Australia
+4133,Yilgarn,-30.90938,119.25881,Australia
+4134,Yokine,-31.90113,115.85319,Australia
+4135,York,-31.88809,116.7678,Australia

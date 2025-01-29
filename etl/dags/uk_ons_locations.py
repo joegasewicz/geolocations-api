@@ -19,43 +19,21 @@ from sqlalchemy import (
     Float,
 )
 
-DB_NAME = "location_etl_db"
-DB_PORT = 5433
-DB_USERNAME = "admin"
-DB_PASSWORD = "admin"
-DB_HOST = "host.docker.internal"
+from utils.config import Config
+from utils.database import get_pg_conn
+from utils.load import Load
 
 
-def get_pg_conn() -> str:
-    return f"postgresql+psycopg2://{DB_USERNAME}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+config = Config()
 
 
 def dump_dataframe(ti: TaskInstance):
     transform_file_path = ti.xcom_pull(task_ids="transform", key="transform_file_path")
-    engine = create_engine(get_pg_conn())
+    engine = create_engine(get_pg_conn(config))
     df = pd.read_csv(transform_file_path, index_col=0)
     # database
-    metadata = MetaData()
-    locations_table = Table("locations", metadata,
-        Column("id", Integer, primary_key=True),
-        Column("town", String(255)),
-        Column("longitude", Float(8)),
-        Column("latitude", Float(8)),
-        Column("iso_3166_1", String(255)),
-        Column("country", String(255)),
-    )
-    try:
-       with engine.connect() as conn:
-           metadata.create_all(conn)
-           df_dict = df.to_dict("records")
-           locations_insert = locations_table.insert().values(df_dict)
-           conn.execute(locations_insert)
-           print("locations data inserted successfully.")
-    except SQLAlchemyError as err:
-        print(f"[Full Error]: {str(err)}")
-        print(f"Error dumping {transform_file_path}")
-    finally:
-        engine.dispose()
+    load = Load(engine=engine, df_dict=df, file_path=transform_file_path)
+    load.run()
 
 
 def extract(ti: TaskInstance):
@@ -83,7 +61,6 @@ def transform(ti: TaskInstance):
         "LONG": "longitude",
         "LAT": "latitude",
     })
-    df["iso_3166_1"] = "GB-ENG"
     df["country"] = "England"
     df.to_csv(transform_file_path)
     ti.xcom_push(key="transform_file_path", value=transform_file_path)
@@ -96,7 +73,7 @@ default_args = {
 }
 
 with DAG(
-    dag_id="uk-ons-locations-dag-v1",
+    dag_id="uk-ons-locations-dag-v3",
     default_args=default_args,
     description="DAG for loading ONS locations data to postgres",
     schedule_interval="@once",
@@ -136,7 +113,6 @@ with DAG(
             town VARCHAR(255) NOT NULL,
             longtitude double precision,
             latitude double precision,
-            iso_3166_1 VARCHAR(255) NOT NULL,
             country VARCHAR(255) NOT NULL
         );
         """
